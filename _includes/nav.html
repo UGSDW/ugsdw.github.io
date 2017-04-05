@@ -1,0 +1,14 @@
+{% assign navurl = page.url | remove: 'index.html' %}
+{% for item in include.items %}
+    <li {% if item.subitems %} class="subitem" {% endif %}>
+        <a href="{{ item.url }}"
+           {% if item.url == navurl %} class="active" {% endif %}>
+            <span>{{ item.text }}</span>
+        </a>
+        {% if item.subitems %}
+            <ul class="submenu">
+                {% include nav.html items=item.subitems %}
+            </ul>
+        {% endif %}
+    </li>
+{% endfor %}

@@ -1,0 +1,9 @@
+- text: Home
+  url: /
+- text: About
+  url: /about/
+  subitems:
+      - text: Test
+        url: /about/test/
+      - text: Second
+        url: /about/test2/

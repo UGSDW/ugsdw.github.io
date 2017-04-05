@@ -1,0 +1,75 @@
+---
+---
+
+* 
+    box-sizing: border-box
+    position: relative
+
+body 
+    margin: 0
+
+.banner-img
+    height: 280px
+    background-image: url(/assets/banner.jpg)
+    background-size: cover
+    background-position: left bottom
+
+.main-logo
+    display: block
+    height: 160px
+    margin: 0 auto -160px
+    top: -220px
+
+nav
+    border-bottom: 1px solid lightgrey
+
+    ul
+        padding: 0
+
+    ul.main-menu
+        margin: 0
+        list-style: none
+        display: flex
+        justify-content: center
+
+        li
+            padding: 1em
+            display: inline-block
+            min-width: 64px
+            margin: 0 0.5em
+
+    a
+        font-size: 0.9rem
+        text-decoration: none
+        text-transform: uppercase
+        color: grey
+
+    a:not(.active):hover span
+        text-decoration: underline
+
+    .active
+        font-weight: bold
+
+    ul.submenu
+        position: absolute
+        border: 1px solid lightgrey
+        margin: 1em -1em
+        background: white
+        z-index: 10
+        display: none
+
+        li
+            margin-top: -1em
+
+        li:first-child
+            margin-top: 0
+
+    li:hover > ul.submenu,
+    ul.submenu:hover
+        display: block
+
+    li.subitem > a::after
+        content: "▼"
+        font-size: 80%
+        margin-left: 0.75em
+
