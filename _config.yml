@@ -1,0 +1,36 @@
+permalink: pretty
+prose:
+  rooturl: "_posts"
+  siteurl: "https://ugsdw.github.io/"
+  relativeLinks: "https://usgdw.github.io/links.jsonp"
+  media: "media"
+   metadata:
+    _posts:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+    _posts/static:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
