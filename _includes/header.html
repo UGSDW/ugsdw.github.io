@@ -1,12 +1,38 @@
 <header>
     <div class="banner">
-        <div class="banner-img"></div>
-        <img class="main-logo" src="/assets/logo_white.png">
+        <a href="https://facebook.com/ugsdw" target="_blank">
+            <img class="fb" src="/assets/facebook.png">
+        </a>
+
+        <a class="logo-wrapper" href="/">
+            <img class="main-logo" src="/assets/logo_white.png">
+        </a>
+
+        <nav class="main" id="left-nav">
+            <div>
+                <a href="/news/">Latest News</a>
+            </div>
+
+            <div class="dropdown">
+                <a href="/about/">About</a>
+                <ul>
+                    <li><a href="about/governing-docs">Governing Documents</a></li>
+                    <li><a href="about/contact">Contact</a></li>
+                </ul>
+            </div>
+        </nav>
+
+        <nav class="main" id="right-nav">
+            <div class="dropdown">
+                <a href="/members/">Members</a>
+                <ul>
+                    <li><a href="members/contract">Your Contract</a></li>
+                    <li><a href="members/rights">Your Rights</a></li>
+                    <li><a href="members/dues">Dues</a></li>
+                </ul>
+            </div>
+
+            <a class="join-nav-button" href="/join/">JOIN</a>
+        </nav>
     </div>
-    <!-- MENU -->
-    <nav>
-        <ul class="main-menu">
-            {% include nav.html items=site.data.menu%}
-        </ul>
-    </nav>
 </header>

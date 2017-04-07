@@ -1,75 +1,138 @@
 ---
 ---
 
+$red: #b22
+$gold: #dc2
+$darkgold: #cb0
+$grey: #ddd
+$overlay: rgba(0, 0, 0, 0.1)
+$doverlay: rgba(0, 0, 0, 0.5)
+
+$text-font: "Gentium Basic", serif
+$display-font: "Arvo", serif
+
 * 
     box-sizing: border-box
     position: relative
 
 body 
     margin: 0
+    font-family: $text-font
 
-.banner-img
-    height: 280px
-    background-image: url(/assets/banner.jpg)
-    background-size: cover
-    background-position: left bottom
+
+$banner-height: 180px
+$logo-height: 140px
+
+.banner 
+    background: $red
+    height: $banner-height
+
+a.logo-wrapper
+    display: block
+    margin: 0 auto
+    width: $logo-height
+    top: ($banner-height - $logo-height) / 2
 
 .main-logo
-    display: block
-    height: 160px
-    margin: 0 auto -160px
-    top: -220px
+    height: $logo-height
 
-nav
-    border-bottom: 1px solid lightgrey
+.fb
+    position: absolute
+    top: 12px
+    left: 6px
+    height: 20px
+    opacity: 0.5
 
-    ul
-        padding: 0
+nav.main
+    display: inline-block
+    position: absolute
+    height: 3em
+    bottom: calc(#{$banner-height / 2} - 1.5em)
+    display: flex
+    justify-content: space-around
+    width: calc(50% - #{$logo-height/2})
 
-    ul.main-menu
-        margin: 0
-        list-style: none
-        display: flex
-        justify-content: center
-
-        li
-            padding: 1em
-            display: inline-block
-            min-width: 64px
-            margin: 0 0.5em
+    div
+        padding: 1em
 
     a
-        font-size: 0.9rem
+        font-family: $display-font
+        color: white
         text-decoration: none
-        text-transform: uppercase
-        color: grey
 
-    a:not(.active):hover span
+    div:hover
+        background-color: $overlay
+
+nav#left-nav
+    left: 0
+
+nav#right-nav
+    right: 0
+
+.dropdown > ul
+    display: none
+    position: absolute
+    z-index: 10
+    background: white
+    border: 1px solid $grey
+    list-style: none
+    margin: 1em 0 0 -1em
+    padding: 1em
+    width: 15em
+
+    a
+        color: black
+        font-family: $text-font
+        margin-top: 0.5em
+
+    a:hover
         text-decoration: underline
 
-    .active
+    li
+        margin-top: 0.5em
+    li:first-child
+        margin-top: 0
+
+.dropdown:hover > ul
+    display: block
+
+.join-nav-button
+    padding: 1em
+    min-width: 5em
+    text-align: center
+    color: black !important
+    background: $gold 
+    font-weight: bold
+    transition: 200ms
+
+.join-nav-button:hover
+    background: $darkgold 
+
+.first-block 
+    background-image: url(/assets/front-picture.jpg)
+    background-position: 50% 65%
+    background-size: cover
+    background-color: #444
+    height: 400px
+    width: 100vw
+    display: flex
+    flex-direction: column
+    justify-content: space-around
+    text-align: center
+
+    span
+        font-family: $display-font
+        font-size: 3rem
         font-weight: bold
+        color: white
 
-    ul.submenu
-        position: absolute
-        border: 1px solid lightgrey
-        margin: 1em -1em
-        background: white
-        z-index: 10
-        display: none
-
-        li
-            margin-top: -1em
-
-        li:first-child
-            margin-top: 0
-
-    li:hover > ul.submenu,
-    ul.submenu:hover
-        display: block
-
-    li.subitem > a::after
-        content: "▼"
-        font-size: 80%
-        margin-left: 0.75em
-
+.first-block:before
+    content: ''
+    position: absolute
+    top: 0
+    bottom: 0
+    left: 0
+    right: 0
+    background-image: linear-gradient(black 0%, $doverlay 15%, $doverlay 75%, black 100%)
+    opacity: 0.5
+        
