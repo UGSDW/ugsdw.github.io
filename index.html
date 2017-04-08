@@ -10,7 +10,7 @@ layout: home
 <section class="latest-block">
     <h1>LATEST</h1>
     <div class="post-container">
-        {% for post in site.posts %}
+        {% for post in site.posts limit: 5 %}
         <a href="{{ post.url }}">
             <article>
                 {% assign images = post.content | split:'img ' %} 
@@ -30,7 +30,12 @@ layout: home
             </article>
         </a>
         {% endfor %}
-    <div>
+
+    </div>
+
+    <div style="text-align: center; margin-top: 2em">
+        <a class="button" href="/news/">See More</a>
+    </div>
 </section>
 
 <section class="benefits-block">
