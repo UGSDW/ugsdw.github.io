@@ -1,6 +1,7 @@
 ---
 title: Experience Pay Bonuses
 author: Cory McCartan
+published: true
 ---
 
 Don’t miss the opportunity to earn experience pay for the Fall 2016 semester!
@@ -16,4 +17,4 @@ If you work 110 hours exactly, that translates to a bonus of $27.50.  The bonus
 will be included in the last paycheck of the semester, which you should receive
 on January 15.
 
-(E-mail us)[mailto:ugsdw.org@gmail.com] with any questions about experience pay or the contract.
+[E-mail us](mailto:ugsdw.org@gmail.com) with any questions about experience pay or the contract.
