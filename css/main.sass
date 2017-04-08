@@ -35,7 +35,7 @@ main
     margin: 0
     padding: 0
 
-h1,h2,h3,h4,h5,h6
+h1,h2,h3
     font-family: $display-font
 
 p
@@ -162,11 +162,25 @@ iframe
     max-width: calc(100vw - 2em)
     width: $center-width
 
-main img
+hr
+    border: none
+    background: #aaa
+    height: 1px
+
+p img
     max-width: calc(100vw - 3em)
-    width: 480px
     float: right
     margin: 1em
+
+p img:not([width])
+    width: 440px
+
+p a, p a:visited
+    text-decoration: none 
+    color: #a44
+p a:hover
+    text-decoration: underline
+    color: red
 
 footer
     background: #444
@@ -175,6 +189,7 @@ footer
 
 #contact
     background: $grey
+    color: #222
     text-decoration: none
     padding: 0.5em
     display: inline-block
