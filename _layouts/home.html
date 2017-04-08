@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html>
     {% include head.html %}
+    <head>
+        <link rel="stylesheet" href="css/home.css">
+    </head>
     <body>
         {% include header.html %}
-        <main>
+        <main class="nomargin">
 
             {{ content }}
         </main>
 
         {% include footer.html %}
-</html>
     </body>
+</html>

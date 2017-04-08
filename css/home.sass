@@ -1,0 +1,81 @@
+---
+---
+
+$red: #b22
+$bright-red: #c00
+$gold: #dc2
+$gold-hover: #ed0
+$grey: #ddd
+$overlay: rgba(0, 0, 0, 0.1)
+$doverlay: rgba(0, 0, 0, 0.75)
+$text-font: "Gentium Basic", serif
+$display-font: "Arvo", serif
+
+.first-block 
+    background-image: url(/assets/front-picture.jpg)
+    background-position: 50% 65%
+    background-size: cover
+    background-color: #444
+    height: 400px
+    width: 100vw
+    display: flex
+    flex-direction: column
+    justify-content: center
+    text-align: center
+
+    span
+        font-family: $display-font
+        font-size: 3rem
+        font-weight: bold
+        color: white
+
+a#join
+    align-self: flex-start
+    margin: 1.5em auto
+    font-family: $display-font
+    font-weight: bold
+    font-size: 1.2rem
+    padding: 1em
+    text-decoration: none
+    background-color: $red
+    border: 1px solid white
+    color: white
+    transition: all 200ms
+
+a#join:hover
+    background-color: $bright-red
+
+
+.first-block:before
+    content: ''
+    position: absolute
+    top: 0
+    bottom: 0
+    left: 0
+    right: 0
+    background-image: linear-gradient(black 0%, $doverlay 15%, $doverlay 75%, black 100%)
+    opacity: 0.5
+
+.latest-block
+    margin: 2em auto
+    width: 100vw
+
+    h1
+        text-align: center
+
+.post-container
+    max-width: 960px
+    width: 100vw
+    padding: 0 1em
+    margin: 0 auto
+
+    a
+        text-decoration: none
+        color: black
+
+    article
+        background-color: #eee
+        padding: 1em
+
+    h2
+        margin: none
