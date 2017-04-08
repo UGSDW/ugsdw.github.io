@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: UGSDW Endorses Summer White for SGA President
 author: Cory McCartan
 ---
