@@ -1,5 +1,11 @@
 <header>
     <div class="banner">
+        <button id="menu">
+            <div></div>
+            <div></div>
+            <div></div>
+        </button>
+
         <a href="https://facebook.com/ugsdw" target="_blank">
             <img class="fb" src="/assets/facebook.png">
         </a>
@@ -34,12 +40,41 @@
 
             <a class="join-nav-button" href="/join/">JOIN</a>
         </nav>
-
-        <nav class="mobile">
-            <a href="/news/">Latest News</a>
-            <a href="/about/">About</a>
-            <a href="/members/">Members</a>
-            <a class="join-nav-button" href="/join/">JOIN</a>
-        </nav>
     </div>
+
+    <nav class="mobile">
+        <a href="/news/">Latest News</a>
+        <a href="/about/">About</a>
+        <div class="indent">
+            <a href="/about/governing-docs">Governing Documents</a>
+            <a href="/about/contact">Contact</a>
+        </div>
+        <a href="/members/">Members</a>
+        <div class="indent">
+            <a href="/members/contract">Your Contract</a>
+            <a href="/members/rights">Your Rights</a>
+            <a href="/members/dues">Dues</a>
+        </div>
+        <a class="join-nav-button" href="/join/">JOIN</a>
+    </nav>
+
+    <script type="text/javascript" defer>
+        document.addEventListener("readystatechange", function() {
+            if (document.readyState !== "complete") return; 
+
+            var menuButton = document.querySelector("#menu");
+            var menu = document.querySelector("nav.mobile");
+            var height = ~~menu.getBoundingClientRect().height + 20;
+            var heightStr = "-" + height + "px";
+            menu.style.marginTop = heightStr;
+
+            var open = false;
+
+            menuButton.addEventListener("click", function() {
+                open = !open;
+
+                menu.style.marginTop = open ? "0" : heightStr;
+            });
+        });
+    </script>
 </header>

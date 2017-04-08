@@ -8,6 +8,7 @@ $bright-red: #c00
 $gold: #dc2
 $gold-hover: #ed0
 $grey: #ddd
+$darkgrey: #444
 $overlay: rgba(0, 0, 0, 0.15)
 $doverlay: rgba(0, 0, 0, 0.75)
 
@@ -49,6 +50,10 @@ $logo-height: 140px
 .banner 
     background: $red
     height: $banner-height
+    z-index: 5
+
+#menu
+    display: none
 
 a.logo-wrapper
     display: block
@@ -76,6 +81,7 @@ nav.main
     bottom: calc(#{$banner-height / 2} - 1.6em)
     display: flex
     justify-content: space-around
+    align-items: center
     width: calc(50% - #{$logo-height/2})
 
     div
@@ -128,7 +134,6 @@ nav#right-nav
     display: block
 
 .join-nav-button
-    height: 3.2rem
     padding: 1em
     min-width: 5em
     text-align: center
@@ -183,9 +188,19 @@ p a:hover
     color: red
 
 footer
-    background: #444
+    background: $darkgrey
     color: #aaa
     padding: 2em 4em 7em
+    box-shadow: inset 0 20px 20px -20px $doverlay
+
+.copyright
+    text-align: right
+
+.footer-wrap
+    display: flex
+    justify-content: space-between
+    align-items: flex-start
+    margin-bottom: 1em
 
 #contact
     background: $grey
@@ -193,7 +208,6 @@ footer
     text-decoration: none
     padding: 0.5em
     display: inline-block
-    margin: 1em 0
     font-weight: bold
 
 .button
@@ -220,6 +234,56 @@ footer
 
     $banner-height: 140px
     $logo-height: 120px
+
+    #menu
+        display: block
+        background: transparent
+        border: none
+        outline: none
+        position: absolute
+        top: $banner-height/2 - 15px
+        left: 8px
+
+        div
+            width: 20px
+            height: 2px
+            margin-top: 4px
+            background: white
+
+    nav.mobile
+        display: flex
+        flex-direction: column
+        position: absolute
+        top: $banner-height
+        margin-top: -500px
+        background: $darkgrey
+        box-shadow: inset 0 20px 20px -20px $doverlay, 0 20px 20px -20px $doverlay
+        z-index: 2
+        width: 100vw
+        transition: all 400ms
+        overflow: hidden
+        padding: 1.5em 1em 
+
+
+        a
+            color: $grey
+            text-decoration: none
+            font-size: 1.25rem
+            margin-bottom: 1.5em
+
+        .indent
+            display: flex
+            flex-direction: column
+            margin-left: 2em
+
+            a
+                font-size: 1rem !important
+
+        .join-nav-button
+            padding: 0.75em
+            margin-bottom: 0
+            margin-top: 0.25em
+            width: 6em
 
     .banner 
         height: $banner-height
