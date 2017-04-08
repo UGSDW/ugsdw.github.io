@@ -1,15 +1,25 @@
 ---
 ---
 
+$small-screen: "screen and (max-width: 600px)"
+
 $red: #b22
 $bright-red: #c00
 $gold: #dc2
 $gold-hover: #ed0
 $grey: #ddd
-$overlay: rgba(0, 0, 0, 0.1)
+$overlay: rgba(0, 0, 0, 0.15)
 $doverlay: rgba(0, 0, 0, 0.75)
+
 $text-font: "Gentium Basic", serif
 $display-font: "Arvo", serif
+
+$center-width: 900px
+
+section
+    width: 100vw
+h1
+    text-align: center
 
 .first-block 
     background-image: url(/assets/front-picture.jpg)
@@ -17,7 +27,6 @@ $display-font: "Arvo", serif
     background-size: cover
     background-color: #444
     height: 400px
-    width: 100vw
     display: flex
     flex-direction: column
     justify-content: center
@@ -32,18 +41,6 @@ $display-font: "Arvo", serif
 a#join
     align-self: flex-start
     margin: 1.5em auto
-    font-family: $display-font
-    font-weight: bold
-    font-size: 1.2rem
-    padding: 1em
-    text-decoration: none
-    background-color: $red
-    border: 1px solid white
-    color: white
-    transition: all 200ms
-
-a#join:hover
-    background-color: $bright-red
 
 
 .first-block:before
@@ -58,13 +55,9 @@ a#join:hover
 
 .latest-block
     margin: 2em auto
-    width: 100vw
-
-    h1
-        text-align: center
 
 .post-container
-    max-width: 960px
+    max-width: $center-width
     width: 100vw
     padding: 0 1em
     margin: 0 auto
@@ -74,8 +67,90 @@ a#join:hover
         color: black
 
     article
+        display: flex
         background-color: #eee
-        padding: 1em
+        min-height: 10em
+        border-left: 3px solid $red
+
+    img
+        margin: 0
+        width: 10em
+        height: 10em
+        object-fit: cover
+        object-position: left center
+
+    .content-wrapper
+        padding: 1em 1em 1em 2em
 
     h2
-        margin: none
+        margin-top: 0.5em
+
+.benefits-block
+    background-color: #bcc
+    padding: 2em
+
+.accomplishments
+    display: flex
+    flex-wrap: wrap
+
+    .item
+        background: white
+        padding: 1em
+        box-shadow: 0 0 12px $overlay
+        border-radius: 2px
+        margin: 0.5em
+        flex-grow: 1
+        flex-basis: 30%
+        display: flex
+        flex-direction: column
+        justify-content: space-around
+        text-align: center
+        font-size: 1.5rem
+
+    .big
+        display: block
+        font-family: $display-font
+        font-size: 3.5rem
+
+    .desc
+        font-size: 1.25rem
+        color: #777
+
+.join-block
+    padding: 1em 2em
+    display: flex
+    align-items: center
+    justify-content: space-around
+    background-color: $red
+
+    .text
+        font-size: 2rem
+        font-weight: bold
+        margin: 0 0.5em
+        text-transform: uppercase
+
+    .membership-count
+        font-family: $display-font
+        font-size: 6rem
+        font-weight: bold
+
+    .join-button
+        flex-basis: 9em
+
+.members-block
+    padding: 1em 2em 3em
+
+.resources
+    display: flex
+    flex-wrap: wrap
+    justify-content: space-around
+
+@media #{$small-screen}
+    .post-container img
+        display: none
+
+    .post-container h2
+        margin: 0 0 0.5em 0
+
+    .accomplishments
+        flex-direction: column

@@ -11,6 +11,13 @@ defaults:
             path: ""
         values:
             layout: default
+    -
+        scope:
+            path: ""
+            type: "posts"
+        values:
+            layout: blog
+
 
 exclude: [links.jsonp]
 sass:
