@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Equal Wage Protest '
 author: Cory McCartan
 ---
@@ -14,4 +14,4 @@ Grinnell won't go through the arbitration process in the contract, and also won'
 - **11:30 a.m.** Set up.
 - **11:50 a.m.** Meet outside the dining hall
 - **11:55 a.m.** Begin protest. Hand out pamphplets, have people sign the petition, make noise!
-- **12:30 p.m.** End protest. 
+- **12:30 p.m.** End protest.
