@@ -200,6 +200,7 @@ nav#right-nav
 iframe
     max-width: calc(100vw - 2em)
     width: $center-width
+    border: 1px solid $grey
 
 hr
     border: none
@@ -214,10 +215,10 @@ p img
 p img:not([width])
     width: 440px
 
-p a, p a:visited
+main a:not(.button), main a:visited:not(.button)
     text-decoration: none 
     color: #a44
-p a:hover
+main a:not(.button):hover
     text-decoration: underline
     color: red
 
@@ -246,6 +247,7 @@ footer
 
 .button
     font-family: $display-font
+    display: inline-block
     font-weight: bold
     font-size: 1.2rem
     padding: 1em
@@ -258,8 +260,9 @@ footer
 
 .button:hover
     background-color: $bright-red
-    color: white
-    text-decoration: none
+
+main p .button
+    margin-right: 0.5em
 
 @media #{$small-screen}
     .fb 

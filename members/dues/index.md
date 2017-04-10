@@ -1,4 +1,5 @@
 ---
+title: Dues
 ---
 
 # Dues
@@ -20,9 +21,10 @@ the month(s) for which you are paying dues on the memo line.  If you are paying
 cash, fill out [this form](https://docs.google.com/document/d/1LZ-FInxs2UBlypa_jADZxgvdgZnL1USMqziMtN2wimg/export?format=pdf)
 and attach the cash to it.
 
-Our Venmo username is [@ugsdw](https://venmo.com/ugsdw).
-
-Our PayPal username is [ugsdw](https://paypal.me/ugsdw).
+<br>
+<a href="https://venmo.com/ugsdw" class="button" target="_blank">Pay with Venmo</a>
+<a href="https://paypal.me/ugsdw/6" class="button" target="_blank">Pay with PayPal</a>
+<br> <br> 
 
 You may also choose to pay dues for the entire semester ($8.00) or year ($16.00) at a time.
 

@@ -5,8 +5,11 @@
     <meta name="theme-color" content="#bb2222">
 
     <title>
+        {% if page.title %}
+        {{ page.title }} – UGSDW
+        {% else %}
         UGSDW
-        {% if page.title %} - {{ page.title }} {% endif %}
+        {% endif %}
     </title>
 
     <link rel="icon" href="/assets/logo_128.png">

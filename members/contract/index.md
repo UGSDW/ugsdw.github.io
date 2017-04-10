@@ -1,4 +1,5 @@
 ---
+title: Contract
 ---
 
 # Your Contract
