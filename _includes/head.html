@@ -17,6 +17,9 @@
     <!-- CSS -->
     <link href="https://fonts.googleapis.com/css?family=Arvo:400,700|Gentium+Basic:400,400i,700" rel="stylesheet">
     <link rel="stylesheet" href="/css/main.css">
+    {% for name in page.css %}
+    <link rel="stylesheet" href="/css/{{ name }}.css">
+    {% endfor %}
 
     <!-- JS -->
     <script>

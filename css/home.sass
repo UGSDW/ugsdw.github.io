@@ -1,20 +1,12 @@
 ---
 ---
 
-$small-screen: "screen and (max-width: 600px)"
+@import variables
+@import news
 
-$red: #b22
-$bright-red: #c00
-$gold: #dc2
-$gold-hover: #ed0
-$grey: #ddd
-$overlay: rgba(0, 0, 0, 0.15)
-$doverlay: rgba(0, 0, 0, 0.7)
-
-$text-font: "Gentium Basic", serif
-$display-font: "Arvo", serif
-
-$center-width: 900px
+main 
+    margin: 0 !important
+    padding: 0 !important
 
 section
     width: 100vw
@@ -55,39 +47,6 @@ a#join
 
 .latest-block
     margin: 2em auto
-
-.post-container
-    max-width: $center-width
-    width: 100vw
-    padding: 0 1em
-    margin: 0 auto
-
-    a
-        text-decoration: none
-        color: black
-
-    article
-        display: flex
-        background-color: #eee
-        min-height: 10em
-        border-left: 3px solid $red
-        margin-top: 1em
-
-    img
-        margin: 0
-        width: 10em
-        height: 10em
-        object-fit: cover
-        object-position: left center
-
-    .content-wrapper
-        padding: 1em 1em 1em 2em
-
-    h2
-        margin-top: 0.5em
-
-    article:hover h2
-        color: red
 
 .benefits-block
     background-color: #bcc

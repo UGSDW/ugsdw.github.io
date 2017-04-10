@@ -1,14 +1,31 @@
 ---
+title: News
+css: news-wrapper
 ---
 
 <h1>Latest News</h1>
 <div class="post-container">
     {% for post in site.posts %}
-    <p>
-        <a href="{{ post.url }}">
-            <h2>{{ post.title }}</h2>
-            <span>{{ post.excerpt }}</span>
-        </a>
-    </p>
+    <a href="{{ post.url }}">
+        <article>
+            {% assign images = post.content | split:'img ' %} 
+                {% for image in images %}
+                    {% if image contains 'src' %}
+                        {% assign html = image | split:"/>" | first %}
+                        <img {{ html  }} />
+                        {% break %}
+                    {% endif %}
+                {% endfor %}
+            <div class="content-wrapper">
+                <h2>
+                    {{ post.title }}
+                </h2>
+
+                <span class="summary-date">{{ post.date | date: '%B %-d, %Y' }}</span><br>
+                <span>{{ post.excerpt }}</span>
+            </div>
+        </article>
+    </a>
     {% endfor %}
+
 </div>

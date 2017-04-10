@@ -22,6 +22,7 @@ defaults:
 exclude: [links.jsonp]
 sass:
     style: compressed
+    sass_dir: ./css
 
 prose:
     rooturl: "_posts"

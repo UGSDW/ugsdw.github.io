@@ -1,21 +1,7 @@
 ---
 ---
 
-$small-screen: "screen and (max-width: 600px)"
-
-$red: #b22
-$bright-red: #c00
-$gold: #dc2
-$gold-hover: #ed0
-$grey: #ddd
-$darkgrey: #444
-$overlay: rgba(0, 0, 0, 0.15)
-$doverlay: rgba(0, 0, 0, 0.75)
-
-$text-font: "Gentium Basic", serif
-$display-font: "Arvo", serif
-
-$center-width: 900px
+@import "variables"
 
 * 
     box-sizing: border-box
@@ -31,10 +17,6 @@ main
     font-size: 11pt
     width: calc(100vw - 2em)
     max-width: $center-width
-
-.nomargin
-    margin: 0
-    padding: 0
 
 h1,h2,h3
     font-family: $display-font
@@ -196,6 +178,13 @@ nav#right-nav
     font-weight: normal
     text-transform: uppercase
 
+.summary-date
+    font-size: 0.8em
+    color: $darkgrey
+    font-weight: normal
+    text-transform: uppercase
+
+
         
 iframe
     max-width: calc(100vw - 2em)
@@ -237,6 +226,13 @@ footer
     align-items: flex-start
     margin-bottom: 1em
 
+address
+    font-style: normal
+main address
+    background-color: #f0f0f0
+    border-left: 2px solid $red
+    padding: 1em
+
 #contact
     background: $grey
     color: #222
@@ -244,6 +240,7 @@ footer
     padding: 0.5em
     display: inline-block
     font-weight: bold
+    flex-shrink: 0
 
 .button
     font-family: $display-font
