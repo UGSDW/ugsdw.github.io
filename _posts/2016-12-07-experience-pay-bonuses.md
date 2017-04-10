@@ -9,7 +9,7 @@ Our contract requires that you work at least 110 hours this semester in order
 to qualify for a bonus.  Hours worked before the contract went into effect
 count towards this amount.
 
-We’ve posted instructions for how to check your hours.  You should have around
+[We’ve posted instructions](/members/bonuses/) for how to check your hours.  You should have around
 85 hours through the November 30th pay stub.
 
 As a reminder, bonus amounts for this semester are $0.25 for each hour worked.
