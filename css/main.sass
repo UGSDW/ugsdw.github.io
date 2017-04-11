@@ -211,6 +211,39 @@ main a:not(.button):hover
     text-decoration: underline
     color: red
 
+form
+    padding: 1em 1.5em
+    border-left: 2px solid $red
+    background: #eee
+
+input
+    padding: 0.5em
+    margin: 0.5em 0.5em 0.5em 0
+    outline: none
+    font-size: 1rem
+    border: 1px solid $grey
+    font-family: $text-font
+
+input:focus
+    border: 1px solid $bright-red
+
+input[type=email]
+    width: calc(290px + 3em)
+
+input[type=submit]
+    font-family: $display-font
+    display: inline-block
+    font-weight: bold
+    padding: 1em
+    text-decoration: none
+    background-color: $red
+    color: white
+    transition: all 200ms
+    text-align: center
+input[type=submit]:hover
+    background-color: $bright-red
+
+
 footer
     background: $darkgrey
     color: #aaa
@@ -299,6 +332,9 @@ main p .button
 
     .main-logo
         height: $logo-height
+
+    input:not([type=checkbox])
+        width: 100% !important
 
     footer
         padding: 2em 2em 5em

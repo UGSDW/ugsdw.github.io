@@ -5,6 +5,10 @@ url: "https://ugsdw.github.io"
 baseurl: /
 permalink: pretty
 
+collections:
+    petitions:
+        output: true
+
 defaults:
     -
         scope:
@@ -14,9 +18,15 @@ defaults:
     -
         scope:
             path: ""
-            type: "posts"
+            type: posts
         values:
-            layout: blog
+            layout: post
+    -
+        scope:
+            path: ""
+            type: petitions
+        values:
+            layout: petition
 
 
 exclude: [links.jsonp]

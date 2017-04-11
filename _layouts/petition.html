@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body>
+        {% include header.html %}
+        <main>
+            <h1>{{ page.title }}</h1>
+
+            {{ content }}
+
+            <form action="" method="POST" target="no-target">
+                <h2>Sign the Petition</h2>
+                <input id="fname" required type="text" placeholder="First name" />
+                <input id="lname" required type="text" placeholder="Last name" /> <br>
+                <input id="email" required type="email" placeholder="E-mail address" /> <br>
+                <input id="member" type="checkbox" />
+                <label for="member">Union member?</label> <br>
+                <input type="submit" value="Add your name" />
+            </form>
+
+            <iframe src="#" id="no-target" name="no-target" style="visibility:hidden"></iframe>
+
+        </main>
+
+        {% include footer.html %}
+
+        <script>
+            var $ = function(s) { return document.querySelector(s); };
+
+            var form = $("form");
+
+            form.addEventListener("submit", function() {
+                var firstName = encodeURIComponent($("#fname").value);
+                var lastName = encodeURIComponent($("#lname").value);
+                var email = encodeURIComponent($("#email").value);
+                var member = encodeURIComponent($("#member").checked ? "Yes" : "No");
+
+                var URL = "https://docs.google.com/forms/d/e/1FAIpQLScdUvSxzKxr1LN_udISJ7j5arngF9EskUwY4ffJ25WkiuB6tw/" 
+                + "formResponse&entry.158723699={{ page.title }}"
+                + "&entry.1281967336=" + firstName
+                + "&entry.1005778667=" + lastName
+                + "&entry.47658267=" + email
+                + "&entry.483398811=" + member
+                + "&fbzx=5367887783540449663"
+
+                console.log(URL);
+                form.action = URL;
+                form.innerHTML = "Thank you!";
+            });
+        </script>
+    </body>
+</html>

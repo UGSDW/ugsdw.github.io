@@ -2,8 +2,7 @@
 
 .post-container
     max-width: $center-width
-    width: 100vw
-    padding: 0 1em
+    width: calc(100vw - 2em)
     margin: 0 auto
 
     a
@@ -32,3 +31,11 @@
 
     article:hover h2
         color: red
+
+@media #{$small-screen}
+    .post-container img
+        display: none
+
+    .post-container h2
+        margin: 0 0 0.5em 0
+
