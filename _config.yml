@@ -39,7 +39,7 @@ prose:
     rooturl: "_posts"
     siteurl: "https://ugsdw.github.io/"
     relativeLinks: "https://usgdw.github.io/links.jsonp"
-    media: "media"
+    media: "assets/news"
     metadata:
         _posts:
             - name: "title"
