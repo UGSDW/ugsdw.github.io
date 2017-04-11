@@ -1,13 +1,11 @@
 title: "Union of Grinnell Student Dining Workers"
 description: "The only independent undergraduate labor union in the country, UGSDW fights for fair pay and benefits workers at Grinnell College."
-url: "https://ugsdw.github.io"
+url: "https://www.ugsdw.org"
 
-baseurl: /
 permalink: pretty
 
 collections:
-    petitions:
-        output: true
+    - petitions
 
 defaults:
     -
@@ -33,6 +31,9 @@ exclude: [links.jsonp]
 sass:
     style: compressed
     sass_dir: ./css
+
+gems:
+    - jekyll-sitemap
 
 prose:
     rooturl: "_posts"
