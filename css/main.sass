@@ -12,11 +12,34 @@ body
     font-family: $text-font
 
 main
+    display: flex
     margin: 2em auto 5em auto
     padding: 0
     font-size: 11pt
     width: calc(100vw - 2em)
     max-width: $center-width
+    min-height: 50vh
+
+.main-content
+    flex-shrink: 20
+    flex-grow: 1
+
+aside
+    margin-left: 2em
+    flex-basis: 250px
+    flex-shrink: 0
+
+
+    .description
+        color: #777
+        text-align: justify
+        font-size: 0.85rem
+        margin: 3em 0
+
+aside > *
+    width: 100%
+    display: inline-block
+
 
 h1,h2,h3
     font-family: $display-font
@@ -187,9 +210,11 @@ nav#right-nav
 
         
 iframe
-    max-width: calc(100vw - 2em)
+    max-width: calc(100% - 2em)
     width: $center-width
     border: 1px solid $grey
+aside iframe
+    max-width: initial
 
 hr
     border: none
@@ -199,17 +224,20 @@ hr
 p img
     max-width: calc(100vw - 3em)
     float: right
-    margin: 1em
+    margin: 1em 0 1em 1em
 
 p img:not([width])
-    width: 440px
+    width: 400px
 
-main a:not(.button), main a:visited:not(.button)
+.main-content a:not(.button), .main-content a:visited:not(.button)
     text-decoration: none 
     color: #a44
-main a:not(.button):hover
+.main-content a:not(.button):hover
     text-decoration: underline
     color: red
+
+.fb-page
+    min-height: 400px
 
 form
     padding: 1em 1.5em
@@ -247,7 +275,7 @@ input[type=submit]:hover
 footer
     background: $darkgrey
     color: #aaa
-    padding: 2em 4em 7em
+    padding: 2em 4em 5em
     box-shadow: inset 0 20px 20px -20px $doverlay
 
 .copyright
@@ -261,7 +289,7 @@ footer
 
 address
     font-style: normal
-main address
+.main-content address
     background-color: #f0f0f0
     border-left: 2px solid $red
     padding: 1em
@@ -291,10 +319,18 @@ main address
 .button:hover
     background-color: $bright-red
 
-main p .button
+.main-content p .button
     margin-right: 0.5em
 
 @media #{$small-screen}
+    main
+        flex-direction: column
+        margin-bottom: 2em
+
+    aside
+        margin-top: 2em
+        margin-left: 0
+
     .fb 
         display: none
 
@@ -336,5 +372,17 @@ main p .button
     input:not([type=checkbox])
         width: 100% !important
 
+    .fb-page
+        display: none !important
+
     footer
         padding: 2em 2em 5em
+
+@media #{$med-screen}
+    p img:not([width])
+        float: none
+        margin: 0
+        width: 100%
+    
+    aside
+        flex-basis: 150px

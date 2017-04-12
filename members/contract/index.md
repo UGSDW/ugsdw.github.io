@@ -88,7 +88,7 @@ the names and contact information of employees covered by this Agreement. The
 parties recognize and agree that Employee students may choose to keep their
 contact information confidential.
 
-**3.2 Employee orientation.** uring new employee orientation, student employees
+**3.2 Employee orientation.** During new employee orientation, student employees
 will be provided with a copy of this Agreement and a pamphlet provided by the
 Union that includes a membership application form.  The Union will be allowed
 to provide an informational slide to be included in new student employee

@@ -2,7 +2,7 @@
 
 .post-container
     max-width: $center-width
-    width: calc(100vw - 2em)
+    width: calc(100% - 2em)
     margin: 0 auto
 
     a
@@ -16,10 +16,14 @@
         border-left: 3px solid $red
         margin-top: 1em
 
+    .img-wrapper
+        display: flex
+        flex-direction: column
+
     img
-        margin: 0
+        flex-grow: 1
         width: 10em
-        height: 10em
+        margin: 0
         object-fit: cover
         object-position: center
 

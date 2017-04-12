@@ -3,14 +3,41 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="{{ site.description  }}"> 
     <meta name="theme-color" content="#bb2222">
+    {% if page.noindex %}
+        <meta name="robots" content="noindex">
+    {% endif %}
 
-    <title>
-        {% if page.title %}
-        {{ page.title }}
-        {% else %}
-        UGSDW
+    {% if page.title %} {% assign title = page.title %}
+    {% else %} {% assign title = "" %} {% endif %}
+
+    <title>{{ title }}</title>
+
+    <!-- FACEBOOK META INFO -->
+    {% assign images = page.content | split:'img ' %} 
+    {% for image in images %}
+        {% if image contains 'src' %}
+            {% assign html = image | split:"/>" | first %}
+            {% assign tags = html | split:" " %}
+            {% for tag in tags %}
+                {% if tag contains 'src' %}
+                {% assign first_image = tag | split:"src=" | last %}
+                {% assign end = first_image | size | minus: 2 %}
+                {% assign first_image_url = first_image | slice: 1, end %}
+                {% endif %}
+            {% endfor %}
+            {% break %}
         {% endif %}
-    </title>
+    {% endfor %}
+    {% if page.excerpt %} {% assign blurb = page.excerpt %}
+    {% else %} {% assign blurb = site.description %} {% endif %}
+    <meta property="og:title" name="UGSDW | {{ title }}" />
+    <meta property="og:description" content="{{ blurb }}" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta property="og:type" content="article" />
+
+    <meta property="og:image" content="{{ site.url }}{{ first_image_url }}" />
+    <link rel="image_src" href="{{ site.url }}{{ first_image_url }}"  />
+
 
     <link rel="icon" href="/assets/logo_128.png">
 

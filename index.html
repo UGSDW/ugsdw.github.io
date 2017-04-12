@@ -1,6 +1,7 @@
 ---
 title: UGSDW – Union of Grinnell Student Dining Workers
 css: home
+nosidebar: true
 ---
 
 <section class="first-block">
@@ -14,7 +15,8 @@ css: home
         {% for post in site.posts limit: 5 %}
         <a href="{{ post.url }}">
             <article>
-                {% assign images = post.content | split:'img ' %} 
+                <div class="img-wrapper">
+                    {% assign images = post.content | split:'img ' %} 
                     {% for image in images %}
                         {% if image contains 'src' %}
                             {% assign html = image | split:"/>" | first %}
@@ -22,6 +24,7 @@ css: home
                             {% break %}
                         {% endif %}
                     {% endfor %}
+                </div>
                 <div class="content-wrapper">
                     <h2>
                         {{ post.title }}
