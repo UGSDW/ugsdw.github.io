@@ -1,11 +1,13 @@
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="{{ site.description  }}"> 
     <meta name="theme-color" content="#bb2222">
     {% if page.noindex %}
         <meta name="robots" content="noindex">
     {% endif %}
+    {% if page.excerpt %} {% assign blurb = page.excerpt %}
+    {% else %} {% assign blurb = site.description %} {% endif %}
+    <meta name="description" content="{{ blurb }}"> 
 
     {% if page.title %} {% assign title = page.title %}
     {% else %} {% assign title = "" %} {% endif %}
@@ -28,8 +30,7 @@
             {% break %}
         {% endif %}
     {% endfor %}
-    {% if page.excerpt %} {% assign blurb = page.excerpt %}
-    {% else %} {% assign blurb = site.description %} {% endif %}
+    
     <meta property="og:title" name="UGSDW | {{ title }}" />
     <meta property="og:description" content="{{ blurb }}" />
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
