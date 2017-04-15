@@ -27,9 +27,9 @@ nosidebar: true
                 </div>
                 <div class="content-wrapper">
                     <h2>
-                        {{ post.title }}
+                        {{ post.title | smartify }}
                     </h2>
-                    <span>{{ post.excerpt }}</span>
+                    <span>{{ post.excerpt | smartify}}</span>
                 </div>
             </article>
         </a>

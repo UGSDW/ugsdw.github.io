@@ -20,11 +20,11 @@ css: news-wrapper
             </div>
             <div class="content-wrapper">
                 <h2>
-                    {{ post.title }}
+                    {{ post.title | smartify }}
                 </h2>
 
                 <span class="summary-date">{{ post.date | date: '%B %-d, %Y' }}</span><br>
-                <span>{{ post.excerpt }}</span>
+                <span>{{ post.excerpt | smartify  }}</span>
             </div>
         </article>
     </a>
