@@ -35,9 +35,19 @@ gems:
     - jekyll-sitemap
 
 prose:
-    siteurl: "https://ugsdw.github.io/"
+    siteurl: "https://www.ugsdw.org/"
     relativeLinks: "https://usgdw.github.io/links.jsonp"
     media: "assets/news"
+    ignore:
+        - _includes
+        - _petitions
+        - .gitignore
+        - 404.html
+        - CNAME
+        - README.md
+        - _config.yml
+        - links.jsonp
+        - service-worker.js
     metadata:
         _posts:
             - name: "title"
