@@ -59,8 +59,12 @@ prose:
             - name: "banner-text"
               field:
                   element: "text"
-                  lable: "Main banner text"
+                  label: "Main banner text"
                   value: "WE'RE STRONGER TOGETHER."
+            - name: "members"
+              field:
+                  element: "number"
+                  label: "Active member count"
             - name: "css"
               field:
                   element: "hidden"
