@@ -40,7 +40,13 @@ prose:
     media: "assets/news"
     ignore:
         - _includes
+        - _layouts
         - _petitions
+        - join
+        - assets
+        - css
+        - manage
+        - news
         - .gitignore
         - 404.html
         - CNAME
@@ -49,6 +55,18 @@ prose:
         - links.jsonp
         - service-worker.js
     metadata:
+        "/":
+            - name: "banner-text"
+              field:
+                  element: "text"
+                  lable: "Main banner text"
+                  value: "WE'RE STRONGER TOGETHER."
+            - name: "css"
+              field:
+                  element: "hidden"
+            - name: "nosidebar"
+              field:
+                  element: "hidden"
         _posts:
             - name: "title"
               field:

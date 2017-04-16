@@ -1,14 +1,18 @@
 ---
 title: UGSDW – Union of Grinnell Student Dining Workers
+banner-text: WE'RE STRONGER TOGETHER.
 css: home
 nosidebar: true
 ---
-
+<!-- IMAGE BANNER AT TOP OF PAGE.
+     URL of image is found is css/main.sass 
+     You can also just replace "front-image.jpg" in the assets/ folder. -->
 <section class="first-block">
-    <span>WE&rsquo;RE STRONGER TOGETHER.</span>
+    <span>{{ page.banner-text | smartify }}</span>
     <a id="join" class="button" href="/join/">JOIN THE UNION</a>
 </section>
 
+<!-- LATEST NEWS -->
 <section class="latest-block">
     <h1>LATEST</h1>
     <div class="post-container">
@@ -42,6 +46,7 @@ nosidebar: true
     </div>
 </section>
 
+<!-- BENEFITS TO JOINING UGSDW -->
 <section class="benefits-block">
     <h1>THE UNION DIFFERENCE</h1>
     <div class="accomplishments">
@@ -62,12 +67,14 @@ nosidebar: true
     </div>
 </section>
 
+<!-- JOINING SECTION -->
 <section class="join-block">
     <span class="membership-count">93</span>
     <span class="text">Of your coworkers are members.</span>
     <a class="join-button button" href="/join/">JOIN THEM</a>
 </section>
 
+<!-- MEMBER RESOURCES -->
 <section class="members-block">
     <h1>MEMBER RESOURCES</h1>
     <div class="resources">
