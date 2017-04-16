@@ -7,7 +7,8 @@ title: Contract
 You can view the current collective bargaining agreement below, or download a PDF copy.
 
 <br>
-<a class="button" href="https://docs.google.com/document/d/1szOZOZBdWJRwsfwHkm0jP3t9QxVnt98RKV2w7C9IATU/export?format=pdf">
+<a class="button" href="https://docs.google.com/document/d/1szOZOZBdWJRwsfwHkm0jP3t9QxVnt98RKV2w7C9IATU/preview" 
+    target="_blank">
     2016–2017 Contract
 </a>
 <br> <br>
