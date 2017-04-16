@@ -20,12 +20,15 @@ margin.
 
 The union has four elected officers, who each serve a term of one year.
 
-**Cory McCartan** *President*
+**{{ site.data.officers.president.name }}** *President* <br>
+[{{ site.data.officers.president.email }}](mailto:{{ site.data.officers.president.email }})
 
-**Alec Doss** *Vice President*
+**{{ site.data.officers.vice-president.name }}** *Vice President* <br>
+[{{ site.data.officers.vice-president.email }}](mailto:{{ site.data.officers.vice-president.email }})
 
-**Quinn Ercolani** *Treasurer*
+**{{ site.data.officers.treasurer.name }}** *Treasurer* <br>
+[{{ site.data.officers.treasurer.email }}](mailto:{{ site.data.officers.treasurer.email }})
 
-**Rachel Bass** *Secretary*
-
+**{{ site.data.officers.secretary.name }}** *Secretary* <br>
+[{{ site.data.officers.secretary.email }}](mailto:{{ site.data.officers.secretary.email }})
 

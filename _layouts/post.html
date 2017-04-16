@@ -13,6 +13,19 @@
                 </span>
 
                 {{ content | smartify }}
+
+                <div class="post-nav">
+                    {% if page.previous.url %}
+                        <a class="back" href="{{ page.previous.url }}">
+                            &laquo;&nbsp;{{page.previous.title}}
+                        </a>
+                    {% endif %}
+                    {% if page.next.url %}
+                        <a class="forward" href="{{ page.next.url }}">
+                            {{page.next.title}}&nbsp;&raquo;
+                        </a>
+                    {% endif %}
+                </div>
             </section>
 
             <aside>

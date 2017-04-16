@@ -1,0 +1,16 @@
+president:
+    name: Cory McCartan
+    email: mccartan@grinnell.edu
+    box: 4198
+vice-president:
+    name: Alec Doss
+    email: dossalec@grinnell.edu
+    box: 3476
+treasurer:
+    name: Quinn Ercolani
+    email: ercolani@grinnell.edu
+    box: 3409
+secretary:
+    name: Rachel Bass
+    email: bassrach@grinnell.edu
+    box: 3148

@@ -1,6 +1,7 @@
 ---
 published: true
 title: Equal Wage Protest a Success!
+author: Cory McCartan
 excerpt: > 
     On Monday, April 10, UGSDW members protested Grinnell's treatment of high
     school dining workers.  The union gathered over 200 signatures, and raised

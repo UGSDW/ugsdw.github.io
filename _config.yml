@@ -27,7 +27,6 @@ defaults:
             layout: petition
 
 
-exclude: [links.jsonp]
 sass:
     style: compressed
     sass_dir: ./css
@@ -36,7 +35,6 @@ gems:
     - jekyll-sitemap
 
 prose:
-    rooturl: "_posts"
     siteurl: "https://ugsdw.github.io/"
     relativeLinks: "https://usgdw.github.io/links.jsonp"
     media: "assets/news"

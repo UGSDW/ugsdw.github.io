@@ -10,8 +10,8 @@ You may also write to us:
 
 <address>
     Union of Grinnell Student Dining Workers <br>
-    ℅ Cory McCartan <br>
-    1115 8<sup>th</sup> Ave. #4198 <br>
+    ℅ {{ site.data.officers.president.name }} <br>
+    1115 8<sup>th</sup> Ave. #{{ site.data.officers.president.box }} <br>
     Grinnell, IA 50112 
 </address>
 
