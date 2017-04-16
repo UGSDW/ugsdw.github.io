@@ -71,6 +71,17 @@ prose:
             - name: "nosidebar"
               field:
                   element: "hidden"
+            - name: "title"
+              field:
+                  element: "text"
+                  label: "Title"
+                  value: ""
+        about:
+            - name: "title"
+              field:
+                  element: "text"
+                  label: "Title"
+                  value: ""
         _posts:
             - name: "title"
               field:

@@ -1,0 +1,37 @@
+---
+title: Press
+css: news-wrapper
+---
+
+<h1>Contact</h1>
+Press Secretary: {{ site.data.officers.press-secretary.name }}<br>
+E-mail: <a href="mailto:press@ugsdw.org">press@ugsdw.org</a><br><br>
+
+<h1>Press Releases</h1>
+<div class="post-container">
+    {% assign releases = site.posts | where_exp: "pst", "pst.excerpt contains 'Press Release'" %}
+    {% for post in releases %}
+    <a href="{{ post.url }}">
+        <article>
+            <div class="img-wrapper">
+                {% assign images = post.content | split:'img ' %} 
+                {% for image in images %}
+                    {% if image contains 'src' %}
+                        {% assign html = image | split:"/>" | first %}
+                        <img {{ html  }} />
+                        {% break %}
+                    {% endif %}
+                {% endfor %}
+            </div>
+            <div class="content-wrapper">
+                <h2>
+                    {{ post.title | smartify }}
+                </h2>
+
+                <span class="summary-date">{{ post.date | date: '%B %-d, %Y' }}</span><br>
+                <span>{{ post.excerpt | smartify  }}</span>
+            </div>
+        </article>
+    </a>
+    {% endfor %}
+</div>

@@ -1,7 +1,5 @@
 ---
 title: Contact
-published: true
-members: 0
 ---
 
 # Contact Us
