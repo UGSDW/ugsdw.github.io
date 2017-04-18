@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 2017–2018 Officer Elections
 author: Cory McCartan
 ---
