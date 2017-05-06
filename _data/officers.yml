@@ -1,3 +1,8 @@
+---
+members: 0
+title: ''
+published: false
+---
 president:
     name: Cory McCartan
     email: mccartan@grinnell.edu
@@ -14,3 +19,5 @@ secretary:
     name: Rachel Bass
     email: bassrach@grinnell.edu
     box: 3148
+press-secretary:
+	name: Carter Howe
