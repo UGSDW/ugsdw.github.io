@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Grinnell's Final Offer
 author: Cory McCartan
 ---
