@@ -55,6 +55,8 @@ prose:
         - links.jsonp
         - service-worker.js
     metadata:
+        _data:
+
         "":
             - name: "banner-text"
               field:
@@ -77,6 +79,12 @@ prose:
                   label: "Title"
                   value: ""
         about:
+            - name: "title"
+              field:
+                  element: "text"
+                  label: "Title"
+                  value: ""
+        members:
             - name: "title"
               field:
                   element: "text"
