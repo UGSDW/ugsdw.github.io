@@ -1,10 +1,11 @@
 ---
 title: About
 excerpt: >
-    The Union of Grinnell Student Dining Workers was started in the spring of
-    2016 to represent the low-skill workers in the dining hall.  In the
-    representation election, employees overwhelmingly chose to be represented
-    by the union, voting in favor by a 91% margin.
+  The Union of Grinnell Student Dining Workers was started in the spring of 2016
+  to represent the low-skill workers in the dining hall.  In the representation
+  election, employees overwhelmingly chose to be represented by the union,
+  voting in favor by a 91% margin.
+published: true
 ---
 
 # About
@@ -37,3 +38,10 @@ The union has four elected officers, who each serve a term of one year.
 **{{ site.data.officers.secretary.name }}** *Secretary* <br>
 [{{ site.data.officers.secretary.email }}](mailto:{{ site.data.officers.secretary.email }})
 
+# Financial and Government Reports
+
+## End-of-Year Financial Reports
+
+[FY 2017](/assetes/fy2017.pdf)
+
+## LM-4 Reports
