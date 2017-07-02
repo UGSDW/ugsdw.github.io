@@ -31,9 +31,18 @@ h1
         font-weight: bold
         color: white
 
+    #wage-now
+        font-size: 7rem
+
 a#join
     align-self: flex-start
     margin: 1.5em auto
+
+a#contract-fight
+    align-self: flex-start
+    margin: 1.5rem auto
+    padding: 1rem 2rem
+    font-size: 2rem
 
 
 .first-block:before
@@ -89,41 +98,53 @@ a#join
     background-color: $red
     box-shadow: inset 0 20px 20px -20px $doverlay, inset 0 -20px 20px -20px $doverlay
 
+    .text-wrapper
+        display: flex
+        align-items: center
+
     .text
         display: inline-block
         font-size: 2rem
         font-weight: bold
         margin: 0 0.5em
         text-transform: uppercase
+        text-align: left
+        line-height: 1
 
     .membership-count
         font-family: $display-font
-        font-size: 6rem
+        font-size: 5rem
         font-weight: bold
 
     .join-button
         flex-basis: 9em
 
 .members-block
-    padding: 1em 2em 3em
+    padding: 2em 2em 3em
 
 .resources
     max-width: 960px
-    margin: 0 auto
+    margin: 0 auto -1em auto
     display: flex
     flex-wrap: wrap
-    justify-content: space-around
+    justify-content: center
 
     a
-        margin-bottom: 0.5em
+        margin: 0 0.5em 1em 0.5em
 
 @media #{$small-screen}
     .accomplishments, .resources, .join-block
         flex-direction: column
 
+    .first-block #wage-now
+        font-size: 6rem
+
+    .first-block a#contract-fight
+        margin: 1rem
+
     .join-block .join-button
         flex-basis: 0
 
-    .join-block span.text
-        margin-bottom: 1em
+    .join-block span.text, .join-block .membership-count
+        margin-bottom: 1.5rem
         flex-basis: 0
