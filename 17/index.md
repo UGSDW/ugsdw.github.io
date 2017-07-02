@@ -1,7 +1,9 @@
 ---
 nosidebar: true
-title: 2017–2018 Contract Fight
 css: contract-fight
+title: 2017–2018 Contract Fight
+published: true
+members: 0
 ---
 
 <div class="text-banner">
@@ -14,10 +16,11 @@ Tuition goes up while wages stagnate. Dining workers deserve a fair wage.
 </span>
 
 # Updates
+- The 2016–2017 contract expired on July 1, 2017.  We will work without
+a contract when we return in the fall.
 - UGSDW members [unanimously rejected the college's final
   offer](/2017/05/17/members-unanimously-reject-college-proposal/) in May.
-- The current contract expired on July 1, 2017.  UGSDW members will work without
-a contract when we return in the fall.
+
 
 
 # Why $9.60?
@@ -50,13 +53,13 @@ Most student worker earnings go towards tuition. This year, tuition was raised
 ![Student wages over time, adjusted for tuition](/assets/wages_over_time.png)
 
 Most college employees receive yearly cost-of-living adjustments—faculty,
-administrators, facilities management staff. Yet Grinnell refuses to consider
+administrators, facilities management staff all do. Yet Grinnell refuses to consider
 any adjustment for its student workers who are vital to the successful operation
 of the college.
 
 <span class="quote">"My work-study is not a choice, it’s a necessity."</span>
 
-President Kington receives yearly raises. Since 2012, these have averaged
+President Kington also receives yearly raises. Since 2012, these have averaged
 **$20,000 a year**. The total cost of raising dining worker wages to $9.60?
 Just $18,500. Why should the president continue to recieve raises when his
 students do not?
