@@ -4,7 +4,7 @@ title: Contract
 
 # Your Contract
 
-[2017–2018 Contract Fight &raquo;](/2017/)
+[2017–2018 Contract Fight &raquo;](/17/)
 
 You can view the current collective bargaining agreement below, or download a PDF copy.
 
