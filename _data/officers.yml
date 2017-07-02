@@ -1,18 +1,19 @@
 president:
     name: Cory McCartan
-    email: mccartan@grinnell.edu
+    email: president@ugsdw.org
     box: 4198
 vice-president:
-    name: Alec Doss
-    email: dossalec@grinnell.edu
-    box: 3476
-treasurer:
     name: Quinn Ercolani
-    email: ercolani@grinnell.edu
+    email: vice-president@ugsdw.org
     box: 3409
+treasurer:
+    name: Sam Xu
+    email: treasurer@ugsdw.org
+    box: 4610
 secretary:
     name: Rachel Bass
-    email: bassrach@grinnell.edu
+    email: secretary@ugsdworg
     box: 3148
 press-secretary:
     name: Carter Howe
+    email: press@ugsdw.org
