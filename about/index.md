@@ -57,3 +57,5 @@ The union has four elected officers, who each serve a term of one year.
 [FY 2017](/assets/fy2017.pdf)
 
 ### LM-4 Reports
+
+[2017 LM-4](/assets/lm_4_2017.pdf)
