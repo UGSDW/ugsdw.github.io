@@ -1,6 +1,6 @@
 ---
 nosidebar: true
-css: contract-fight
+css: special
 title: 2017–2018 Contract Fight
 published: true
 members: 0
@@ -8,7 +8,7 @@ members: 0
 
 <div class="text-banner">
     <h2 class="subtitle">The 2017–2018 Contract</h2>
-    <h1 class="title">$9.60 &nbsp;Now!</h1>
+    <h1 class="big title">$9.60 &nbsp;Now!</h1>
 </div>
 
 <span>
