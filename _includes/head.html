@@ -9,8 +9,8 @@
     {% else %} {% assign blurb = site.description %} {% endif %}
     <meta name="description" content="{{ blurb }}"> 
 
-    {% if page.title %} {% assign title = page.title %}
-    {% else %} {% assign title = "" %} {% endif %}
+    {% if page.url == "/" %} {% assign title = page.title %}
+    {% else %} {% assign title = page.title | append: " – UGSDW" %} {% endif %}
 
     <title>{{ title }}</title>
 
