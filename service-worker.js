@@ -4,10 +4,11 @@
 
 var log = false;
 
-var CACHE_VERSION = "v1.0";
+var CACHE_VERSION = "v2.0";
 
 var STATIC_CACHE = [
     "assets/front-picture.jpg",
+    "assets/temp-front-picture.jpg",
     "https://fonts.googleapis.com/css?family=Arvo:400,700|Gentium+Basic:400,400i,700",
 ];
 
