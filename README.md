@@ -1,2 +1,0 @@
-# UGSDW
-Organization website.
