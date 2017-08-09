@@ -50,7 +50,7 @@ hall run more smoothly and efficiently.
 Most student worker earnings go towards tuition. This year, tuition was raised
 3.9%.  It only makes sense that wages should go up 3.9% as well.
 
-![Student wages over time, adjusted for tuition](/assets/wages_over_time.png)
+![Student wages over time, adjusted for tuition](https://docs.google.com/spreadsheets/d/1aTN_63zCOBnnL_u4zxzl2Mm87FCawi14DGQ7DdHL3R8/pubchart?oid=121558300&format=image)
 
 Most college employees receive yearly cost-of-living adjustments—faculty,
 administrators, facilities management staff all do. Yet Grinnell refuses to consider
