@@ -16,6 +16,7 @@ Tuition goes up while wages stagnate. Dining workers deserve a fair wage.
 </span>
 
 # Updates
+- The college made a new offer of $9.40.  Members rejected this newest offer, with only 29% voting to ratify.
 - The 2016–2017 contract expired on July 1, 2017.  We will work without
 a contract when we return in the fall.
 - UGSDW members [unanimously rejected the college's final
