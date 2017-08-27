@@ -7,9 +7,7 @@ author: UGSDW
 
 ***
 
-# UGSDW Members Reject Final Contract Offer
-
-## Union Demands Cost-of-Tuition Adjustment, College Refuses
+***Union Demands Cost-of-Tuition Adjustment, College Refuses***
 
 GRINNELL, IOWA — Members of the Union of Grinnell Student Dining Workers (UGSDW) today rejected Grinnell’s most recent contract offer for the 2017–2018 year.  Since April, the union had fought for for a cost-of-tuition adjustment to bring wages to $9.60 an hour.  The College’s final offer was a wage of $9.40 per hour.
 
