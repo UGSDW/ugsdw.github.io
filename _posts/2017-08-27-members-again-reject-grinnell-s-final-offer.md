@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Members Again Reject Grinnell's Final Offer
 author: UGSDW
 ---
@@ -20,4 +20,3 @@ Grinnell recently the main wage across campus to $9.00 from $8.50.  Sam Xu, UGSD
 
 
 [Read more about UGSDW's contract fight](/17/).
-
