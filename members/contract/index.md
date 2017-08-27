@@ -6,7 +6,8 @@ title: Contract
 
 [2017–2018 Contract Fight &raquo;](/17/)
 
-You can view the current collective bargaining agreement below, or download a PDF copy.
+You can view the (expired) current collective bargaining agreement below, or
+download a PDF copy.
 
 <br>
 <a class="button" href="https://docs.google.com/document/d/1szOZOZBdWJRwsfwHkm0jP3t9QxVnt98RKV2w7C9IATU/preview" 
