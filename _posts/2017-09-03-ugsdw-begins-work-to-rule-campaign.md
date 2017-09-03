@@ -15,4 +15,4 @@ Members of the Union of Grinnell Student Dining Workers (UGSDW) voted Sunday to 
 
 “We regret the inconvenience this causes to members of the campus community. Hopefully the Grinnell administration will soon recognize the importance of fair wages to the proper operation of Dining Services.  When tuition goes up, wages should too.”
 
-
+Read more about our contract fight at <ugsdw.org/17>
