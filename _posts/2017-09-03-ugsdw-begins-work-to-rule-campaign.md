@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: UGSDW Begins Work-to-Rule Campaign
 author: Cory McCartan
 excerpt: >-
