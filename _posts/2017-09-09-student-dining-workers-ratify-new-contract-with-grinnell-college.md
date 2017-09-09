@@ -1,6 +1,7 @@
 ---
 published: false
 title: Student Dining Workers Ratify New Contract with Grinnell College
+author: UGSDW
 ---
 #### Press Release
 
