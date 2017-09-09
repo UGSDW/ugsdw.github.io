@@ -14,7 +14,7 @@ excerpt: >-
 
 ***
 
-***Two-Year Agreement Raises Wages, Experience Pay***
+### *Two-Year Agreement Raises Wages, Experience Pay*
 
 GRINNELL, IOWA — Members of the Union of Grinnell Student Dining Workers (UGSDW) voted unanimously Saturday to ratify a new two-year contract with Grinnell College, ending a months-long dispute over cost-of-living adjustments for dining hall employees.  Beginning next week, wages will increase 2.7% to $9.50 per hour from $9.25 per hour.  UGSDW had originally proposed $9.60 per hour.  Starting in July 2018, wages will increase again, in proportion to the raise received by other support staff at the college.
 
