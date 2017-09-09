@@ -16,6 +16,7 @@ Tuition goes up while wages stagnate. Dining workers deserve a fair wage.
 </span>
 
 # Updates
+- Members have voted to ratify the newest offer of $9.50.
 - The college made a new offer of $9.50, conditional on a two-year contract with a raise in the second year equal to the raise for other support staff.  We will vote on the new offer Saturday, September 7.
 - The college made a new offer of $9.40.  Members rejected this newest offer, with only 29% voting to ratify.
 - The 2016–2017 contract expired on July 1, 2017.  We will work without
