@@ -32,15 +32,24 @@ download a PDF copy.
 **2.3	College Duties.**  Nothing in this Agreement shall be construed to limit or impair the right of the College to exercise its own discretion on all of the following matters, whatever may be the effect upon employment, when in its sole discretion it may determine it advisable to do any or all of the following:
 
   a) adopt work rules 
-  a) to manage the College 
-  a) terminate employment of employees under this Agreement, provided that the termination is for just cause 
-  a) schedule work 
-  a) to decide how to provide dining services to Grinnell College students 
-  a) to determine schedules 
-  a) to maintain order and efficiency in its plants and operations 
-  a) to hire, layoff, assign, transfer and promote employees 
-  a) to determine the qualifications of employees
-  a) to determine and re-determine job content
+  
+  b) to manage the College 
+  
+  c) terminate employment of employees under this Agreement, provided that the termination is for just cause 
+  
+  d) schedule work 
+  
+  e) to decide how to provide dining services to Grinnell College students 
+  
+  f) to determine schedules 
+  
+  g) to maintain order and efficiency in its plants and operations 
+  
+  h) to hire, layoff, assign, transfer and promote employees 
+  
+  i) to determine the qualifications of employees
+  
+  j) to determine and re-determine job content
 
 
 ## ARTICLE III: Union Security
@@ -56,10 +65,14 @@ Each semester, the College shall provide a spreadsheet report of all employees c
 **3.4	Bulletin Boards.**  The College will furnish a bulletin board contained in a locked enclosed case for the use of the Union, displayed in a prominent location. Bulletin board notices shall be restricted to:
 
   a) Notices of union recreational and social affairs 
-  a) Notices of union elections 
-  a) Notices of union appointments and results of union elections 
-  a) Notices of union meetings 
-  a) Other notices concerning union affairs which are not political or controversial in nature
+  
+  b) Notices of union elections 
+  
+  c) Notices of union appointments and results of union elections 
+  
+  d) Notices of union meetings 
+  
+  e) Other notices concerning union affairs which are not political or controversial in nature
 
 The Union will remove from the bulletin board, upon the written request of the College, any material which in the College's judgment is libelous, scurrilous or detrimental to relationship between the College and its students. The Union agrees it will not engage in general distribution, or posting by employees, of pamphlets, advertising or political matters.
 
