@@ -29,6 +29,7 @@ margin.
 Since then, we've expanded to include all Dining Services workers.  We've fought
 for, and won:
 - An initial 9% wage increase to $9.25 an hour
+- Further increases to $9.50 an hour
 - Tiered bonuses for students who work at least 110 hours a semester
 - A grievance procedure
 - Paid rest breaks
