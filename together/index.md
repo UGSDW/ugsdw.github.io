@@ -1,8 +1,10 @@
 ---
 nosidebar: true
-noindex: true
 css: special
+noindex: true
 title: UGSDW For All
+published: true
+members: 0
 ---
 
 <div class="text-banner">
@@ -11,6 +13,5 @@ title: UGSDW For All
 </div>
 
 <span>
-Student workers deserve a voice.  UGSDW gives them one.
+Student workers deserve a say.  UGSDW can give them one.
 </span>
-
