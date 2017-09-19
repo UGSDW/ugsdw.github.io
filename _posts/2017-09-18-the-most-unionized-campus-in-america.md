@@ -16,6 +16,8 @@ author: UGSDW
 
 GRINNELL, IOWA — The Union of Grinnell Student Dining Workers on Wednesday announced a new effort to unionize all student workers at Grinnell College.  If successful, the union would triple the size of its bargaining unit and make Grinnell the only educational institution in the country to have every undergraduate worker represented by a union.
 
+![Open Letter to President Kington]({{site.baseurl}}/assets/news/letter.png)
+
 The Union of Grinnell Student Dining Workers (UGSDW) was founded in March of 2015 to represent undergraduate workers in the college’s dining hall.  After negotiating two contracts, raising base wages by twelve percent, and expanding to cover other food service workers, UGSDW members decided it was time to spread the benefits of union representation.
 
 "Fundamental to life in a democratic society is the ability to have a say in things that affect you," said union president Cory McCartan.  "UGSDW can provide a voice to workers across campus.  Together we will be able to work towards fair wages and advocate for our common goals in a way that has not been possible before."
