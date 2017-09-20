@@ -1,6 +1,7 @@
 ---
 published: true
 title: Statement on the Closing of Bob's Underground Cafe and Lyle's Pub
+release: true
 author: Carter Howe
 ---
 #### Press Release

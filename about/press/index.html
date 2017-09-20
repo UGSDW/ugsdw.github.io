@@ -11,6 +11,9 @@ published: true
 
 <h1>Coverage</h1>
 
+<a href="http://iowapublicradio.org/post/grinnell-college-student-workers-seek-expand-their-union">Grinnell College Student Workers Seek to Expand Their Union</a>&nbsp;&nbsp;
+(<i>Iowa Public Radio</i>)<br>
+
 <a href="http://www.thesandb.com/article/ugsdw-negotiates-2-7-percent-pay-raise.html">UGSDW Negotiates 2.7 Percent Pay Raise</a>&nbsp;&nbsp;
 (<i>Scarlet & Black</i>)<br>
 
@@ -44,7 +47,7 @@ published: true
 
 <h1>Press Releases</h1>
 <div class="post-container">
-    {% assign releases = site.posts | where_exp: "pst", "pst.excerpt contains 'Press Release'" %}
+    {% assign releases = site.posts | where_exp: "pst", "pst.release" %}
     {% for post in releases %}
     <a href="{{ post.url }}">
         <article>

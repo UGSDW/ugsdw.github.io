@@ -1,6 +1,7 @@
 ---
 title: Tentative Agreement Reached
 author: UGSDW
+release: true
 excerpt: >
     The Contract Bargaining Team today unanimously recommended the tentative
     collective bargaining agreement reached with Grinnell College.

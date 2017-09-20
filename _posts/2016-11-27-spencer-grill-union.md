@@ -1,5 +1,6 @@
 ---
 title: UGSDW Begins Unionization of the Spencer Grill
+release: true
 author: UGSDW
 ---
 

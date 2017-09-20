@@ -2,6 +2,7 @@
 published: true
 title: Student Dining Workers Ratify New Contract with Grinnell College
 author: UGSDW
+release: true
 excerpt: >-
   UGSDW members voted unanimously Saturday to ratify a new two-year contract
   with Grinnell College, ending a months-long dispute over cost-of-living

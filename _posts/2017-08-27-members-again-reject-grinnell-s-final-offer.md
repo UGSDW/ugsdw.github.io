@@ -1,6 +1,7 @@
 ---
 published: true
 title: Members Reject Grinnell's Final Offer — Again
+release: true
 author: UGSDW
 ---
 #### Press Release
