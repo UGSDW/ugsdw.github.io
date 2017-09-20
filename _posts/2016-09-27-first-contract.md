@@ -1,6 +1,7 @@
 ---
 title: First Contract Ratified!
 author: UGSDW
+release: true
 excerpt: >
     Union members today approved their first contract with Grinnell College,
     and the first in the nation between a private college or university and an
