@@ -17,7 +17,9 @@ Student workers deserve a say.  UGSDW can give them one.
 </span>
 
 <div style="text-align: center">
-<a href="/join" style="width: 60%; font-size: 1.5em" class="button">Join Now!</a>
+<a href="/join" style="width: 60%; font-size: 1.5em; border-width: 2.5rem; border-color: #b22 white #b22 white; height: 0; padding: 0; line-height: 0;" class="button">
+Join Now!
+</a>
 </div>
 
 # Why a union?
