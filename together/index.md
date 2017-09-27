@@ -58,7 +58,7 @@ combine our voices in the name of student power.&rdquo;
 </div>
 </div>
 
-## What about dues?
+### What about dues?
 
 UGSDW has no mandatory dues. For those who are willing and able, we suggest
 monthly dues of $2.00 to help pay for things like our website, printing, mailing, 
