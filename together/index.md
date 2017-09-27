@@ -60,16 +60,17 @@ combine our voices in the name of student power.&rdquo;
 
 ### What about dues?
 
-UGSDW has no mandatory dues. For those who are willing and able, we suggest
-monthly dues of $2.00 to help pay for things like our website, printing, mailing, 
-and food. There are no dues in January, June, July, and August.
+UGSDW has no mandatory dues. For those who are willing and able, we [suggest
+monthly dues of $2.00](/members/dues/) to help pay for things like our 
+website, printing, mailing, and food. 
+There are no dues in January, June, July, and August.
 
 # I don't want to get fired.
 
 It's illegal for Grinnell to retaliate or discriminate against you in any way
 for union activity.  There's an entire government agency, the [National Labor
-Relations Board](http://www.nlrb.gov), dedicated to protecting your right
-to have a say at work.
+Relations Board](http://www.nlrb.gov), dedicated to protecting 
+[your right](/members/rights) to have a say at work.
 
 We don't send the College a list of our members.  Your name and signature will
 be reviewed and counted by a neutral third party or the NLRB.
