@@ -57,7 +57,7 @@ prose:
     metadata:
         _data:
         _includes:
-        _layout:
+        _layouts:
         together:
         css:
 
