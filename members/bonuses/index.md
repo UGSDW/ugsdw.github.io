@@ -9,7 +9,7 @@ members: 0
 Under our contract, you can receive experience bonuses if you work at least
 **110 hours** in a semester. The size of the bonus depends on the number of
 hours worked and whether or not you’ve earned a bonus previously.  You can read
-the details in the contract.
+the details in [the contract](/members/contract/#article-iv-wages).
 
 To track the number of hours you’ve worked in a semester:
 
