@@ -16,7 +16,7 @@ UGSDW has suggested dues of $2.00 per month, due on the following dates:
  - April 1
  - May 1
 
-If you work in the dining hall, the easiest way to pay dues is to fill out a dues check-off form.  Grinnell will automatically deduct dues from your paycheck.
+The easiest way to pay dues is to fill out a dues check-off form.  Grinnell will automatically deduct dues from your paycheck.
 
 <br>
 <a class="button" href="https://drive.google.com/file/d/1uVTv0z06ObxgjjtBlqn7zlP-H-s3TYbUX_7AixBwhzg/view" 
@@ -33,7 +33,7 @@ and attach the cash to it.
 
 <br>
 <a href="https://venmo.com/ugsdw" class="button" target="_blank">Pay with Venmo</a>
-<a href="https://paypal.me/ugsdw/6" class="button" target="_blank">Pay with PayPal</a>
+<a href="https://paypal.me/ugsdw/" class="button" target="_blank">Pay with PayPal</a>
 <br> <br> 
 
 You may also choose to pay dues for the entire semester ($8.00) or year ($16.00) at a time.
