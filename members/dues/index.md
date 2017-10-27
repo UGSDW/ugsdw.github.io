@@ -16,7 +16,7 @@ UGSDW has suggested dues of $2.00 per month, due on the following dates:
  - April 1
  - May 1
 
-The easiest way to pay dues is to fill out a dues check-off form.  Grinnell will automatically deduct dues from your paycheck.
+If you work in the dining hall, the easiest way to pay dues is to fill out a dues check-off form.  Grinnell will automatically deduct dues from your paycheck.
 
 <br>
 <a class="button" href="https://drive.google.com/file/d/1uVTv0z06ObxgjjtBlqn7zlP-H-s3TYbUX_7AixBwhzg/view" 
