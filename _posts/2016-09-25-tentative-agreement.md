@@ -7,7 +7,7 @@ excerpt: >
     collective bargaining agreement reached with Grinnell College.
 ---
 
-![Bargaining Team](https://ugsdw.files.wordpress.com/2016/09/bargaining_team_lowres.jpeg)
+![Bargaining Team](/assets/bargaining_team.jpg)
 
 The Contract Bargaining Team today unanimously recommended the tentative
 collective bargaining agreement reached with Grinnell College.  Highlights of

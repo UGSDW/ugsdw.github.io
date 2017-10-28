@@ -25,7 +25,7 @@ dining hall.  They do the same kind of work as their college-aged counterparts,
 and often have more experience and work more hours per week.  But they have
 been left out to dry by the College administration, which refuses to pay them
 the contract-mandated higher wage.  
-![Campus](https://ugsdw.files.wordpress.com/2017/04/campus1359.jpg?w=800)
+![Campus](/assets/news/campus_sign.jpg)
 
 When UGSDW found out about the issue, we immediately filed a grievance with the
 College, following a process we agreed on to resolve disputes like this.
