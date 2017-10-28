@@ -87,14 +87,7 @@ workers.
 To show your support, simply [join the union](/join). Once we reach 50%, we
 can bargain a contract.
 
-We'll be holding town halls in the next week to answer questions and address
-concerns.
-
-- Wednesday, September 27, 8 p.m., JRC 101
-- Saturday, September 30, 2 p.m., JRC 101
-- Sunday, October 1, 2 p.m., JRC 101
-
-You can also e-mail us at <expansion@ugsdw.org>.
+For questions or comments about the expansion, e-mail us at <expansion@ugsdw.org>.
 
 
 # What would an expanded union look like and do?
