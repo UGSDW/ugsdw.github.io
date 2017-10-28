@@ -8,7 +8,7 @@ excerpt: >
     undergraduate labor union. 
 ---
 
-![Meeting](https://ugsdw.files.wordpress.com/2016/09/mtg_1_edited.jpg&w=800)
+![Meeting](/assets/mtg_1_edited.jpg)
 
 Union members today approved their first contract with Grinnell College, and
 the first in the nation between a private college or university and an
