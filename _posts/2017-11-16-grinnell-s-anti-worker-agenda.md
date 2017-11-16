@@ -2,6 +2,7 @@
 release: false
 published: true
 title: Grinnell's Anti-worker Agenda
+author: UGSDW
 ---
 In September, UGSDW announced a campaign to bring union representation to all student workers at Grinnell. We tried to work with the Grinnell administration to reach an agreement that would ensure students had the right to decide for themselves whether to unionize or not, free from interference and intimidation.
 
