@@ -1,7 +1,7 @@
 president:
-    name: Cory McCartan
+    name: Alec Doss
     email: president@ugsdw.org
-    box: 4198
+    box: 3476
 vice-president:
     name: Quinn Ercolani
     email: vice-president@ugsdw.org
@@ -17,3 +17,4 @@ secretary:
 press-secretary:
     name: Carter Howe
     email: press@ugsdw.org
+    box: 3637
