@@ -4,433 +4,434 @@
 @import "variables"
 
 * 
-	box-sizing: border-box
-	position: relative
+    box-sizing: border-box
+    position: relative
 
 body 
-	margin: 0
-	font-family: $text-font
+    margin: 0
+    font-family: $text-font
 
 main
-	display: flex
-	margin: 2em auto 5em auto
-	padding: 0
-	font-size: 12pt
-	width: calc(100vw - 2em)
-	max-width: $center-width
-	min-height: 50vh
+    display: flex
+    margin: 2em auto 5em auto
+    padding: 0
+    font-size: 12pt
+    width: calc(100vw - 2em)
+    max-width: $center-width
+    min-height: 50vh
 
 .main-content
-	flex-shrink: 20
-	flex-grow: 1
+    flex-shrink: 20
+    flex-grow: 1
 
 aside
-	margin-left: 2em
-	flex-basis: 250px
-	flex-shrink: 0
+    margin-left: 2em
+    flex-basis: 250px
+    flex-shrink: 0
 
 
-	.description
-		color: #777
-		text-align: justify
-		font-size: 0.9rem
-		margin: 3em 0
+    .description
+        color: #777
+        text-align: justify
+        font-size: 0.9rem
+        margin: 3em 0
 
 aside > *
-	width: 100%
-	display: inline-block
+    width: 100%
+    display: inline-block
 
 
 h1,h2,h3
-	font-family: $display-font
-	margin-top: 2em
+    font-family: $display-font
+    margin-top: 2em
 
 h1:first-child,h2:first-child,h3:first-child
-	margin-top: 0
+    margin-top: 0
 
 p
-	color: #222
-	text-align: justify
-	margin-top: 0
+    color: #222
+    text-align: justify
+    margin-top: 0
 
 
 $banner-height: 180px
 $logo-height: 140px
 
 .banner 
-	background: $red
-	height: $banner-height
-	z-index: 5
+    background: $red
+    height: $banner-height
+    z-index: 5
 
 #menu
-	display: none
+    display: none
 
 a.logo-wrapper
-	display: block
-	margin: 0 auto
-	width: $logo-height
-	top: ($banner-height - $logo-height) / 2
+    display: block
+    margin: 0 auto
+    width: $logo-height
+    top: ($banner-height - $logo-height) / 2
 
 .main-logo
-	height: $logo-height
+    height: $logo-height
 
 .fb
-	position: absolute
-	top: 18px
-	left: 0
-	height: 20px
-	opacity: 0.5
+    position: absolute
+    top: 18px
+    left: 0
+    height: 20px
+    opacity: 0.5
 
 
 nav.mobile
-	visibility: hidden
-	display: flex
-	flex-direction: column
-	position: absolute
-	top: $banner-height
-	margin-top: -600px
-	background: $darkgrey
-	box-shadow: inset 0 20px 20px -20px $doverlay, 0 20px 20px -20px $doverlay
-	z-index: 2
-	width: 100vw
-	transition: margin 400ms
-	overflow: hidden
-	padding: 1.5em 1em 
+    visibility: hidden
+    display: flex
+    flex-direction: column
+    position: absolute
+    top: $banner-height
+    margin-top: -600px
+    background: $darkgrey
+    box-shadow: inset 0 20px 20px -20px $doverlay, 0 20px 20px -20px $doverlay
+    z-index: 2
+    width: 100vw
+    transition: margin 400ms
+    overflow: hidden
+    padding: 1.5em 1em 
 
 
-	a
-		color: $grey
-		text-decoration: none
-		font-size: 1.25rem
-		margin-bottom: 1.5em
+    a
+        color: $grey
+        text-decoration: none
+        font-size: 1.25rem
+        margin-bottom: 1.5em
 
-	.indent
-		display: flex
-		flex-direction: column
-		margin-left: 2em
+    .indent
+        display: flex
+        flex-direction: column
+        margin-left: 2em
 
-		a
-			font-size: 1rem !important
+        a
+            font-size: 1rem !important
 
-	.accent-nav-button
-		padding: 0.75em
-		margin-bottom: 0
-		margin-top: 0.25em
-		width: 6em
+    .accent-nav-button
+        padding: 0.75em
+        margin-bottom: 0
+        margin-top: 0.25em
+        width: 6em
 
 nav.main
-	display: inline-block
-	position: absolute
-	height: 3.2em
-	bottom: calc(#{$banner-height / 2} - 1.6em)
-	display: flex
-	justify-content: space-around
-	align-items: center
-	width: calc(50% - #{$logo-height/2})
+    display: inline-block
+    position: absolute
+    height: 3.2em
+    bottom: calc(#{$banner-height / 2} - 1.6em)
+    display: flex
+    justify-content: space-around
+    align-items: center
+    width: calc(50% - #{$logo-height/2})
 
-	div
-		padding: 1em
-		height: 3.2rem
+    div
+        padding: 1em
+        height: 3.2rem
 
-	a
-		font-family: $display-font
-		font-size: 1.1rem
-		color: white
-		text-decoration: none
+    a
+        font-family: $display-font
+        font-size: 1.1rem
+        color: white
+        text-decoration: none
 
-	div:hover
-		background-color: $overlay
-		cursor: pointer
+    div:hover
+        background-color: $overlay
+        cursor: pointer
 
 nav#left-nav
-	left: 0
+    left: 0
 
 nav#right-nav
-	right: 0
+    right: 0
 
 .dropdown > ul
-	display: none
-	position: absolute
-	z-index: 10
-	background: white
-	box-shadow: 0 6px 12px $overlay
-	border-radius: 0 2px 2px 2px
-	list-style: none
-	margin: 0.80em 0 0 -1em
-	padding: 1em
-	width: 15em
+    display: none
+    position: absolute
+    z-index: 10
+    background: white
+    box-shadow: 0 6px 12px $overlay
+    border-radius: 0 2px 2px 2px
+    list-style: none
+    margin: 0.80em 0 0 -1em
+    padding: 1em
+    width: 15em
 
-	a
-		color: black
-		font-family: $text-font
-		margin-top: 0.5em
+    a
+        color: black
+        font-family: $text-font
+        margin-top: 0.5em
 
-	a:hover
-		text-decoration: underline
+    a:hover
+        text-decoration: underline
 
-	li
-		margin-top: 0.5em
-	li:first-child
-		margin-top: 0
+    li
+        margin-top: 0.5em
+    li:first-child
+        margin-top: 0
 
 .dropdown:hover > ul,
 .dropdown > ul:hover
-	display: block
+    display: block
 
 .accent-nav-button
-	padding: 1em
-	min-width: 5em
-	text-align: center
-	color: black !important
-	background: $gold 
-	font-weight: bold
-	transition: 200ms
+    padding: 1em
+    min-width: 5em
+    text-align: center
+    color: black !important
+    background: $gold 
+    font-weight: bold
+    transition: 200ms
 
 .accent-nav-button:hover
-	background: $gold-hover 
+    background: $gold-hover 
 
 .byline
-	font-size: 0.8em
-	font-weight: bold
-	color: #777
-	display: block
-	padding-bottom: 2em
-	margin-bottom: 2em
-	border-bottom: 1px solid #aaa
+    font-size: 0.8em
+    font-weight: bold
+    color: #777
+    display: block
+    padding-bottom: 2em
+    margin-bottom: 2em
+    border-bottom: 1px solid #aaa
 
 .author
-	margin-right: 2em
-	text-transform: uppercase
+    margin-right: 2em
+    text-transform: uppercase
 
 .date
-	font-weight: normal
-	text-transform: uppercase
+    font-weight: normal
+    text-transform: uppercase
 
 .summary-date
-	font-size: 0.8em
-	color: $darkgrey
-	font-weight: normal
-	text-transform: uppercase
+    font-size: 0.8em
+    color: $darkgrey
+    font-weight: normal
+    text-transform: uppercase
 
 .post-nav
-	clear: both
-	display: flex
-	justify-content: space-between
+    clear: both
+    display: flex
+    justify-content: space-between
 
-	a
-		flex-basis: 100%
-		flex-shrink: 1
-		margin-top: 2em
+    a
+        flex-basis: 100%
+        flex-shrink: 1
+        margin-top: 2em
 
-	a.back
-		margin-right: 1em
+    a.back
+        margin-right: 1em
 
-	a.forward
-		text-align: right
-		margin-left: 1em
+    a.forward
+        text-align: right
+        margin-left: 1em
 
 
 
 iframe
-	max-width: calc(100% - 2em)
-	width: $center-width
-	border: 1px solid $grey
+    max-width: calc(100% - 2em)
+    width: $center-width
+    border: 1px solid $grey
 aside iframe
-	max-width: initial
+    max-width: initial
 
 hr
-	border: none
-	background: #aaa
-	height: 1px
+    border: none
+    background: #aaa
+    height: 1px
 
 p img
-	max-width: calc(100vw - 3em)
-	float: right
-	margin: 1em 0 1em 1em
+    max-width: calc(100% - 1em)
+    margin: 0.5em
 
 p img:not([width])
-	width: 400px
+    margin: 1em 0 1em 1em
+    float: right
+    width: 400px
 
 .main-content a:not(.button), .main-content a:visited:not(.button)
-	text-decoration: none 
-	color: #a44
+    text-decoration: none 
+    color: #a44
 .main-content a:not(.button):hover
-	text-decoration: underline
-	color: red
+    text-decoration: underline
+    color: red
 
 .fb-page
-	min-height: 400px
+    min-height: 400px
 
 form:not(.no-box)
-	padding: 1em 1.5em
-	border-left: 2px solid $red
-	background: #eee
+    padding: 1em 1.5em
+    border-left: 2px solid $red
+    background: #eee
 
 input
-	padding: 0.5em
-	margin: 0.5em 0.5em 0.5em 0
-	outline: none
-	font-size: 1rem
-	border: 1px solid $grey
-	font-family: $text-font
+    padding: 0.5em
+    margin: 0.5em 0.5em 0.5em 0
+    outline: none
+    font-size: 1rem
+    border: 1px solid $grey
+    font-family: $text-font
 
 form.no-box
-	display: inline-block
+    display: inline-block
 
-	input
-		border: none
+    input
+        border: none
 
 input:focus
-	border: 1px solid $bright-red
+    border: 1px solid $bright-red
 
 input[type=email]
-	width: calc(290px + 3em)
+    width: calc(290px + 3em)
 
 input[type=submit]
-	font-family: $display-font
-	display: inline-block
-	font-weight: bold
-	padding: 1em
-	text-decoration: none
-	background-color: $red
-	color: white
-	transition: all 200ms
-	text-align: center
+    font-family: $display-font
+    display: inline-block
+    font-weight: bold
+    padding: 1em
+    text-decoration: none
+    background-color: $red
+    color: white
+    transition: all 200ms
+    text-align: center
 input[type=submit]:hover
-	background-color: $bright-red
+    background-color: $bright-red
 
 
 footer
-	background: $darkgrey
-	color: #aaa
-	padding: 2em 4em 5em
-	box-shadow: inset 0 20px 20px -20px $doverlay
+    background: $darkgrey
+    color: #aaa
+    padding: 2em 4em 5em
+    box-shadow: inset 0 20px 20px -20px $doverlay
 
-	.center
-		margin: 0 auto
-		width: 100%
-		max-width: $center-width
+    .center
+        margin: 0 auto
+        width: 100%
+        max-width: $center-width
 
 .copyright
-	text-align: right
+    text-align: right
 
 .footer-wrap
-	display: flex
-	justify-content: space-between
-	align-items: flex-start
-	margin-bottom: 1em
+    display: flex
+    justify-content: space-between
+    align-items: flex-start
+    margin-bottom: 1em
 
 address
-	font-style: normal
+    font-style: normal
 .main-content address
-	background-color: #f0f0f0
-	border-left: 2px solid $red
-	padding: 1em
+    background-color: #f0f0f0
+    border-left: 2px solid $red
+    padding: 1em
 
 #contact
-	background: $grey
-	color: #222
-	text-decoration: none
-	padding: 0.5em
-	display: inline-block
-	font-weight: bold
-	flex-shrink: 0
-	text-align: center
-	font-size: 90%
+    background: $grey
+    color: #222
+    text-decoration: none
+    padding: 0.5em
+    display: inline-block
+    font-weight: bold
+    flex-shrink: 0
+    text-align: center
+    font-size: 90%
 
 .button
-	font-family: $display-font
-	display: inline-block
-	font-weight: bold
-	font-size: 1.2rem
-	padding: 1em
-	text-decoration: none
-	background-color: $red
-	border: 1px solid white
-	color: white
-	transition: all 200ms
-	text-align: center
+    font-family: $display-font
+    display: inline-block
+    font-weight: bold
+    font-size: 1.2rem
+    padding: 1em
+    text-decoration: none
+    background-color: $red
+    border: 1px solid white
+    color: white
+    transition: all 200ms
+    text-align: center
 
 .button:hover
-	background-color: $bright-red
+    background-color: $bright-red
 
 .gold.button
-	color: black
-	background: $gold 
+    color: black
+    background: $gold 
 
 .gold.button:hover
-	background: $gold-hover 
+    background: $gold-hover 
 
 .inline
-	display: inline-block
+    display: inline-block
 
 .main-content p .button
-	margin-right: 0.5em
+    margin-right: 0.5em
 
 @media #{$small-screen}
-	main
-		flex-direction: column
-		margin-bottom: 2em
+    main
+        flex-direction: column
+        margin-bottom: 2em
 
-	aside
-		margin-top: 2em
-		margin-left: 0
+    aside
+        margin-top: 2em
+        margin-left: 0
 
-	.fb 
-		display: none
+    .fb 
+        display: none
 
-	nav.main
-		display: none
+    nav.main
+        display: none
 
-	$banner-height: 140px
-	$logo-height: 120px
+    $banner-height: 140px
+    $logo-height: 120px
 
-	#menu
-		display: block
-		background: transparent
-		border: none
-		outline: none
-		position: absolute
-		top: $banner-height/2 - 15px
-		left: 8px
+    #menu
+        display: block
+        background: transparent
+        border: none
+        outline: none
+        position: absolute
+        top: $banner-height/2 - 15px
+        left: 8px
 
-		div
-			width: 20px
-			height: 2px
-			margin-top: 4px
-			background: white
+        div
+            width: 20px
+            height: 2px
+            margin-top: 4px
+            background: white
 
-	nav.mobile
-		top: $banner-height
-		visibility: visible
+    nav.mobile
+        top: $banner-height
+        visibility: visible
 
-	.banner 
-		height: $banner-height
+    .banner 
+        height: $banner-height
 
-	a.logo-wrapper
-		width: $logo-height
-		top: ($banner-height - $logo-height) / 2
+    a.logo-wrapper
+        width: $logo-height
+        top: ($banner-height - $logo-height) / 2
 
-	.main-logo
-		height: $logo-height
+    .main-logo
+        height: $logo-height
 
-	input:not([type=checkbox])
-		width: 100% !important
+    input:not([type=checkbox])
+        width: 100% !important
 
-	.fb-page
-		display: none !important
+    .fb-page
+        display: none !important
 
-	iframe
-		max-width: 100%
+    iframe
+        max-width: 100%
 
-	footer
-		padding: 2em 2em 5em
+    footer
+        padding: 2em 2em 5em
 
 @media #{$med-screen}
-	p img:not([width])
-		float: none
-		margin: 0
-		width: 100%
+    p img:not([width])
+        float: none
+        margin: 0
+        width: 100%
 
-	aside
-		flex-basis: 150px
+    aside
+        flex-basis: 150px
