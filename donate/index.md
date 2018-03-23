@@ -13,7 +13,7 @@ going up against one of the richest colleges in the country.
 
 Any contribution helps, and makes a real difference for us and our workers.
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amount=5%2e00&business=ugsdw.org@gmail.com&item_name==supporting+workplace+democracy+at+Grinnell%21&currency_code=USD&return=https%3A%2F%2Fwww.ugsdw.org%2Fdonate%2Fthank-you%2F" class="button inline">
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amount=5%2e00&business=ugsdw.org@gmail.com&item_name=supporting+workplace+democracy+at+Grinnell%21&currency_code=USD&return=https%3A%2F%2Fwww.ugsdw.org%2Fdonate%2Fthank-you%2F" class="button inline">
 	$5
 </a>
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amount=15%2e00&business=ugsdw.org@gmail.com&item_name=supporting+workplace+democracy+at+Grinnell%21&currency_code=USD&return=https%3A%2F%2Fwww.ugsdw.org%2Fdonate%2Fthank-you%2F" class="button inline">
