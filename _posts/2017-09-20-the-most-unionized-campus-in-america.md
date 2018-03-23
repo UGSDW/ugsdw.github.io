@@ -21,7 +21,7 @@ successful, the union would triple the size of its bargaining unit and make
 Grinnell the only educational institution in the country to have every
 undergraduate worker represented by a union.
 
-![Langston Thomas, speaking]({{site.baseurl}}/assets/news/langston_speaking.jpg)
+![Langston Thomas, speaking](/assets/news/langston_speaking.jpg)
 
 The Union of Grinnell Student Dining Workers (UGSDW) was founded in March of
 2015 to represent undergraduate workers in the college’s dining hall.  After
