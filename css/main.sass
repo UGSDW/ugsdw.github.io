@@ -10,6 +10,8 @@
 body 
     margin: 0
     font-family: $text-font
+    max-width: 100vw
+    overflow-x: hidden
 
 main
     display: flex
@@ -127,6 +129,7 @@ nav.main
     justify-content: space-around
     align-items: center
     width: calc(50% - #{$logo-height/2})
+    z-index: 5
 
     div
         padding: 1em
