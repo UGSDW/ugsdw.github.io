@@ -10,6 +10,7 @@ excerpt: >-
   organize.  The administration refuses to treat us as such; instead they
   advance an argument against unionization that is simply unsupported by the
   facts.
+author: UGSDW
 ---
 Dear Grinnellians: 
 
