@@ -1,7 +1,15 @@
 ---
 release: false
-published: false
+published: true
 title: A Response to President Kington
+excerpt: >-
+  Today President Kington sent out a Special Campus Memo addressing our ongoing
+  unionization efforts.  The memo is full of vague statements, and a few
+  thinly-veiled threats.  Notably absent is the recognition we have been
+  fighting for: that student workers are employees and have the right to
+  organize.  The administration refuses to treat us as such; instead they
+  advance an argument against unionization that is simply unsupported by the
+  facts.
 ---
 Dear Grinnellians: 
 
@@ -24,3 +32,24 @@ In strength and solidarity,
 
 
 _Alec Doss, Quinn Ercolani, Sam Xu, & Cory McCartan_
+
+
+<br><br><br><br><br><br><br>
+
+_Read the original memo:_
+
+Dear Grinnellians:
+
+A group of Grinnell students have brought forward in a letter to me their recommendation that all work-study positions on campus should be unionized. Currently, the student dining service workers are part of the Union of Grinnell Student Dining Workers. The College did not oppose the unionization of students in dining services and their decision to be represented by the union. Contrary to the suggestions in the letter, the College has and will continue to collaborate with union and nonunion members of the student body to provide a safe environment, maximize the value of the work-study experience, and treat workers with respect. Forming a union for the type of work in dining made sense because the work is not essentially bound to the educational mission of the College and is relatively homogenous in nature. Furthermore, dining service work can be filled by our students or other Grinnell community members. This is not so for many of the other types of work that students do at Grinnell.
+
+Grinnell College takes a very different position when it comes to the remainder of the work-study opportunities on campus, which are very different from each other. That is, there are very few of the jobs that share a "community of interest" with other work-study positions. Thus, no single union could adequately represent the interests of those very disparate positions. If dozens of unions were formed to cover each of the groups of student positions that are related, it would be unduly burdensome and expensive to administer such a system. The resources spent doing so would necessarily be drawn from the mission of the College. This could have an adverse impact on our students who receive financial aid through the work-study program. And, given the need to reallocate budget to cover increased costs, other benefits to the student experience would be compromised.
+
+There have been claims that Grinnell College does not view work-study participants as "employees." While we recognize the income that students earn may play an important part in financing their education, students working at the College are not here primarily to earn a living. The College values the work performed by students; however, our view of these jobs is based upon the central and fundamentally educational relationship between students and Grinnell College. Therefore, it is the College's position that work-study participants should not be considered employees for purposes of the National Labor Relations Act, and we oppose the intrusion of collective bargaining into the educational relationship.
+
+Because we are Grinnellians, I expect these points will continue to be debated and discussed in many forums. Civil and inclusive discourse is one of the hallmarks of our academic community and one we embrace as we seriously and carefully research options and implications while considering this matter. 
+
+Sincerely,
+
+_Raynard Kington_
+
+President     
