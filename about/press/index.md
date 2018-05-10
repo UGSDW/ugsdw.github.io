@@ -66,7 +66,8 @@ published: true
 (<i>Scarlet & Black</i>)<br>
 
 
-<h1>Press Releases</h1>
+# Press Releases
+
 <div class="post-container">
     {% assign releases = site.posts | where_exp: "pst", "pst.release" %}
     {% for post in releases %}
@@ -99,7 +100,6 @@ published: true
 _Click each image to download._
 
 
-<br>
 <div class="columns">
     <div>
         <a href="/assets/logo_large.png" download="ugsdw_logo.png">
