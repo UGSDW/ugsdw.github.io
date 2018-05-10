@@ -3,7 +3,6 @@ title: Press
 css: news-wrapper
 published: true
 ---
-
 # Contact
 
 <b>{{ site.data.officers.press-secretary.name }}</b>&nbsp;
@@ -12,13 +11,11 @@ published: true
 
 # Coverage
 
-[College Community Debates Expanding Union](http://www.thesandb.com/article/college-community-debates-expanding-union.html) (Scarlet & Black)
+[College Community Debates Expanding Union](http://www.thesandb.com/article/college-community-debates-expanding-union.html) (*Scarlet & Black*)
 
-<a href="http://www.thesandb.com/news/student-workers-demand-union-college-responds-no.html">Student Workers Demand Union, College Responds "No"</a>
-(<i>Scarlet & Black</i>)<br>
+[Student Workers Demand Union, College Responds "No"](http://www.thesandb.com/news/student-workers-demand-union-college-responds-no.html) (*Scarlet & Black*)
 
-<a href="http://www.dailytarheel.com/article/2017/10/grinnell-college-attempts-to-become-most-unionized-campus-in-america">Grinnell College attempts to become most unionized campus in America</a>
-(<i>Daily Tar Heel</i>)<br>
+[Grinnell College attempts to become most unionized campus in America](http://www.dailytarheel.com/article/2017/10/grinnell-college-attempts-to-become-most-unionized-campus-in-america) (*Daily Tar Heel*)
 
 <a href="https://www.campusreform.org/?ID=9865">Students seek title of &ldquo;most unionized campus in the country&rdquo;</a> 
 (<i>Campus Reform</i>)<br>
@@ -98,9 +95,11 @@ published: true
     {% endfor %}
 </div>
 
-<h1>Images</h1>
-<i>Click each image to download.</i> <br><br><br>
+# Images
+_Click each image to download._
 
+
+<br>
 <div class="columns">
     <div>
         <a href="/assets/logo_large.png" download="ugsdw_logo.png">
@@ -108,35 +107,30 @@ published: true
         </a> <br>
         Logo
     </div><br>
-
     <div>
         <a href="/assets/news/expansion_watching.jpg" download="ugsdw_expansion_2017.jpg">
         <img alt="2017 UGSDW Expansion Campaign Announcement" src="/assets/news/expansion_watching.jpg" width=360>
         </a> <br>
         Expansion campaign announcement, September 2017
     </div><br>
-
     <div>
         <a href="/assets/temp-front-picture.jpg" download="ugsdw_equal_wage_protest.jpg">
             <img alt="Equal Wage Protest" src="/assets/temp-front-picture.jpg" width=360>
         </a> <br>
         Equal wage protest, April 2017
     </div><br>
-
     <div>
         <a href="/assets/mtg_1_edited.jpg" download="ugsdw_contract_ratification_2016.jpg">
             <img alt="2016 UGSDW Contract Ratification Meeting" src="/assets/mtg_1_edited.jpg" width=360>
         </a> <br>
         2016 contract ratification meeting
     </div><br>
-
     <div>
         <a href="/assets/bargaining_team.jpg" download="ugsdw_bargaining_team_2016.jpg">
             <img alt="2016 UGSDW Bargaining Team" src="/assets/bargaining_team.jpg" width=360>
         </a> <br>
         2016 contract bargaining team
     </div><br>
-
     <div>
         <a href="/assets/front-picture.jpg" download="grinnell_college.jpg">
             <img alt="Grinnell College" src="/assets/front-picture.jpg" width=360>
