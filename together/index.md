@@ -88,19 +88,3 @@ To show your support, simply [join the union](/join). Once we reach 50%, we
 can bargain a contract.
 
 For questions or comments about the expansion, e-mail us at <expansion@ugsdw.org>.
-
-
-# What would an expanded union look like and do?
-
-As we expand this fall, we will put together a diverse organizing committee, 
-with workers from all over campus.  The organizing commitee will work with
-the membership to identify key priorities for a first contract.  The breadth
-of our coalition will allow us to effectively advocate for these goals.
-
-At the same time, we recognize that not all jobs on campus are alike.  Our 
-goal is not to interfere where things are going well now.  We plan to allow
-workers in each department to bargain over specific issues that affect them,
-instead of having everything be dictated by the entire organization.
-
-Exactly how an expanded UGSDW would operate is still up in the air.  As with
-everything we do, change will be driven by our members, new and old.
