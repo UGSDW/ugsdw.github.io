@@ -1,19 +1,28 @@
 president:
-    name: Alec Doss
-    email: president@ugsdw.org
-    box: 3476
-vice-president:
     name: Quinn Ercolani
-    email: vice-president@ugsdw.org
+    email: president@ugsdw.org
     box: 3409
-treasurer:
-    name: Sam Xu
+sec-treas:
+    name: Anastasia Zhu
     email: treasurer@ugsdw.org
-    box: 4610
-secretary:
-    name: 
-    email: secretary@ugsdw.org
-    box: 
+    box: 4802
+at-large:
+	- 
+    	name: Carter Howe
+    	email: howethom@grinnell.edu
+    - 
+    	name: Jacob Schneyer
+    	email: schneyer@grinnell.edu
+    -
+    	name: Sam Xu
+        email: xuzijun@grinnell.edu
+advisors:
+	-
+    	name: Alec Doss
+        email: dossalec@grinnell.edu
+    -
+    	name: Cory McCartan
+        email: mccartan@grinnell.edu
 press-secretary:
     name: Carter Howe
     email: press@ugsdw.org
