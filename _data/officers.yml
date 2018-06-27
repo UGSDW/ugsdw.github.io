@@ -7,21 +7,21 @@ sec-treas:
     email: treasurer@ugsdw.org
     box: 4802
 at-large:
-    - 
-    	name: Carter Howe
-    	email: howethom@grinnell.edu
-    - 
-    	name: Jacob Schneyer
-    	email: schneyer@grinnell.edu
     -
-    	name: Sam Xu
+        name: Carter Howe
+        email: howethom@grinnell.edu
+    -
+        name: Jacob Schneyer
+        email: schneyer@grinnell.edu
+    -
+        name: Sam Xu
         email: xuzijun@grinnell.edu
 advisors:
-	-
-    	name: Alec Doss
+    -
+        name: Alec Doss
         email: dossalec@grinnell.edu
     -
-    	name: Cory McCartan
+        name: Cory McCartan
         email: mccartan@grinnell.edu
 press-secretary:
     name: Carter Howe
