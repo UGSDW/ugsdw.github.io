@@ -99,54 +99,44 @@ published: true
 # Images
 _Click each image to download._
 
-
+{::nomarkdown}
 <div class="columns">
     <div>
-        <a href="/assets/logo_large.png" download="ugsdw_logo.png">
-          
-            <img alt="UGSDW logo" src="/assets/logo_large.png" width=256>
-            
+        <a href="/assets/logo_large.png" download="ugsdw_logo.png">          
+            <img alt="UGSDW logo" src="/assets/logo_large.png" width=256>            
         </a> <br>
         Logo
     </div><br>
     <div>
-        <a href="/assets/news/expansion_watching.jpg" download="ugsdw_expansion_2017.jpg">
-          
-        <img alt="2017 UGSDW Expansion Campaign Announcement" src="/assets
-        /news/expansion_watching.jpg" width=360>
+        <a href="/assets/news/expansion_watching.jpg" download="ugsdw_expansion_2017.jpg">          
+          <img alt="2017 UGSDW Expansion Campaign Announcement" src="/assets
+          /news/expansion_watching.jpg" width=360>
         </a> <br>
         Expansion campaign announcement, September 2017
     </div><br>
     <div>
-        <a href="/assets/temp-front-picture.jpg" download="ugsdw_equal_wage_protest.jpg">
-          
-            <img alt="Equal Wage Protest" src="/assets/temp-front-picture.jpg" width=360>
-            
+        <a href="/assets/temp-front-picture.jpg" download="ugsdw_equal_wage_protest.jpg">          
+            <img alt="Equal Wage Protest" src="/assets/temp-front-picture.jpg" width=360>            
         </a> <br>
         Equal wage protest, April 2017
     </div><br>
     <div>
-        <a href="/assets/mtg_1_edited.jpg" download="ugsdw_contract_ratification_2016.jpg">
-          
-            <img alt="2016 UGSDW Contract Ratification Meeting" src="/assets/mtg_1_edited.jpg" width=360>
-            
+        <a href="/assets/mtg_1_edited.jpg" download="ugsdw_contract_ratification_2016.jpg">          
+            <img alt="2016 UGSDW Contract Ratification Meeting" src="/assets/mtg_1_edited.jpg" width=360>            
         </a> <br>
         2016 contract ratification meeting
     </div><br>
     <div>
-        <a href="/assets/bargaining_team.jpg" download="ugsdw_bargaining_team_2016.jpg">
-          
-            <img alt="2016 UGSDW Bargaining Team" src="/assets/bargaining_team.jpg" width=360>
-          
+        <a href="/assets/bargaining_team.jpg" download="ugsdw_bargaining_team_2016.jpg">          
+            <img alt="2016 UGSDW Bargaining Team" src="/assets/bargaining_team.jpg" width=360>          
         </a> <br>
         2016 contract bargaining team
     </div><br>
     <div>
-        <a href="/assets/front-picture.jpg" download="grinnell_college.jpg">
-          
-            <img alt="Grinnell College" src="/assets/front-picture.jpg" width=360>
-            
+        <a href="/assets/front-picture.jpg" download="grinnell_college.jpg">          
+            <img alt="Grinnell College" src="/assets/front-picture.jpg" width=360>            
         </a> <br>
         Grinnell College
     </div><br>
 </div>
+{:/nomarkdown}
