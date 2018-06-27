@@ -9,7 +9,7 @@ published: true
 ---
 # About
 
-The only independent  undergraduate labor union in the country, UGSDW is a democratic organization that fights for fair wages and working conditions for Grinnell College workers.
+The first independent  undergraduate labor union in the country, UGSDW is a democratic organization that fights for fair wages and working conditions for Grinnell College workers.
 
 # Our Principles
 - **Workers deserve a voice.**  Without student workers, there would be no food, no library, no mentor sessions, no mail delivery.  We do vital work for the college.  Some students work 20 hours a week.  We should have a say in how we work.
@@ -29,7 +29,7 @@ margin.
 Since then, we've expanded to include all Dining Services workers.  We've fought
 for, and won:
 - An initial 9% wage increase to $9.25 an hour
-- Further increases to $9.50 an hour
+- Further increases to $9.76 an hour
 - Tiered bonuses for students who work at least 110 hours a semester
 - A grievance procedure
 - Paid rest breaks
@@ -37,25 +37,30 @@ for, and won:
 
 # Leadership
 
-The union has four elected officers, who each serve a term of one year.
+UGSDW is led by the Executive Board, which is elected yearly by the membership. The Board is comprised of our President, Secretary-Treasurer, a number of at-large members, and several appointed advisors, who do not have voting power.
 
 **{{ site.data.officers.president.name }}** &nbsp;*President* <br>
 [{{ site.data.officers.president.email }}](mailto:{{ site.data.officers.president.email }})
 
-**{{ site.data.officers.vice-president.name }}** &nbsp;*Vice President* <br>
-[{{ site.data.officers.vice-president.email }}](mailto:{{ site.data.officers.vice-president.email }})
+**{{ site.data.officers.sec-treas.name }}** &nbsp;*Secretary-Treasurer* <br>
+[{{ site.data.officers.sec-treas.email }}](mailto:{{ site.data.officers.sec-treas.email }})
 
-**{{ site.data.officers.treasurer.name }}** &nbsp;*Treasurer* <br>
-[{{ site.data.officers.treasurer.email }}](mailto:{{ site.data.officers.treasurer.email }})
+{% for officer in site.data.officers.at-large %}
+**{{ officer.name }}** &nbsp;*Member At Large* <br>
+[{{ officer.email }}](mailto:{{ officer.email }})
+{% endfor %}
 
-**{{ site.data.officers.secretary.name }}** &nbsp;*Secretary* <br>
-[{{ site.data.officers.secretary.email }}](mailto:{{ site.data.officers.secretary.email }})
+{% for officer in site.data.officers.advisors %}
+**{{ officer.name }}** &nbsp;*Advisor* <br>
+[{{ officer.email }}](mailto:{{ officer.email }})
+{% endfor %}
 
 # Financial and Government Reports
 
 ### End-of-Year Financial Reports
 
 [FY 2017](/assets/fy2017.pdf)
+[FY 2018](/assets/fy2018.pdf)
 
 ### LM-4 Reports
 
