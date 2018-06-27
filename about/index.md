@@ -59,9 +59,9 @@ UGSDW is led by the Executive Board, which is elected yearly by the membership. 
 
 ### End-of-Year Financial Reports
 
-[FY 2017](/assets/fy2017.pdf)
-[FY 2018](/assets/fy2018.pdf)
+[FY 2017](/assets/reports/fy2017.pdf)
+[FY 2018](/assets/reports/fy2018.pdf)
 
 ### LM-4 Reports
 
-[2017 LM-4](/assets/lm_4_2017.pdf)
+[2017 LM-4](/assets/reports/lm_4_2017.pdf)
