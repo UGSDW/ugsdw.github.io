@@ -109,8 +109,7 @@ _Click each image to download._
     </div><br>
     <div>
         <a href="/assets/news/expansion_watching.jpg" download="ugsdw_expansion_2017.jpg">          
-          <img alt="2017 UGSDW Expansion Campaign Announcement" src="/assets
-          /news/expansion_watching.jpg" width=360>
+          <img alt="2017 UGSDW Expansion Campaign Announcement" src="/assets/news/expansion_watching.jpg" width=360>
         </a> <br>
         Expansion campaign announcement, September 2017
     </div><br>
