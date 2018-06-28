@@ -40,4 +40,4 @@ You may also choose to pay dues for the entire semester ($8.00) or year ($16.00)
 
 <br>
 Questions about dues? E-mail your treasurer,
-[{{site.data.officers.treasurer.name}}](mailto:{{site.data.officers.treasurer.email}}).
+[{{site.data.officers.sec-treas.name}}](mailto:{{site.data.officers.sec-treas.email}}).
