@@ -21,14 +21,14 @@ GRINNELL, IOWA — In May, Grinnell College Dining Services without warning term
 
 Although UGSDW appreciates Dining Services’ cooperation throughout the process and wholeheartedly endorses their decision to reinstate all student employees, the union is very concerned with the employment practices reflected in this incident. Dining Services made several egregious mistakes that we hope will not be repeated:
 
-- Poor record keeping. Dining Services fired workers who were abroad, on leave, or who 
+- **Poor record keeping.** Dining Services fired workers who were abroad, on leave, or who 
   had already graduated. 
-- Poor communication of work rules and consequences. Neither of these were clearly      
+- **Poor communication of work rules and consequences.** Neither of these were clearly      
   explained to student workers.  When hired, workers are asked to sign a document stating   
   that they have read the rule book—yet the rule book is provided to them electronically, 
   with no chance for them to read it beforehand. It’s not fair to fire workers for rules 
   they don’t know about.
-- Lack of communication about discipline.   During this incident, some students were not
+- **Lack of communication about terminations.**   During this incident, some students were not
   even notified of their termination. Had they not been reinstated, many may have returned
   to campus expecting to be employed only to find that they had been fired.
 
