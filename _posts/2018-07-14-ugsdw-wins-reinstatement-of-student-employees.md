@@ -1,7 +1,7 @@
 ---
 release: true
 published: true
-title: UGSDW Wins Reinstatement of Student Employees
+title: UGSDW Wins Reinstatement for Student Employees
 author: UGSDW
 excerpt: >-
   UGSDW won reinstatement of 146 wrongfully fired student dining employees, but
