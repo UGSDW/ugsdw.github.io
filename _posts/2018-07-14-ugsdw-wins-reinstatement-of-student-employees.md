@@ -1,5 +1,5 @@
 ---
-release: true
+release: false
 published: true
 title: UGSDW Wins Reinstatement for Student Employees
 author: UGSDW
@@ -17,7 +17,7 @@ GRINNELL, IOWA — In May, Grinnell College Dining Services without warning term
 
 “The administration didn’t tell me I needed to work two shifts during finals,” said another.  
 
-![Joe Rosenfield Center, where Dining Services is located]({{site.baseurl}}/assets/news/IMG_0179.JPG)
+![Joe Rosenfield Center, where Dining Services is located](/assets/news/jrc.jpg)
 
 Although UGSDW appreciates Dining Services’ cooperation throughout the process and wholeheartedly endorses their decision to reinstate all student employees, the union is very concerned with the employment practices reflected in this incident. Dining Services made several egregious mistakes that we hope will not be repeated:
 
