@@ -21,7 +21,7 @@ GRINNELL, IOWA — In May, Grinnell College Dining Services without warning term
 
 “The administration didn’t tell me I needed to work two shifts during finals,” said another.  
 
-![The Joe Rosenfield Center, where Dining Services is based]({{site.baseurl}}//assets/news/jrc.jpg)
+![Joe Rosenfield Center, where Dining Services is located]({{site.baseurl}}/assets/news/IMG_0179.JPG)
 
 Although UGSDW appreciates Dining Services’ cooperation throughout the process and wholeheartedly endorses their decision to reinstate all student employees, the union is very concerned with the employment practices reflected in this incident. Dining Services made several egregious mistakes that we hope will not be repeated:
 
