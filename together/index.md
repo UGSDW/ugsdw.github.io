@@ -1,10 +1,9 @@
 ---
 nosidebar: true
 css: special
-noindex: true
-title: 2017 Expansion
+noindex: false
+title: UGSDW Expansion
 published: true
-members: 0
 ---
 
 <div class="text-banner">
@@ -24,6 +23,11 @@ Join Now!
 
 # Why a union?
 
+Workers deserve a voice. Without student workers, there would be no food, no
+library, no mentor sessions, no mail delivery. We do vital work for the
+college. Some students work 20 hours a week. We should have a say in how we
+work.
+
 Grinnell has always valued self-governance. College president George Gates 
 famously said that "It is 10,000 times better that young people should learn to 
 govern themselves." Despite this, self-governance is notably absent in 
@@ -34,20 +38,9 @@ the workplace. Wages and hours are set arbitrarily by the administration, and
 
 UGSDW can provide a voice to student workers. Together, we can advocate for our
 common goals in a way that has not been possible before. We have an opportunity
-to radically rethink the relationship between student labor and the college. We
-can make Grinnell the most unionized campus in the country, a place where 
-democracy rules over fiat, where fair wages are the rule rather than the
-exception.
-
-# Why *this* &nbsp;union?
-
-Unlike other unions for graduate and undergraduate workers, UGSDW is not
-affiliated with any national or international union. We're entirely 
-democratic and student-run.  Relying on voluntary dues and volunteered time,
-we've taken on one of the wealthiest colleges in the country and won large
-raises, negotiated new worker protections, and improved the quality of service
-in the dining hall. It's time to bring the benefits of unionization to the
-rest of campus.
+to fundamentally rethink the relationship between student labor and the college. 
+We can make Grinnell the most unionized campus in the country, a place where 
+democracy and fair wages are the rule rather than the exception.
 
 <div class="text-banner" style="font-size: 1.5rem; margin: 1em 0">
 &ldquo;Student workers can shape the college that they serve. The fight to increase
@@ -58,33 +51,33 @@ combine our voices in the name of student power.&rdquo;
 </div>
 </div>
 
-### What about dues?
 
-UGSDW has no mandatory dues. For those who are willing and able, we [suggest
-monthly dues of $2.00](/members/dues/) to help pay for things like our 
-website, printing, mailing, and food. 
-There are no dues in January, June, July, and August.
+# Our Platform
 
-# I don't want to get fired.
+If students choose to be represented by UGSDW, we will begin negotiating a
+contract with Grinnell.  First, we'll survey our members and hold meetings
+to decide bargaining priorities.  A bargaining comitee comprised of workers
+from across campus will then sit down with college administrators and 
+negotiate over wages, benefits, rules, and more.
 
-It's illegal for Grinnell to retaliate or discriminate against you in any way
-for union activity.  There's an entire government agency, the [National Labor
-Relations Board](http://www.nlrb.gov), dedicated to protecting 
-[your right](/members/rights) to have a say at work.
+In our discussions with student workers, several key issues have come up again
+and again. These are issues that will be central to our first contract campaign:
 
-We don't send the College a list of our members.  Your name and signature will
-be reviewed and counted by a neutral third party or the NLRB.
+- **A campus-wide minimum wage of $10.00 an hour.** Tuition and fees keep
+rising, but wages are raised infrequently and arbitrarily.  It's time to bring
+Grinnell into the 21st century and start paying fair wages.
+
+- **Explicit non-discrimination provisions and a fair discipline procedure.**  
+Grinnell's existing discrimination procedures have proved inadequate in 
+addressing workplace issues.  Additionally, a lack of a fair and consistent
+discipline procedure has led to 
+[wrongful mass firings](/2018/07/14/ugsdw-wins-reinstatement-of-student-employees/).
+
+- **Leave for illness and other emergencies.** While the college has stated that
+they reserve the right to fire employees for being "too sick," we believe
+that leave for medical treatment, family emergencies, and illness is a basic
+right.  Giving employees one paid sick day a semester would discourage them
+from working while sick and endangering their peers.
 
 
-# How does expansion work?
-
-We've [challenged](/assets/news/open_letter.pdf) the Grinnell administration to 
-sign a [Neutrality and Card Check Agreement](/assets/news/neutrality.pdf),
-which would force the college to remain neutral throughout the process, and to
-recognize the union once we've received the support of a majority of student
-workers.
-
-To show your support, simply [join the union](/join). Once we reach 50%, we
-can bargain a contract.
-
-For questions or comments about the expansion, e-mail us at <expansion@ugsdw.org>.
+### [Learn More: Frequently Asked Questions](/together/faq/)
