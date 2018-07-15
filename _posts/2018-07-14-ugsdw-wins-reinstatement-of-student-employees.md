@@ -1,8 +1,13 @@
 ---
-release: false
+release: true
 published: false
 title: UGSDW Wins Reinstatement of Student Employees
 author: UGSDW
+excerpt: >-
+  UGSDW won reinstatement of 146 wrongfully fired student dining employees, but
+  much remains to be improved in the employment practices of Grinnell College.
+  UGSDW will fight toward a campus-wide union to address problems across the
+  campus.
 ---
 #### Press Release
 
