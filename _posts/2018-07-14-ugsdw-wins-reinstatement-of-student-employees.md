@@ -9,10 +9,6 @@ excerpt: >-
   UGSDW will fight toward a campus-wide union to address problems across the
   campus.
 ---
-#### Press Release
-
-***
-
 ### *Union Remains Concerned about Employment Practices*
 
 GRINNELL, IOWA — In May, Grinnell College Dining Services without warning terminated 146 of their approximately 350 student workers for allegedly “not picking up finals week shifts.” UGSDW, learning of the mass terminations, quickly investigated and determined that none of the firings were for just cause. We immediately reached out to the affected student employees and contacted Dining Services demanding full reinstatement. Earlier this month, Dining Services finally reinstated all 146 workers. 
