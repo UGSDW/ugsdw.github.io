@@ -1,6 +1,6 @@
 ---
 release: true
-published: false
+published: true
 title: UGSDW Wins Reinstatement of Student Employees
 author: UGSDW
 excerpt: >-
