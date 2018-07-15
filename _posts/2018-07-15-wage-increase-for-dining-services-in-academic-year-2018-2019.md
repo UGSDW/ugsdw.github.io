@@ -9,6 +9,4 @@ excpert: >-
 ---
 GRINNELL, IOWA - UGSDW is pleased to announce that, as a result of our hard-fought [Fall 2017 contract](https://www.ugsdw.org/members/contract/ "UGSDW 2017-2019 Contract"), base wage for Dining Services (D-hall, Spencer Grill, Catering) will be increased by 2.7 percent from $9.50 to $9.76 per hour. The maximum wage in Dining Services will be $11.56 an hour, accounting for experience bonuses and Student Leader status.
 
-![East Campus of Grinnell College]({{site.baseurl}}/assets/news/1_30.jpg)
-
 “This wage increase would not have been possible without the contract we all fought hard for last year.” says Sam Xu, UGSDW Executive Board member. “We rejected the administration’s offer twice and launched multiple campaigns for a fair wage. This reaffirms that there is power when student employees unite and make our voices heard.”
