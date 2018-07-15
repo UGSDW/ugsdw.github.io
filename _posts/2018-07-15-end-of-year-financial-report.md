@@ -3,6 +3,9 @@ release: true
 published: true
 title: End-of-Year Financial Report
 author: UGSDW
+excerpt: >-
+  UGSDW releases its financial report for fiscal year 2018 (June 2017 - May
+  2018)
 ---
 
 ![UGSDW FY2018 Financial Report]({{site.baseurl}}/assets/news/cover.png)
