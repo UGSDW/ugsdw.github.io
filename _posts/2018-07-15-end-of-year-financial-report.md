@@ -3,9 +3,6 @@ release: false
 published: true
 title: End-of-Year Financial Report
 author: UGSDW
-excerpt: >-
-  UGSDW releases its financial report for fiscal year 2018 (June 2017 - May
-  2018)
 ---
 GRINNELL, IOWA — UGSDW has released its [end-of-year financial report for fiscal year 2018](/assets/reports/fy2018.pdf). The financial report details the union’s assets, liabilities, revenues, and expenses from June 2017 through May 2018.
 
