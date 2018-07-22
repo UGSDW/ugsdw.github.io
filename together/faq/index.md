@@ -21,7 +21,7 @@ the workplace. Wages and hours are set arbitrarily by the administration, and
 UGSDW can provide a voice to student workers. Together, we can advocate for our
 common goals in a way that has not been possible before. We have an opportunity
 to fundamentally rethink the relationship between student labor and the college.
-Let's sieze it.
+Let's seize it.
 
 
 ### What has UGSDW achieved in the past?  What can we hope to gain through a union?
@@ -81,11 +81,11 @@ support of UGSDW this past semester.
 
 ### I like my work and my supervisor. Why would I want a union? 
 
-Right now, the administration can change
+Right now, the administration can change 
 workplace policies at any time without consulting any student. In other words,
 without a contract, we have no security and no seat at the table when decisions
 affecting our lives and work are made by administrators. Just last year, the
-administration arbitrarily closed down two workplaces on campus, Bob's
+administration [arbitrarily closed down](https://www.ugsdw.org/2017/08/26/statement-on-the-closing-of-bob-s-underground-cafe-and-lyle-s-pub/) two workplaces on campus, Bob's
 Underground Cafe and Lyle's Pub. 
 
 Besides, when some of us are happy with our working conditions, others may not
@@ -94,6 +94,11 @@ give them a voice: with a union, we get to negotiate a contract that will
 protect the benefits we like and secure improvements in areas where we would
 like to see progress. 
 
+Finally, your supervisor wants a happy, productive workplace.  They understand the
+stress that student employment puts on you.  Many supervisors support higher
+wages and otehr workplace protections.  Joining UGSDW
+isn't a statement about your supervisor.  It's a statement about wanting a
+voice in discussions with the college administration.
 
 ### Can one union contract accommodate so many different departments at Grinnell? 
 
@@ -122,20 +127,9 @@ priority than some of the College's current expenditures.
 
 ### I heard the administration say student workers are not employees. Why? 
 
-Grinnell doesn't want student workers to unionize.  To stop us, they're trying
-a controversial legal tactic—claiming we're not employees, and so not covered
-by federal labor law.  This would strip us of our right to organize, and their
-obligation to listen to us.  They're hoping that Trump appointees on the labor
-board will side with them to deny us rights.
+Grinnell has a student “employment” office; on-campus “employment” is part of many of our members’ financial aid packages; we are “employees” on Grinnell’s tax forms. But why, when we want to unionize, are we suddenly not employees?
 
-
-### I like my supervisor. Wouldn't joining UGSDW upset them?
-
-Your supervisor wants a happy, productive workplace.  They understand the
-stress that student employment puts on you.  Many supervisors support higher
-wages (after all, they're not paying for them out of pocket).  Joining UGSDW
-isn't a statement about your supervisor.  It's a statement about wanting a
-voice in discussions with the college administration.
+Grinnell doesn’t want student workers to unionize. To stop us, they’re trying a controversial legal tactic—claiming we’re not employees, and so not covered by federal labor law. This would strip us of our right to organize for a better workplace, and their obligation to listen to us. The National Labor Relations Board [ruled](https://www.nlrb.gov/news-outreach/news-story/board-student-assistants-covered-nlra-0) in 2016 that this very argument “deprived an entire category of workers of the protections” under federal labor law. Now the administration is hoping that Trump appointees on the labor board will side with them.
 
 
 ### What about dues?
@@ -175,5 +169,3 @@ don't want to confuse people with a name change.
 
 [Write to us!](mailto:expansion@ugsdw.org) We're happy to answer any questions
 you have about UGSDW and the expansion campaign.
-
-
