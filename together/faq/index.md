@@ -21,7 +21,7 @@ the workplace. Wages and hours are set arbitrarily by the administration, and
 UGSDW can provide a voice to student workers. Together, we can advocate for our
 common goals in a way that has not been possible before. We have an opportunity
 to fundamentally rethink the relationship between student labor and the college.
-Let's sieze it.
+Let's seize it.
 
 
 ### What has UGSDW achieved in the past?  What can we hope to gain through a union?
@@ -175,5 +175,3 @@ don't want to confuse people with a name change.
 
 [Write to us!](mailto:expansion@ugsdw.org) We're happy to answer any questions
 you have about UGSDW and the expansion campaign.
-
-
