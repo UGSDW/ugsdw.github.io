@@ -80,8 +80,7 @@ While the union is administered and managed by the [Executive Board](https://www
 
 ### What about dues?
 
-We [encourage](https://www.ugsdw.org/members/dues/) our members to pay 2 dollars per month when classes are in session--That means fewer than 15 minutes of work. Dues fund snacks at our meetings, films we screen, union buttons, our website, and many more. We do understand that paying dues may be too much for some members, so we have _no mandatory dues_. Whether you pay dues doesn’t impact your membership status in any way. You can learn how UGSDW raises and spends money this past year by reading our [financial report](https://www.ugsdw.org/assets/reports/fy2018.pdf).
-
+We [encourage](https://www.ugsdw.org/members/dues/) our members to pay 2 dollars per month when classes are in session--That means fewer than 15 minutes of work. Dues fund snacks at our meetings, films we screen, union buttons, our website, and many more. And no money can be spent without our members’ approval! We do understand that paying dues may be too much for some members, so we have _no mandatory dues_. Whether you pay dues doesn’t impact your membership status in any way. You can learn how UGSDW raises and spends money this past year by reading our [financial report](https://www.ugsdw.org/assets/reports/fy2018.pdf).
 
 
 ### Can one union contract accommodate so many different departments at Grinnell? 
@@ -165,11 +164,9 @@ support of UGSDW this past semester.
 
 ### I heard the administration say student workers are not employees. Why? 
 
-Grinnell doesn't want student workers to unionize.  To stop us, they're trying
-a controversial legal tactic—claiming we're not employees, and so not covered
-by federal labor law.  This would strip us of our right to organize, and their
-obligation to listen to us.  They're hoping that Trump appointees on the labor
-board will side with them to deny us rights.
+Grinnell has a student “employment” office; on-campus “employment” is part of many of our members’ financial aid packages; we are “employees” on Grinnell’s tax forms. But why, when we want to unionize, are we suddenly not employees?  
+
+Grinnell doesn’t want student workers to unionize. To stop us, they’re trying a controversial legal tactic—claiming we’re not employees, and so not covered by federal labor law. This would strip us of our right to organize for a better workplace, and their obligation to listen to us.  The National Labor Relations Board [ruled](https://www.nlrb.gov/news-outreach/news-story/board-student-assistants-covered-nlra-0) in 2016 that this very argument “deprived an entire category of workers of the protections” by federal labor law. Now the administration is hoping that Trump appointees on the labor board will side with them.
 
 
 ### Further questions?
