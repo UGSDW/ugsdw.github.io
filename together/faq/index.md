@@ -147,9 +147,7 @@ like to see progress.
 
 Your supervisor wants a happy, productive workplace.  They understand the
 stress that student employment puts on you.  Many supervisors support higher
-wages (after all, they're not paying for them out of pocket).  Joining UGSDW
-isn't a statement about your supervisor.  It's a statement about wanting a
-voice in discussions with the college administration.
+wages and other workplace protections. Joining UGSDW isn't a statement about your supervisor.  It's a statement about wanting a voice in discussions with the college administration.
 
 
 ### How is UGSDW different from SGA?
