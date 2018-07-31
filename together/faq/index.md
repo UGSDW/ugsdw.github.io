@@ -24,6 +24,16 @@ to fundamentally rethink the relationship between student labor and the college.
 Let's seize it.
 
 
+### The D in UGSDW stands for dining. Why doesn’t UGSDW change its name now that it seeks to represent students outside Dining Services?
+
+We're focused on giving student workers a voice.  Changing our name would
+involve a lot of administrative headaches that would detract from this—buying a
+new website, re-filing taxes and many government documents, changing our bank
+account, editing hundreds of documents, and more.  We're also proud of our
+union being the first independent undergraduate union the the country, and
+don't want to confuse people with a name change.
+
+
 ### What has UGSDW achieved in the past?  What can we hope to gain through a union?
 
 By expanding UGSDW, we hope to give every student employee a voice in their own
@@ -40,16 +50,6 @@ grievance procedure.
 [Read more about our goals for a new contract](/together/#our-platform).
 
 ![Langston Thomas, speaking at the announcement event for UGSDW's expansion campaign.](/assets/news/langston_speaking.jpg)
-
-
-### The D in UGSDW stands for dining. Why doesn’t UGSDW change its name now that it seeks to represent students outside Dining Services?
-
-We're focused on giving student workers a voice.  Changing our name would
-involve a lot of administrative headaches that would detract from this—buying a
-new website, re-filing taxes and many government documents, changing our bank
-account, editing hundreds of documents, and more.  We're also proud of our
-union being the first independent undergraduate union the the country, and
-don't want to confuse people with a name change.
 
 
 ### How do we get union representation and a contract?
@@ -74,13 +74,11 @@ Any student who works a job on campus or receives a paycheck from Grinnell
 College would be represented by UGSDW.
 
 
-### What are the rules governing how UGSDW is run?
-While the union is administered and managed by the [Executive Board](https://www.ugsdw.org/about/) elected annually by members, the Board has very few powers other than those explicitly granted to it by members. At the end of the day, members have complete control over the union and its decisions. Union meetings happen every month or so, and any member can make proposals and have them voted on. For more details, read our [constitution](https://www.ugsdw.org/about/constitution/).
+### Can international students participate in the union? 
 
-
-### What about dues?
-
-We [encourage](https://www.ugsdw.org/members/dues/) our members to pay 2 dollars per month when classes are in session--That means fewer than 15 minutes of work. Dues fund snacks at our meetings, films we screen, union buttons, our website, and many more. And no money can be spent without our members’ approval! We do understand that paying dues may be too much for some members, so we have _no mandatory dues_. Whether you pay dues doesn’t impact your membership status in any way. You can learn how UGSDW raises and spends money this past year by reading our [financial report](https://www.ugsdw.org/assets/reports/fy2018.pdf).
+Absolutely! Many of our members and several of our officers are international
+students. Joining a union has absolutely no impact on your immigration status
+or student visa.
 
 
 ### Can one union contract accommodate so many different departments at Grinnell? 
@@ -109,6 +107,15 @@ We certainly think that paying employees a fair wage should be a higher
 priority than some of the College's current expenditures.
 
 
+### What are the rules governing how UGSDW is run?
+While the union is administered and managed by the [Executive Board](https://www.ugsdw.org/about/) elected annually by members, the Board has very few powers other than those explicitly granted to it by members. At the end of the day, members have complete control over the union and its decisions. Union meetings happen every month or so, and any member can make proposals and have them voted on. For more details, read our [constitution](https://www.ugsdw.org/about/constitution/).
+
+
+### What about dues?
+
+We [encourage](https://www.ugsdw.org/members/dues/) our members to pay 2 dollars per month when classes are in session--That means fewer than 15 minutes of work. Dues fund snacks at our meetings, films we screen, union buttons, our website, and many more. And no money can be spent without our members’ approval! We do understand that paying dues may be too much for some members, so we have _no mandatory dues_. Whether you pay dues doesn’t impact your membership status in any way. You can learn how UGSDW raises and spends money this past year by reading our [financial report](https://www.ugsdw.org/assets/reports/fy2018.pdf).
+
+
 ### Can I be fired for joining UGSDW?
 
 It's illegal for Grinnell to retaliate or discriminate against you in any way
@@ -118,13 +125,6 @@ Relations Board](http://www.nlrb.gov), dedicated to protecting
 
 We don't send the College a list of our members.  Your name and signature will
 be reviewed and counted by a neutral third party or the NLRB.
-
-
-### Can international students participate in the union? 
-
-Absolutely! Many of our members and several of our officers are international
-students. Joining a union has absolutely no impact on your immigration status
-or student visa.
 
 
 ### I like my work. Why would I want a union? 
@@ -152,6 +152,13 @@ isn't a statement about your supervisor.  It's a statement about wanting a
 voice in discussions with the college administration.
 
 
+### I heard the administration say student workers are not employees. Why? 
+
+Grinnell has a student “employment” office; on-campus “employment” is part of many of our members’ financial aid packages; we are “employees” on Grinnell’s tax forms. But why, when we want to unionize, are we suddenly not employees?  
+
+Grinnell doesn’t want student workers to unionize. To stop us, they’re trying a controversial legal tactic—claiming we’re not employees, and so not covered by federal labor law. This would strip us of our right to organize for a better workplace, and their obligation to listen to us.  The National Labor Relations Board [ruled](https://www.nlrb.gov/news-outreach/news-story/board-student-assistants-covered-nlra-0) in 2016 that this very argument “deprived an entire category of workers of the protections” by federal labor law. Now the administration is hoping that Trump appointees on the labor board will side with them.
+
+
 ### How is UGSDW different from SGA?
 
 SGA can play a meaningful role in enhancing the workplace experience of student
@@ -160,13 +167,6 @@ recommendations or requests. On the other hand, the administration has a legal
 obligation to bargain with us, represented by UGSDW, as equals over things like
 wages and workplace protections. In fact, SGA has passed a resolution in
 support of UGSDW this past semester.
-
-
-### I heard the administration say student workers are not employees. Why? 
-
-Grinnell has a student “employment” office; on-campus “employment” is part of many of our members’ financial aid packages; we are “employees” on Grinnell’s tax forms. But why, when we want to unionize, are we suddenly not employees?  
-
-Grinnell doesn’t want student workers to unionize. To stop us, they’re trying a controversial legal tactic—claiming we’re not employees, and so not covered by federal labor law. This would strip us of our right to organize for a better workplace, and their obligation to listen to us.  The National Labor Relations Board [ruled](https://www.nlrb.gov/news-outreach/news-story/board-student-assistants-covered-nlra-0) in 2016 that this very argument “deprived an entire category of workers of the protections” by federal labor law. Now the administration is hoping that Trump appointees on the labor board will side with them.
 
 
 ### Further questions?
