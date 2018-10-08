@@ -4,6 +4,13 @@ published: false
 title: 'UGSDW Files for Election, Paving the Way for Campus-wide Union'
 author: UGSDW
 ---
+
+#### Press Release
+
+***
+
+### *Legal Fight Expected; College Administration Weighs Strategy*
+
 GRINNELL, IOWA — The Union of Grinnell Student Dining Workers (UGSDW) filed a petition on Monday with the federal National Labor Relations Board (NLRB),  a first step towards a union election which would allow UGSDW to represent all student workers at Grinnell College.  If more than 50% of the votes at the election are for the union, it will be certified, and the college will be required to start bargaining over wages, benefits, and workplace conditions.  
 
 UGSDW has represented workers in Grinnell’s Dining Services since May 2016, but last September, the union began a historic campaign to extend its representation to the rest of campus.  Over the last year, over 500 student workers have joined the union; to hold an election, UGSDW needed 30% of all student workers outside Dining Services to join. Union estimates peg the total number of such workers at around 1,000.    
