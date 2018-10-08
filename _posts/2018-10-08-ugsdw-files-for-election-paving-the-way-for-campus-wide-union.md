@@ -1,6 +1,6 @@
 ---
 release: false
-published: false
+published: true
 title: 'UGSDW Files for Election, Paving the Way for Campus-wide Union'
 author: UGSDW
 ---
