@@ -21,6 +21,11 @@ Join Now!
 </a>
 </div>
 
+# Updates
+
+- **October 8, 2018:** UGSDW has [filed for an election](/2018/10/08/ugsdw-files-for-election-paving-the-way-for-campus-wide-union/) with the National Labor Relations Board, setting up a campus-wide 
+election in the coming weeks.
+
 # Why a union?
 
 Workers deserve a voice. Without student workers, there would be no food, no
