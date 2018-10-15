@@ -11,6 +11,8 @@ published: true
 
 # Coverage
 
+[UGSDW Aims to Expand](http://www.thesandb.com/article/ugsdw-aims-to-expand.html) (*Scarlet & Black*)
+
 [College Community Debates Expanding Union](http://www.thesandb.com/article/college-community-debates-expanding-union.html) (*Scarlet & Black*)
 
 [Student Workers Demand Union, College Responds "No"](http://www.thesandb.com/news/student-workers-demand-union-college-responds-no.html) (*Scarlet & Black*)
