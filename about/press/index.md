@@ -11,6 +11,8 @@ published: true
 
 # Coverage
 
+[College and Union Convene Historic Hearing on Expanded Unionization Efforts](http://www.thesandb.com/article/college-and-union-convene-historic-hearing-on-expanded-unionization-efforts.html?fbclid=IwAR0uJfV1xiYYxiobpxZbxRacxStYCsIkKjyKSXu58F0MIo9Ki2dSHmwN1DQ) (*Scarlet & Black*)
+
 [UGSDW Aims to Expand](http://www.thesandb.com/article/ugsdw-aims-to-expand.html) (*Scarlet & Black*)
 
 [College Community Debates Expanding Union](http://www.thesandb.com/article/college-community-debates-expanding-union.html) (*Scarlet & Black*)
