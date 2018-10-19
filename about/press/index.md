@@ -11,6 +11,8 @@ published: true
 
 # Coverage
 
+[Historic Unionization Hearing Concludes, with NLRB Ruling Pending](http://www.thesandb.com/article/historic-unionization-hearing-concludes-with-nlrb-ruling-pending.html) (*Scarlet & Black*)
+
 [College and Union Convene Historic Hearing on Expanded Unionization Efforts](http://www.thesandb.com/article/college-and-union-convene-historic-hearing-on-expanded-unionization-efforts.html?fbclid=IwAR0uJfV1xiYYxiobpxZbxRacxStYCsIkKjyKSXu58F0MIo9Ki2dSHmwN1DQ) (*Scarlet & Black*)
 
 [UGSDW Aims to Expand](http://www.thesandb.com/article/ugsdw-aims-to-expand.html) (*Scarlet & Black*)
