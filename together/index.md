@@ -62,7 +62,7 @@ combine our voices in the name of student power.&rdquo;
 
 If students choose to be represented by UGSDW, we will begin negotiating a
 contract with Grinnell.  First, we'll survey our members and hold meetings
-to decide bargaining priorities.  A bargaining comitee comprised of workers
+to decide bargaining priorities.  A bargaining comittee comprised of workers
 from across campus will then sit down with college administrators and 
 negotiate over wages, benefits, rules, and more.
 
