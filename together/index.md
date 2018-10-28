@@ -23,7 +23,7 @@ Join Now!
 
 # Updates
 
-- **October 18, 2018:** The labor board concludes a two-day hearing with UGSDW and the college about the union's election petition.  
+- **October 18, 2018:** The labor board concludes a two-day hearing with UGSDW and the college about the union's election petition.  [Read](http://www.thesandb.com/article/college-and-union-convene-historic-hearing-on-expanded-unionization-efforts.html) [more](http://www.thesandb.com/article/historic-unionization-hearing-concludes-with-nlrb-ruling-pending.html).
 - **October 8, 2018:** UGSDW has [filed for an election](/2018/10/08/ugsdw-files-for-election-paving-the-way-for-campus-wide-union/) with the National Labor Relations Board, setting up a campus-wide 
 election in the coming weeks.
 
