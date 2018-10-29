@@ -8,9 +8,6 @@ sec-treas:
     box: 4802
 at-large:
     -
-        name: Carter Howe
-        email: howethom@grinnell.edu
-    -
         name: Jacob Schneyer
         email: schneyer@grinnell.edu
     -
@@ -24,6 +21,6 @@ advisors:
         name: Cory McCartan
         email: mccartan@grinnell.edu
 press-secretary:
-    name: Carter Howe
+    name: Currently Vacant
     email: press@ugsdw.org
-    box: 3637
+    box: 
