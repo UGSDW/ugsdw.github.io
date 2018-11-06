@@ -113,6 +113,7 @@ _Click each image to download._
         </a> <br>
         Logo
     </div><br>
+    <!--
     <div>
         <a href="/assets/news/expansion_watching.jpg" download="ugsdw_expansion_2017.jpg">          
           <img alt="2017 UGSDW Expansion Campaign Announcement" src="/assets/news/expansion_watching.jpg" width=360>
@@ -137,6 +138,7 @@ _Click each image to download._
         </a> <br>
         2016 contract bargaining team
     </div><br>
+-->
     <div>
         <a href="/assets/front-picture.jpg" download="grinnell_college.jpg">          
             <img alt="Grinnell College" src="/assets/front-picture.jpg" width=360>            
