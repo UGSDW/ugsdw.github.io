@@ -11,6 +11,8 @@ published: true
 
 # Coverage
 
+[In Iowa, Pioneering Undergrad Workers Union Keeps Growing](http://labornotes.org/2018/11/iowa-pioneering-undergrad-workers-union-keeps-growing) (*Labor Notes*)
+
 [Historic Unionization Hearing Concludes, with NLRB Ruling Pending](http://www.thesandb.com/article/historic-unionization-hearing-concludes-with-nlrb-ruling-pending.html) (*Scarlet & Black*)
 
 [College and Union Convene Historic Hearing on Expanded Unionization Efforts](http://www.thesandb.com/article/college-and-union-convene-historic-hearing-on-expanded-unionization-efforts.html?fbclid=IwAR0uJfV1xiYYxiobpxZbxRacxStYCsIkKjyKSXu58F0MIo9Ki2dSHmwN1DQ) (*Scarlet & Black*)
