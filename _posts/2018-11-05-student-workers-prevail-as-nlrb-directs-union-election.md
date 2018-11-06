@@ -2,7 +2,14 @@
 release: false
 published: false
 title: Student Workers Prevail as NLRB Directs Union Election
+author: UGSDW
+excerpt: >
+  Today, the Regional Director of the NLRB in Minneapolis published a decision
+  about our pending unionization case, directing an election for November 27.
 ---
+
+![NLRB Hearing, October 18, 2018](/assets/news/hearing-10-2018.jpg)
+
 Today, the Regional Director of the NLRB in Minneapolis published a decision about our
 [recent hearing and case](https://www.nlrb.gov/case/18-RC-228797).  For two straight
 days, the College and its union-busting lawyers tried to argue that unionization would
