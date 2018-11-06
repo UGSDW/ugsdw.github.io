@@ -1,6 +1,6 @@
 ---
 release: false
-published: false
+published: true
 title: Student Workers Prevail as NLRB Directs Union Election
 author: UGSDW
 excerpt: >
