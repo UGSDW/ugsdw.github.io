@@ -11,6 +11,8 @@ published: true
 
 # Coverage
 
+[The College Announces Plan to Appeal NLRB Decision](http://www.thesandb.com/article/the-college-announces-plans-to-appeal-nlrb-decision.html) (*Scarlet & Black*)
+
 [In Iowa, Pioneering Undergrad Workers Union Keeps Growing](http://labornotes.org/2018/11/iowa-pioneering-undergrad-workers-union-keeps-growing) (*Labor Notes*)
 
 [Historic Unionization Hearing Concludes, with NLRB Ruling Pending](http://www.thesandb.com/article/historic-unionization-hearing-concludes-with-nlrb-ruling-pending.html) (*Scarlet & Black*)
