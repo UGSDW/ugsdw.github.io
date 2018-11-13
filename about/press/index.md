@@ -11,6 +11,8 @@ published: true
 
 # Coverage
 
+[UGSDW Wins Right to Election](http://www.thesandb.com/news/ugsdw-wins-right-to-election.html) (*Scarlet & Black*)
+
 [The College Announces Plan to Appeal NLRB Decision](http://www.thesandb.com/article/the-college-announces-plans-to-appeal-nlrb-decision.html) (*Scarlet & Black*)
 
 [In Iowa, Pioneering Undergrad Workers Union Keeps Growing](http://labornotes.org/2018/11/iowa-pioneering-undergrad-workers-union-keeps-growing) (*Labor Notes*)
