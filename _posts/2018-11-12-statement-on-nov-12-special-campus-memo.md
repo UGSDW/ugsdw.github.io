@@ -1,6 +1,6 @@
 ---
 release: true
-published: false
+published: true
 title: Statement on Nov. 12 Special Campus Memo
 author: UGSDW
 excerpt: >
