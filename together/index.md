@@ -23,6 +23,7 @@ Join Now!
 
 # Updates
 
+- **November 12, 2018:** Grinnell College [continues its misinformation and intimidation tactics](https://www.ugsdw.org/2018/11/12/statement-on-nov-12-special-campus-memo/).
 - **November 5, 2018:** The Regional Director of the NLRB has [ruled in UGSDW's favor and directed an election](/2018/11/05/student-workers-prevail-as-nlrb-directs-union-election/).
 - **October 18, 2018:** The labor board concludes a two-day hearing with UGSDW and the college about the union's election petition.  [Read](http://www.thesandb.com/article/college-and-union-convene-historic-hearing-on-expanded-unionization-efforts.html) [more](http://www.thesandb.com/article/historic-unionization-hearing-concludes-with-nlrb-ruling-pending.html).
 - **October 8, 2018:** UGSDW has [filed for an election](/2018/10/08/ugsdw-files-for-election-paving-the-way-for-campus-wide-union/) with the National Labor Relations Board, setting up a campus-wide 
