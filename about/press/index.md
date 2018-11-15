@@ -11,6 +11,8 @@ published: true
 
 # Coverage
 
+[Ep. 108: The Union of Grinnell Student Dining Workers](http://www.futureleft.org/home/2018/11/14/ep-108-the-union-of-grinnell-student-dining-workers-ft-sam-xu) (*Future Left*)
+
 [UGSDW Wins Right to Election](http://www.thesandb.com/news/ugsdw-wins-right-to-election.html) (*Scarlet & Black*)
 
 [The College Announces Plan to Appeal NLRB Decision](http://www.thesandb.com/article/the-college-announces-plans-to-appeal-nlrb-decision.html) (*Scarlet & Black*)
