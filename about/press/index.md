@@ -5,10 +5,11 @@ published: true
 ---
 <h1>Contact</h1>
 <address>
-<b>{{ site.data.officers.press-secretary.name }}</b>&nbsp;
+<b>{{ site.data.officers.press-secretary.name }}</b>&nbsp;<br>
 <i>Press Secretary</i><br>
-<a href="mailto:press@ugsdw.org">press@ugsdw.org</a><br><br>
+<a href="mailto:press@ugsdw.org">press@ugsdw.org</a><br>
 </address>
+<br>
 
 # Coverage
 
