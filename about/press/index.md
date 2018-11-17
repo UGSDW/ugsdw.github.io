@@ -3,11 +3,12 @@ title: Press
 css: news-wrapper
 published: true
 ---
-# Contact
-
+<h1>Contact</h1>
+<address>
 <b>{{ site.data.officers.press-secretary.name }}</b>&nbsp;
 <i>Press Secretary</i><br>
 <a href="mailto:press@ugsdw.org">press@ugsdw.org</a><br><br>
+</address>
 
 # Coverage
 
