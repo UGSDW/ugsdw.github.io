@@ -38,17 +38,11 @@ NLRB rules.
 Also discussed in the campus memo was the College’s hiring of Proskauer Rose, an
 international law firm headquartered in New York City. The cost of hiring such a prestigious
 firm is almost unfathomable. Proskauer Rose has thirteen offices worldwide, employs over 700
-lawyers, and represents some of the most despicable corporate juggernauts and human rights
-abusers in the world today. Notable clients include Raytheon (weapons manufacturer famous
-for [developing torture technology in U.S. 
-prisons](https://www.npr.org/templates/story/story.php?storyId=129630188)), 
-Lockheed Martin (missile manufacturer that [built the bomb that killed 40 Yemeni
-children in a school bus](https://edition.cnn.com/2018/08/17/middleeast/us-saudi-yemen-bus-strike-intl/index.html)), 
-Kinder Morgan (pipeline company [known for spills and accidents](https://en.wikipedia.org/wiki/Kinder_Morgan#Accidents)), 
-and BP (whose negligence led to what many consider to be the [greatest environmental 
-disaster in U.S. history](https://www.nytimes.com/2010/05/28/us/28flow.html)). To think that Grinnell College would
-associate itself with this array of malevolent corporations is stunning—but under Raynard
-Kington, we continue to see our values and beliefs eroded in the name of union-busting.
+lawyers, and has a history of anti-union practice, including action against student workers
+at Columbia University, Yale University, the University of Chicago, and Cornell University.
+To think that Grinnell College would associate itself so clearly with this anti-labor juggernaut
+is unfortunately not much of a surprise anymore. Under Raynard Kington, the administration, and the
+Board of Trustees, we continue to see our institutional values and beliefs eroded.
 
 UGSDW can and will picket and strike to protest the unfair treatment of workers by the College
 and protect the rights of hundreds of thousands of other undergraduate and graduate workers
