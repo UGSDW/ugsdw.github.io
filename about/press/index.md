@@ -13,6 +13,8 @@ published: true
 
 # Coverage
 
+[Liberal Arts Students’ Union Bid Threatens Obama-Era Policy](https://news.bloomberglaw.com/daily-labor-report/liberal-arts-students-union-bid-threatens-obama-era-policy) (*Bloomberg Law*)
+
 [Ep. 108: The Union of Grinnell Student Dining Workers](http://www.futureleft.org/home/2018/11/14/ep-108-the-union-of-grinnell-student-dining-workers-ft-sam-xu) (*Future Left*)
 
 [UGSDW Wins Right to Election](http://www.thesandb.com/news/ugsdw-wins-right-to-election.html) (*Scarlet & Black*)
