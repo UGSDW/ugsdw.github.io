@@ -91,8 +91,11 @@ from working while sick and endangering their peers.
 
 # More Information and Resources
 
-[A Case for UGSDW for All](/together/why/)
+Looking for a more detailed argument in favor of UGSDW's expansion? The union has put
+together [an extensively-researched document arguing in favor unionization](/together/why/),
+and explaining why the college's "arguments" are little more than convenient misrepresentations
+designed to deny student workers their rights.
 
-[Grinnell's website on unionization](https://www.grinnell.edu/campus-life/conversations/unionization)
+You can hear from the college in it's own words on [its dedicated unionization website](https://www.grinnell.edu/campus-life/conversations/unionization).
 
-[More news about our expansion](/news/)
+An [FAQ for expansion](/together/faq/) is also available.
