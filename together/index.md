@@ -15,15 +15,10 @@ published: true
 Student workers deserve a say.  UGSDW can give them one.
 </span>
 
-<div style="text-align: center">
-<a href="/join" style="width: 60%; font-size: 1.5em; border-width: 2.5rem; border-color: #b22 white #b22 white; height: 0; padding: 0; line-height: 0; min-width: 240px" class="button">
-Join Now!
-</a>
-</div>
 
 # Updates
 
-- **November 19, 2018:** Grinnell has filed a motion to stop the election going forward, with the help of three new lawyers from [Proskauer Rose](http://www.proskauer.com), one of the top union-busting firms in the country.  The college now has five lawyers working to deny us a vote on a union. 
+- **November 19, 2018:** Grinnell [has filed a motion to stop the election going forward](/2018/11/19/statement-on-nov-19-special-campus-memo/), with the help of three new lawyers from [Proskauer Rose](http://www.proskauer.com), one of the top union-busting firms in the country.  The college now has five lawyers working to deny us a vote on a union. 
 - **November 12, 2018:** Grinnell College [continues its misinformation and intimidation tactics](https://www.ugsdw.org/2018/11/12/statement-on-nov-12-special-campus-memo/).
 - **November 5, 2018:** The Regional Director of the NLRB has [ruled in UGSDW's favor and directed an election](/2018/11/05/student-workers-prevail-as-nlrb-directs-union-election/).
 - **October 18, 2018:** The labor board concludes a two-day hearing with UGSDW and the college about the union's election petition.  [Read](http://www.thesandb.com/article/college-and-union-convene-historic-hearing-on-expanded-unionization-efforts.html) [more](http://www.thesandb.com/article/historic-unionization-hearing-concludes-with-nlrb-ruling-pending.html).
