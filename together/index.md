@@ -26,7 +26,7 @@ Student workers deserve a say.  UGSDW can give them one.
 election in the coming weeks.
 
 
-<a href="/together/faq" class="button">Learn More: Frequently Asked Questions</a>
+<a href="/together/faq/" class="button">Learn More: Frequently Asked Questions</a>
 
 
 # Why a union?
@@ -60,7 +60,7 @@ combine our voices in the name of student power.&rdquo;
 </div>
 
 
-{#
+{% comment %} 
 # Our Platform
 
 If students choose to be represented by UGSDW, we will begin negotiating a
@@ -87,4 +87,4 @@ they reserve the right to fire employees for being "too sick," we believe
 that leave for medical treatment, family emergencies, and illness is a basic
 right.  Giving employees one paid sick day a semester would discourage them
 from working while sick and endangering their peers.
-#}
+{% endcomment %} 
