@@ -87,7 +87,7 @@ of student unionization is a violation of federal labor law.[^14]
 <div class="text-banner" style="margin: 1em 10% 1em 0">
 <h1 style="font-weight: normal">
 <span style="font-weight: bold">II.</span>&nbsp;&nbsp;
-Expansion would have extremely limited financial impacts on Grinnell College.
+UGSDW has a positive influence on student workers’ education.
 </h1>
 </div>
 
