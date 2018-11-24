@@ -155,7 +155,7 @@ them.[^22] [^23] [^24]
 Indeed, effective advocacy requires sufficient evidence and information. The
 National Labor Relations Act does require employers to provide unions with
 information relevant to collective bargaining. However, the vast majority of
-information UGSDW needs, such as how many student workers work are in each pay
+information UGSDW needs, such as how many student workers are in each pay
 category, is not individually identifiable and thus not confidential. In the
 rare cases where individual information is necessary, such as wrongful
 termination, UGSDW will never pursue any individual information without the
