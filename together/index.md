@@ -15,6 +15,12 @@ published: true
 Student workers deserve a say.  UGSDW can give them one.
 </span>
 
+# Election Details
+
+- **When:** Tuesday, November 27, from 9 a.m. until 5 p.m.
+- **Where:** Joe Rosenfield Center Room 101
+- **What to Bring:** Photo ID such as a driver's license or student ID.
+- **Questions or concerns:** E-mail <expansion@ugsdw.org>.
 
 # Updates
 
