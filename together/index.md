@@ -26,7 +26,7 @@ Student workers deserve a say.  UGSDW can give them one.
 election in the coming weeks.
 
 
-<a href="/together/faq/" class="button">Learn More: Frequently Asked Questions</a>
+<a href="/together/faq/" class="button">Learn More: Frequently Asked Questions &raquo;</a>
 
 
 # Why a union?
@@ -59,7 +59,6 @@ combine our voices in the name of student power.&rdquo;
 </div>
 </div>
 
-
 {% comment %} 
 # Our Platform
 
@@ -88,3 +87,12 @@ that leave for medical treatment, family emergencies, and illness is a basic
 right.  Giving employees one paid sick day a semester would discourage them
 from working while sick and endangering their peers.
 {% endcomment %} 
+
+
+# More Information and Resources
+
+[A Case for UGSDW for All](/together/why/)
+
+[Grinnell's website on unionization](https://www.grinnell.edu/campus-life/conversations/unionization)
+
+[More news about our expansion](/news/)
