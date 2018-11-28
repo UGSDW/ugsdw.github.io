@@ -1,5 +1,5 @@
 ---
-release: true
+release: false
 published: true
 title: 'Student Workers: We''re Stickin'' with the Union'
 author: UGSDW
@@ -8,9 +8,9 @@ author: UGSDW
 
 ***
 
-### *UGSDW Emerges Victorious in NLRB Election***
+### *UGSDW Emerges Victorious in NLRB Election*
 
-GRINNELL, IOWA — On Tuesday, ballots were cast and counted in the National Labor Relations Board’s secret ballot election determining whether student workers across campus want to be represented by UGSDW.  We are excited to announce that we won the election by a five-to-one margin, and we’re grateful to our supporters for turning out and making their voices heard. Out of the 366 voting, 274 voted yes, 54 voted no, and 38 voted under challenged ballot. 
+GRINNELL, IOWA — On Tuesday, ballots were cast and counted in the National Labor Relations Board’s secret ballot election determining whether student workers across campus want to be represented by UGSDW.  We are excited to announce that we won the election by a five-to-one margin, and we’re grateful to our supporters for turning out and making their voices heard. Out of the 366 voting, 274 voted yes, 54 voted no, and 38 voted under challenged ballot.
 
 ![Final tally of ballots](/assets/news/tally-of-ballots.jpg)
 
