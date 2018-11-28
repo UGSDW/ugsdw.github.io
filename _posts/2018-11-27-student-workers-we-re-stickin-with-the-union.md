@@ -1,5 +1,5 @@
 ---
-release: false
+release: true
 published: true
 title: 'Student Workers: We''re Stickin'' with the Union'
 author: UGSDW
