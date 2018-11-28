@@ -107,6 +107,5 @@ prose:
                   value: ""
             - name: "release"
               field:
-                  element: "button"
-                  label: "Press Release"
-                  value: false
+                  element: "checkbox"
+                  label: "Press Release?"
