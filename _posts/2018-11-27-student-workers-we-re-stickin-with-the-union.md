@@ -4,7 +4,7 @@ published: true
 title: 'Student Workers: We''re Stickin'' with the Union'
 author: UGSDW
 excerpt: >
-	On Tuesday, ballots were cast and counted in the National Labor Relations 
+    On Tuesday, ballots were cast and counted in the National Labor Relations 
     Board’s secret ballot election determining whether student workers across 
     campus want to be represented by UGSDW.  We are excited to announce that we 
     won the election by a five-to-one margin!
