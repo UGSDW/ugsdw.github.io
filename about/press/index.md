@@ -13,7 +13,7 @@ published: true
 
 # Coverage
 
-[Iowa College Looks to Stop Students' Unionizing Effort](https://www.usnews.com/news/best-states/iowa/articles/2018-11-30/iowa-college-looks-to-stop-students-unionizing-effort?fbclid=IwAR0Z6mHX6byWrrc90MnxxWQdO2VGJo-5zy9PSG4VdcwGga6YrFJ_d7Zj5hw) (*U.S. News & World Report*)
+[Iowa College Looks to Stop Students' Unionizing Effort](https://apnews.com/9444e248fd704b8f90bf9fca30532cbc) (*Associated Press*)
 
 [Grinnell Students Protest School's Attempt to Quash Union](https://www.desmoinesregister.com/videos/news/2018/11/30/grinnell-students-protest-schools-attempt-quash-union/2164932002/?fbclid=IwAR0b7xEBRKhW3mVQwHkNqAMILyN52PGm44vJ6Y_lboDY_BStbt8vEoily3g) (*Des Moines Register*)
 
