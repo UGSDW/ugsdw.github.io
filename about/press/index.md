@@ -13,6 +13,8 @@ published: true
 
 # Coverage
 
+[Grinnell student workers approve campuswide union; school's move to quash has national implications](https://www.desmoinesregister.com/story/news/education/2018/11/29/union-grinnell-college-student-workers-unionize-iowa-nlrb-labor-relations-board-university-school/2143732002/) (*Des Moines Register*)
+
 [Liberal Arts Students’ Union Bid Threatens Obama-Era Policy](https://news.bloomberglaw.com/daily-labor-report/liberal-arts-students-union-bid-threatens-obama-era-policy) (*Bloomberg Law*)
 
 [Ep. 108: The Union of Grinnell Student Dining Workers](http://www.futureleft.org/home/2018/11/14/ep-108-the-union-of-grinnell-student-dining-workers-ft-sam-xu) (*Future Left*)
