@@ -13,6 +13,8 @@ published: true
 
 # Coverage
 
+[UGSDW Wins Election to Expand Union](http://www.thesandb.com/news/ugsdw-wins-election-to-expand-union.html) (*Scarlet & Black*)
+
 [Grinnell student workers approve campuswide union; school's move to quash has national implications](https://www.desmoinesregister.com/story/news/education/2018/11/29/union-grinnell-college-student-workers-unionize-iowa-nlrb-labor-relations-board-university-school/2143732002/) (*Des Moines Register*)
 
 [Liberal Arts Students’ Union Bid Threatens Obama-Era Policy](https://news.bloomberglaw.com/daily-labor-report/liberal-arts-students-union-bid-threatens-obama-era-policy) (*Bloomberg Law*)
