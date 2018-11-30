@@ -13,6 +13,8 @@ published: true
 
 # Coverage
 
+[Grinnell Students Protest School's Attempt to Quash Union](https://www.desmoinesregister.com/videos/news/2018/11/30/grinnell-students-protest-schools-attempt-quash-union/2164932002/?fbclid=IwAR0b7xEBRKhW3mVQwHkNqAMILyN52PGm44vJ6Y_lboDY_BStbt8vEoily3g) (*Des Moines Register*)
+
 [UGSDW Wins Election to Expand Union](http://www.thesandb.com/news/ugsdw-wins-election-to-expand-union.html) (*Scarlet & Black*)
 
 [Grinnell student workers approve campuswide union; school's move to quash has national implications](https://www.desmoinesregister.com/story/news/education/2018/11/29/union-grinnell-college-student-workers-unionize-iowa-nlrb-labor-relations-board-university-school/2143732002/) (*Des Moines Register*)
