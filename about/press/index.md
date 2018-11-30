@@ -13,6 +13,8 @@ published: true
 
 # Coverage
 
+[Iowa College Looks to Stop Students' Unionizing Effort](https://www.usnews.com/news/best-states/iowa/articles/2018-11-30/iowa-college-looks-to-stop-students-unionizing-effort?fbclid=IwAR0Z6mHX6byWrrc90MnxxWQdO2VGJo-5zy9PSG4VdcwGga6YrFJ_d7Zj5hw) (*U.S. News & World Report*)
+
 [Grinnell Students Protest School's Attempt to Quash Union](https://www.desmoinesregister.com/videos/news/2018/11/30/grinnell-students-protest-schools-attempt-quash-union/2164932002/?fbclid=IwAR0b7xEBRKhW3mVQwHkNqAMILyN52PGm44vJ6Y_lboDY_BStbt8vEoily3g) (*Des Moines Register*)
 
 [UGSDW Wins Election to Expand Union](http://www.thesandb.com/news/ugsdw-wins-election-to-expand-union.html) (*Scarlet & Black*)
