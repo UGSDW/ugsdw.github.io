@@ -13,6 +13,8 @@ published: true
 
 # Coverage
 
+[UGSDW Leads Protest to Nollen House in Response to Administrations' Looming NLRB Appeal](http://www.thesandb.com/article/ugsdw-leads-protest-to-nollen-house-in-response-to-administrations-nlrb-appeal.html) (*Scarlet & Black*)
+
 [Iowa College Looks to Stop Students' Unionizing Effort](https://apnews.com/9444e248fd704b8f90bf9fca30532cbc) (*Associated Press*)
 
 [Grinnell Students Protest School's Attempt to Quash Union](https://www.desmoinesregister.com/videos/news/2018/11/30/grinnell-students-protest-schools-attempt-quash-union/2164932002/?fbclid=IwAR0b7xEBRKhW3mVQwHkNqAMILyN52PGm44vJ6Y_lboDY_BStbt8vEoily3g) (*Des Moines Register*)
