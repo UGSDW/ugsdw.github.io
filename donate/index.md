@@ -2,7 +2,6 @@
 title: Donate
 published: true
 members: 0
-banner-text: WE
 ---
 
 # Donate to UGSDW
