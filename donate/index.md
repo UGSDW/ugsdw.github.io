@@ -2,6 +2,7 @@
 title: Donate
 published: true
 members: 0
+banner-text: WE
 ---
 
 # Donate to UGSDW
@@ -23,6 +24,9 @@ Any contribution helps, and makes a real difference for us and our workers.
 </a>
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amount=30%2e00&business=ugsdw.org@gmail.com&item_name=supporting+workplace+democracy+at+Grinnell%21&currency_code=USD&return=https%3A%2F%2Fwww.ugsdw.org%2Fdonate%2Fthank-you%2F" class="button inline">
 	$30
+</a>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amount=50%2e00&business=ugsdw.org@gmail.com&item_name=supporting+workplace+democracy+at+Grinnell%21&currency_code=USD&return=https%3A%2F%2Fwww.ugsdw.org%2Fdonate%2Fthank-you%2F" class="button inline">
+	$50
 </a>
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ugsdw.org@gmail.com&item_name=supporting+workplace+democracy+at+Grinnell%21&currency_code=USD&return=https%3A%2F%2Fwww.ugsdw.org%2Fdonate%2Fthank-you%2F" class="button inline">
 	Other
