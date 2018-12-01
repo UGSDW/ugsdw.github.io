@@ -6,7 +6,7 @@ author: UGSDW
 excerpt: >
   On Friday, after a successful labor action by UGSDW activists, Grinnell
   College made more baseless claims that jeopardize our campus's essential
-  freedoms
+  freedoms.
 ---
 #### Press Release
 
