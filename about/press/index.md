@@ -13,6 +13,8 @@ published: true
 
 # Coverage
 
+[Grinnell alumni: College should not undermine student union vote](https://www.desmoinesregister.com/story/opinion/columnists/2018/12/03/grinnell-alumni-college-should-not-undermine-student-union-vote-labor-organization-nlrb/2190900002/) (*Des Moines Register*)
+
 [UGSDW Leads Protest to Nollen House in Response to Administrations' Looming NLRB Appeal](http://www.thesandb.com/article/ugsdw-leads-protest-to-nollen-house-in-response-to-administrations-nlrb-appeal.html) (*Scarlet & Black*)
 
 [Iowa College Looks to Stop Students' Unionizing Effort](https://apnews.com/9444e248fd704b8f90bf9fca30532cbc) (*Associated Press*)
