@@ -17,7 +17,7 @@ excerpt: >
 
 GRINNELL, IOWA — Throughout UGSDW’s expansion process, we have remained open to negotiation and dialogue with the College, and we are committed to continuing that trend. On November 28, one day after student workers voted resoundingly for UGSDW expansion, we sent an email to President Kington expressing UGSDW’s genuine interests in promoting Grinnell’s core mission, outlining concrete safeguards about Grinnell College’s concerns, and imploring the President to meet with UGSDW for further discussion.
 
-![Student protesters marching](/assets/news/student_protest.jpg)
+![Screenshot of framework agreement](/assets/news/framework-img.png)
 
 To our disappointment, President Kington and the Grinnell College administration have begun to resort to blatant falsehoods in order to justify their own refusal to speak with us. On December 4, President Raynard Kington [responded](https://www.grinnell.edu/campus-life/conversations/unionization/communication/nov28email) to our email, saying that although he “understand[s] and respect[s]” UGSDW’s desire to discuss unionization, “the College has concluded that we legally cannot bargain or discuss a framework agreement with UGSDW while our appeal is pending before the NLRB.”
 
