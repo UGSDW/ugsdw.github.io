@@ -13,6 +13,8 @@ published: true
 
 # Coverage
 
+[Grinnell student union members to vote whether to strike Friday after administrators refuse to meet with them](https://www.desmoinesregister.com/story/news/education/2018/12/06/union-grinnell-college-student-workers-unionize-iowa-nlrb-labor-relations-board-university-school/2230009002/) (*Des Moines Register*) 
+
 [Grinnell College president: We won't bargain with student workers union while our appeal is pending](https://www.desmoinesregister.com/story/news/education/2018/12/05/union-grinnell-college-student-workers-unionize-iowa-nlrb-labor-relations-board-university-school/2218061002/) (*Des Moines Register*)
 
 [Grinnell alumni: College should not undermine student union vote](https://www.desmoinesregister.com/story/opinion/columnists/2018/12/03/grinnell-alumni-college-should-not-undermine-student-union-vote-labor-organization-nlrb/2190900002/) (*Des Moines Register*)
