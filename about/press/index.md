@@ -13,6 +13,8 @@ published: true
 
 # Coverage
 
+[Grinnell College president: We won't bargain with student workers union while our appeal is pending](https://www.desmoinesregister.com/story/news/education/2018/12/05/union-grinnell-college-student-workers-unionize-iowa-nlrb-labor-relations-board-university-school/2218061002/) (*Des Moines Register*)
+
 [Grinnell alumni: College should not undermine student union vote](https://www.desmoinesregister.com/story/opinion/columnists/2018/12/03/grinnell-alumni-college-should-not-undermine-student-union-vote-labor-organization-nlrb/2190900002/) (*Des Moines Register*)
 
 [UGSDW Leads Protest to Nollen House in Response to Administrations' Looming NLRB Appeal](http://www.thesandb.com/article/ugsdw-leads-protest-to-nollen-house-in-response-to-administrations-nlrb-appeal.html) (*Scarlet & Black*)
