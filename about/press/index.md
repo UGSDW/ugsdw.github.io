@@ -15,6 +15,8 @@ published: true
 
 [An Anti-Union (Liberal) College?](https://www.insidehighered.com/news/2018/12/07/grinnell-administrators-appeal-student-workers-union) (*Inside Higher Ed*)
 
+[Grinnell Union Workers Hope To Negotiate, Halt Appeal ](http://www.iowapublicradio.org/post/grinnell-union-workers-hope-negotiate-halt-appeal#stream/0) (*Iowa Public Radio*)
+
 [Grinnell College students willing to negotiate union disagreement](https://www.radioiowa.com/2018/12/07/grinnell-college-students-willing-to-negotiate-union-disagreement/) (*Radio Iowa*)
 
 [Alumni Speak Out on College's Decision to Appeal UGSDW](http://www.thesandb.com/news/alumni-speak-out-on-colleges-decision-to-appeal-ugsdw.html) (*Scarlet & Black*)
