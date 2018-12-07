@@ -13,6 +13,16 @@ published: true
 
 # Coverage
 
+[An Anti-Union (Liberal) College?](https://www.insidehighered.com/news/2018/12/07/grinnell-administrators-appeal-student-workers-union) (*Inside Higher Ed*)
+
+[Grinnell College students willing to negotiate union disagreement](https://www.radioiowa.com/2018/12/07/grinnell-college-students-willing-to-negotiate-union-disagreement/) (*Radio Iowa*)
+
+[Alumni Speak Out on College's Decision to Appeal UGSDW](http://www.thesandb.com/news/alumni-speak-out-on-colleges-decision-to-appeal-ugsdw.html) (*Scarlet & Black*)
+
+[The S&B Explains the College's Union Appeal Process](http://www.thesandb.com/news/the-sb-explains-the-colleges-union-appeal-process.html) (*Scarlet & Black*)
+
+[Letter to the Editor: A Lifelong Grinnellian Speaks Out on Unionization](http://www.thesandb.com/article/letter-to-the-editor-a-lifelong-grinnellian-speaks-out-on-unionization.html) (*Scarlet & Black*)
+
 [Grinnell student union members to vote whether to strike Friday after administrators refuse to meet with them](https://www.desmoinesregister.com/story/news/education/2018/12/06/union-grinnell-college-student-workers-unionize-iowa-nlrb-labor-relations-board-university-school/2230009002/) (*Des Moines Register*) 
 
 [Grinnell College president: We won't bargain with student workers union while our appeal is pending](https://www.desmoinesregister.com/story/news/education/2018/12/05/union-grinnell-college-student-workers-unionize-iowa-nlrb-labor-relations-board-university-school/2218061002/) (*Des Moines Register*)
