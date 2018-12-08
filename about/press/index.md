@@ -13,6 +13,10 @@ published: true
 
 # Coverage
 
+[Grinnell College student-worker union falls a few votes short of holding proposed strike](https://www.desmoinesregister.com/story/news/2018/12/07/grinnell-college-student-worker-union-strike-protests-ugsdw-national-labor-relations-board/2243801002/) (*Des Moines Register*)
+
+[Grinnell Union Workers Vote Not To Authorize Strike](http://www.iowapublicradio.org/post/grinnell-union-workers-vote-not-authorize-strike) (*Iowa Public Radio*)
+
 [An Anti-Union (Liberal) College?](https://www.insidehighered.com/news/2018/12/07/grinnell-administrators-appeal-student-workers-union) (*Inside Higher Ed*)
 
 [Grinnell Union Workers Hope To Negotiate, Halt Appeal ](http://www.iowapublicradio.org/post/grinnell-union-workers-hope-negotiate-halt-appeal#stream/0) (*Iowa Public Radio*)
