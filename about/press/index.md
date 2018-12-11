@@ -13,6 +13,8 @@ published: true
 
 # Coverage
 
+[Iowa College Becomes Battleground For Student Worker Unionization](https://www.npr.org/2018/12/11/675543037/iowa-college-becomes-battleground-for-student-worker-unionization) (*NPR*)
+
 ['Blatant scare tactics': Iowa university leads crackdown on student unions](https://www.theguardian.com/us-news/2018/dec/11/grinnell-college-student-union-appeal-national-labor-relations-board) (*Guardian*)
 
 [Grinnell Files Federal Appeal Over Vote To Expand Students' Union](http://www.iowapublicradio.org/post/grinnell-files-federal-appeal-over-vote-expand-students-union#stream/0) (*Iowa Public Radio*)
