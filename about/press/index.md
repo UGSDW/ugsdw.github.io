@@ -13,6 +13,8 @@ published: true
 
 # Coverage
 
+['Blatant scare tactics': Iowa university leads crackdown on student unions](https://www.theguardian.com/us-news/2018/dec/11/grinnell-college-student-union-appeal-national-labor-relations-board) (*Guardian*)
+
 [Grinnell Files Federal Appeal Over Vote To Expand Students' Union](http://www.iowapublicradio.org/post/grinnell-files-federal-appeal-over-vote-expand-students-union#stream/0) (*Iowa Public Radio*)
 
 [Grinnell College Risks its Reputation with Labor Dispute](https://iowastartingline.com/2018/12/09/grinnell-college-risks-its-reputation-with-labor-dispute/?utm_source=rss&utm_medium=rss&utm_campaign=grinnell-college-risks-its-reputation-with-labor-dispute) (*Iowa Starting Line*)
