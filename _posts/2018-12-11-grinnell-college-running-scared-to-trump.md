@@ -3,6 +3,12 @@ release: true
 published: true
 title: 'Grinnell College, Running Scared… to Trump'
 author: UGSDW
+excerpt: >-
+  On Friday, Grinnell filed a request for review with the National Labor
+  Relations Board in Washington, D.C.  If the NLRB grants the college’s request,
+  it could undo our democratic election victory, and strip student workers in
+  the U.S. of their right to unionize. We are disgusted and saddened by
+  Grinnell’s decision to appeal.
 ---
 #### Press Release
 
