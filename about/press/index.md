@@ -13,6 +13,8 @@ published: true
 
 # Coverage
 
+[Grinnell Files Federal Appeal Over Vote To Expand Students' Union ](http://www.iowapublicradio.org/post/grinnell-files-federal-appeal-over-vote-expand-students-union#stream/0) (*Iowa Public Radio*)
+
 [Grinnell College Risks its Reputation with Labor Dispute](https://iowastartingline.com/2018/12/09/grinnell-college-risks-its-reputation-with-labor-dispute/?utm_source=rss&utm_medium=rss&utm_campaign=grinnell-college-risks-its-reputation-with-labor-dispute) (*Iowa Starting Line*)
 
 [Grinnell College student-worker union falls a few votes short of holding proposed strike](https://www.desmoinesregister.com/story/news/2018/12/07/grinnell-college-student-worker-union-strike-protests-ugsdw-national-labor-relations-board/2243801002/) (*Des Moines Register*)
