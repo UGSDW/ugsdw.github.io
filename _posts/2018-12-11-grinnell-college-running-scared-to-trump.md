@@ -1,6 +1,6 @@
 ---
 release: true
-published: false
+published: true
 title: 'Grinnell College, Running Scared… to Trump'
 author: UGSDW
 ---
@@ -18,4 +18,4 @@ We are disgusted and saddened by Grinnell’s decision to appeal.  They are full
 
 Thousands of businesses across the country deal with unions every day, and are stronger for it.  Grinnell thinks that it’s “elite” educational status somehow exempts it from following labor laws that have been around for eighty years.  Grinnell’s president, Raynard Kington, who makes a cool $600,000 a year, is hoping that Trump’s NLRB appointees will save him from having to address the economic struggles his middle-class and low-income students face.  It’s childish and appalling.
 
-UGSDW will not be scared off by Grinnell’s illegal threats, and the shady tactics of its union-busting lawyers.  The union plans to file an opposition brief with the NLRB shortly, arguing against the granting of review in this case.  And we will continue to agitate and organize to convince the Grinnell administration to respect students’ democratic decision and come to the bargaining table. 
+UGSDW will not be scared off by Grinnell’s illegal threats, and the shady tactics of its union-busting lawyers.  The union plans to file an opposition brief with the NLRB shortly, arguing against the granting of review in this case.  And we will continue to agitate and organize to convince the Grinnell administration to respect students’ democratic decision and come to the bargaining table.
