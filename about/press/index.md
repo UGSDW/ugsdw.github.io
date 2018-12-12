@@ -13,6 +13,8 @@ published: true
 
 # Coverage
 
+[Grinnell College ‘Invites Trump onto Campus,’ Aiming to Limit Student Collective Bargaining](https://progressive.org/dispatches/nlrb-appeal-threatens-student-union-rights-181212/) (*Progressive*)
+
 [Iowa College Becomes Battleground For Student Worker Unionization](https://www.npr.org/2018/12/11/675543037/iowa-college-becomes-battleground-for-student-worker-unionization) (*NPR*)
 
 ['Blatant scare tactics': Iowa university leads crackdown on student unions](https://www.theguardian.com/us-news/2018/dec/11/grinnell-college-student-union-appeal-national-labor-relations-board) (*Guardian*)
