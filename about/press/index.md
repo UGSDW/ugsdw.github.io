@@ -13,6 +13,8 @@ published: true
 
 # Coverage
 
+[Inside the College Union Beef Exposing Liberal America's Elite Hypocrisy](https://www.vice.com/en_us/article/bje3mq/inside-the-college-union-beef-exposing-liberal-americas-elite-hypocrisy) (*VICE*)
+
 [Iowa College Challenges Vote To Expand Student Workers Union](https://www.wbur.org/hereandnow/2018/12/13/grinnell-college-student-workers-union) (*Here & Now, WBUR*)
 
 [Grinnell College ‘Invites Trump onto Campus,’ Aiming to Limit Student Collective Bargaining](https://progressive.org/dispatches/nlrb-appeal-threatens-student-union-rights-181212/) (*Progressive*)
