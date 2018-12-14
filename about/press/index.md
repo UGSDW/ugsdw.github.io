@@ -13,6 +13,8 @@ published: true
 
 # Coverage
 
+[How a Small Liberal Arts College in Iowa Could Hand Trump a Big Win Against Labor Rights](https://www.motherjones.com/politics/2018/12/grinnell-college-union-nlrb-national-labor-relations-board/) (*Mother Jones*)
+
 [Inside the College Union Beef Exposing Liberal America's Elite Hypocrisy](https://www.vice.com/en_us/article/bje3mq/inside-the-college-union-beef-exposing-liberal-americas-elite-hypocrisy) (*VICE*)
 
 [Iowa College Challenges Vote To Expand Student Workers Union](https://www.wbur.org/hereandnow/2018/12/13/grinnell-college-student-workers-union) (*Here & Now, WBUR*)
