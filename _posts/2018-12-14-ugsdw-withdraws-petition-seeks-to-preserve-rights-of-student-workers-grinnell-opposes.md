@@ -1,6 +1,6 @@
 ---
 release: true
-published: false
+published: true
 title: >-
   UGSDW Withdraws Petition, Seeks to Preserve Rights of Student Workers;
   Grinnell Opposes
