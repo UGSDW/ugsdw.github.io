@@ -13,6 +13,8 @@ published: true
 
 # Coverage
 
+[Grinnell Students Drop Union Expansion Bid](http://www.iowapublicradio.org/post/grinnell-students-drop-union-expansion-bid#stream/0) (*Iowa Public Radio*)
+
 [Students at Iowa college drop union organizing effort](https://apnews.com/0100e49bef83438eac46b847279fa92d) (*Associated Press*)
 
 [Iowa students drop union push amid challenge, fearing rollback of Obama-era wins](https://www.cnn.com/2018/12/14/politics/grinnell-student-union-trump/index.html) (*CNN*)
