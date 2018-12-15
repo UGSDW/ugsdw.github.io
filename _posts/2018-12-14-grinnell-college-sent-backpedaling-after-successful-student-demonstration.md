@@ -7,6 +7,7 @@ excerpt: >-
   Kington said that the college would no longer oppose UGSDW's request to
   withdraw its petition.
 author: UGSDW
+date: 2018-12-14T20:05:00.000Z
 ---
 #### Press Release
 
