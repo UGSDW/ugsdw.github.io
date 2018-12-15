@@ -8,6 +8,7 @@ excerpt: >-
   To preserve student workers' rights nationwide, UGSDW has requested to
   withdraw its position. Grinnell College is hypocritically opposing it.
 author: UGSDW
+date: 2018-12-14T02:45:00.000Z
 ---
 #### Press Release
 
