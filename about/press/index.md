@@ -13,6 +13,12 @@ published: true
 
 # Coverage
 
+[Students at Iowa college drop union organizing effort](https://apnews.com/0100e49bef83438eac46b847279fa92d) (*Associated Press*)
+
+[Iowa students drop union push amid challenge, fearing rollback of Obama-era wins](https://www.cnn.com/2018/12/14/politics/grinnell-student-union-trump/index.html) (*CNN*)
+
+[Grinnell student-worker union calls foul as it ends expansion efforts](https://www.desmoinesregister.com/story/news/2018/12/14/grinnell-college-union-student-wokers-national-labor-relations-board-donald-trump-cory-mcartan-iowa/2314745002/) (*Des Moines Register*)
+
 [How a Small Liberal Arts College in Iowa Could Hand Trump a Big Win Against Labor Rights](https://www.motherjones.com/politics/2018/12/grinnell-college-union-nlrb-national-labor-relations-board/) (*Mother Jones*)
 
 [Inside the College Union Beef Exposing Liberal America's Elite Hypocrisy](https://www.vice.com/en_us/article/bje3mq/inside-the-college-union-beef-exposing-liberal-americas-elite-hypocrisy) (*VICE*)
