@@ -13,6 +13,8 @@ published: true
 
 # Coverage
 
+[UGSDW Withdraws Petition to Expand Union, Case Will Not Reach NLRB](http://www.thesandb.com/article/ugsdw-withdraws-petition-to-expand-union-case-will-not-reach-nlrb.html) (*Scarlet & Black*)
+
 [Grinnell Students Drop Union Expansion Bid](http://www.iowapublicradio.org/post/grinnell-students-drop-union-expansion-bid#stream/0) (*Iowa Public Radio*)
 
 [Students at Iowa college drop union organizing effort](https://apnews.com/0100e49bef83438eac46b847279fa92d) (*Associated Press*)
