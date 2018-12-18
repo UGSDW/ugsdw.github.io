@@ -13,6 +13,8 @@ published: true
 
 # Coverage
 
+[Grinnell Student Workers Boost Union Cause by Changing the Narrative](https://nonprofitquarterly.org/2018/12/18/grinnell-student-workers-boost-union-cause-by-changing-the-narrative/) (*Nonprofit Quarterly*)
+
 [UGSDW Withdraws Petition to Expand Union, Case Will Not Reach NLRB](http://www.thesandb.com/article/ugsdw-withdraws-petition-to-expand-union-case-will-not-reach-nlrb.html) (*Scarlet & Black*)
 
 [Grinnell Students Drop Union Expansion Bid](http://www.iowapublicradio.org/post/grinnell-students-drop-union-expansion-bid#stream/0) (*Iowa Public Radio*)
