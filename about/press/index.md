@@ -13,6 +13,28 @@ published: true
 
 # Coverage
 
+[Grinnell Student Workers Boost Union Cause by Changing the Narrative](https://nonprofitquarterly.org/2018/12/18/grinnell-student-workers-boost-union-cause-by-changing-the-narrative/) (*Nonprofit Quarterly*)
+
+[UGSDW Withdraws Petition to Expand Union, Case Will Not Reach NLRB](http://www.thesandb.com/article/ugsdw-withdraws-petition-to-expand-union-case-will-not-reach-nlrb.html) (*Scarlet & Black*)
+
+[Grinnell Students Drop Union Expansion Bid](http://www.iowapublicradio.org/post/grinnell-students-drop-union-expansion-bid#stream/0) (*Iowa Public Radio*)
+
+[Students at Iowa college drop union organizing effort](https://apnews.com/0100e49bef83438eac46b847279fa92d) (*Associated Press*)
+
+[Iowa students drop union push amid challenge, fearing rollback of Obama-era wins](https://www.cnn.com/2018/12/14/politics/grinnell-student-union-trump/index.html) (*CNN*)
+
+[Grinnell student-worker union calls foul as it ends expansion efforts](https://www.desmoinesregister.com/story/news/2018/12/14/grinnell-college-union-student-wokers-national-labor-relations-board-donald-trump-cory-mcartan-iowa/2314745002/) (*Des Moines Register*)
+
+[How a Small Liberal Arts College in Iowa Could Hand Trump a Big Win Against Labor Rights](https://www.motherjones.com/politics/2018/12/grinnell-college-union-nlrb-national-labor-relations-board/) (*Mother Jones*)
+
+[Inside the College Union Beef Exposing Liberal America's Elite Hypocrisy](https://www.vice.com/en_us/article/bje3mq/inside-the-college-union-beef-exposing-liberal-americas-elite-hypocrisy) (*VICE*)
+
+[Iowa College Challenges Vote To Expand Student Workers Union](https://www.wbur.org/hereandnow/2018/12/13/grinnell-college-student-workers-union) (*Here & Now, WBUR*)
+
+[Grinnell College ‘Invites Trump onto Campus,’ Aiming to Limit Student Collective Bargaining](https://progressive.org/dispatches/nlrb-appeal-threatens-student-union-rights-181212/) (*Progressive*)
+
+[Iowa College Becomes Battleground For Student Worker Unionization](https://www.npr.org/2018/12/11/675543037/iowa-college-becomes-battleground-for-student-worker-unionization) (*NPR*)
+
 ['Blatant scare tactics': Iowa university leads crackdown on student unions](https://www.theguardian.com/us-news/2018/dec/11/grinnell-college-student-union-appeal-national-labor-relations-board) (*Guardian*)
 
 [Grinnell Files Federal Appeal Over Vote To Expand Students' Union](http://www.iowapublicradio.org/post/grinnell-files-federal-appeal-over-vote-expand-students-union#stream/0) (*Iowa Public Radio*)

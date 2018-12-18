@@ -24,6 +24,7 @@ Student workers deserve a say.  UGSDW can give them one.
 
 # Updates
 
+- **December 14, 2018:** UGSDW asked the NLRB to [withdraw its petition](/2018/12/14/ugsdw-withdraws-petition-seeks-to-preserve-rights-of-student-workers-grinnell-opposes/), moving the battle from the bureaucracy back to campus.
 - **November 27, 2018:** Student workers [voted for UGSDW by a 5-to-1 margin](/2018/11/27/student-workers-we-re-stickin-with-the-union/)!
 - **November 19, 2018:** Grinnell [has filed a motion to stop the election going forward](/2018/11/19/statement-on-nov-19-special-campus-memo/), with the help of three new lawyers from [Proskauer Rose](http://www.proskauer.com), one of the top union-busting firms in the country.  The college now has five lawyers working to deny us a vote on a union. 
 - **November 12, 2018:** Grinnell College [continues its misinformation and intimidation tactics](https://www.ugsdw.org/2018/11/12/statement-on-nov-12-special-campus-memo/).
