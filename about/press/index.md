@@ -13,6 +13,8 @@ published: true
 
 # Coverage
 
+[Board OKs request by Grinnell students to drop union effort](https://www.apnews.com/4d316d46c18e440b8eb1365bbf183608) (*Associated Press*)
+
 [Grinnell Student Workers Boost Union Cause by Changing the Narrative](https://nonprofitquarterly.org/2018/12/18/grinnell-student-workers-boost-union-cause-by-changing-the-narrative/) (*Nonprofit Quarterly*)
 
 [UGSDW Withdraws Petition to Expand Union, Case Will Not Reach NLRB](http://www.thesandb.com/article/ugsdw-withdraws-petition-to-expand-union-case-will-not-reach-nlrb.html) (*Scarlet & Black*)
