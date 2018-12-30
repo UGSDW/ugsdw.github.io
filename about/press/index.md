@@ -13,6 +13,8 @@ published: true
 
 # Coverage
 
+[Top five 2018: Workers in Iowa continue to fight the good fight](https://littlevillagemag.com/top-five-2018-workers-in-iowa-continue-to-fight-the-good-fight/) (*Little Village*)
+
 [Board OKs request by Grinnell students to drop union effort](https://www.apnews.com/4d316d46c18e440b8eb1365bbf183608) (*Associated Press*)
 
 [Grinnell Student Workers Boost Union Cause by Changing the Narrative](https://nonprofitquarterly.org/2018/12/18/grinnell-student-workers-boost-union-cause-by-changing-the-narrative/) (*Nonprofit Quarterly*)
