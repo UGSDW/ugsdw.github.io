@@ -1,19 +1,18 @@
 ---
 release: true
 published: true
-title: >-
-  UGSDW's New Year Resolution
+title: UGSDW's New Year Resolution
 excerpt: >-
-  UGSDW revisits a historic year of labor organizing,
-  and envisions the fight to build a powerful union for
-  all working students in 2019. 
+  UGSDW revisits a historic year of labor organizing, and envisions the fight to
+  build a powerful union for all working students in 2019.
 author: UGSDW
 date: 2019-01-01T02:45:00.000Z
 ---
 #### Press Release
-### Resolved: Build a UGSDW for All in 2019
 
 ---
+
+### *Resolved: Build a UGSDW for All in 2019*
 
 GRINNELL, IOWA — In 2018, we made landmark strides towards becoming the most unionized undergraduate campus in the country. We grew in numbers, with over 400 new members. We won a historic election by a 5-to-1 margin. We energized the alumni community, with hundreds of alumni standing in solidarity with UGSDW, making calls, writing letters and editorials, and donating. We changed the conversation, as our story was told in national media outlets. We exposed the Grinnell administration’s hypocrisy, which hired five lawyers from two separate white-shoe law firms and hired an extra communications firm to bust a union for and run by working students. 
 
