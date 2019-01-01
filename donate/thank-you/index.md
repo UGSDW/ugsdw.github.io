@@ -10,6 +10,6 @@ members: 0
 Your financial support allows us to do the best job we can representing workers.
 
 <p>
-<img src="/assets/mtg_group_photo.jpg" alt="Smiling union members" width>
-<i>Spring 2017 union meeting</i>
+<img src="/assets/thank-you.png" alt="Union members, protesting" width>
+<i>December 2018 union march</i>
 </p>
