@@ -11,6 +11,7 @@ author: UGSDW
 date: 2019-01-01T02:45:00.000Z
 ---
 #### Press Release
+### * Resolved: Build a UGSDW for All in 2019 *
 
 ---
 
