@@ -13,6 +13,8 @@ published: true
 
 # Coverage
 
+[Education Workers on Campuses Around the Country Are Demanding Better Labor Conditions](https://www.teenvogue.com/story/education-workers-on-campuses-demanding-better-labor-conditions) (*Teen Vogue*)
+
 [Top five 2018: Workers in Iowa continue to fight the good fight](https://littlevillagemag.com/top-five-2018-workers-in-iowa-continue-to-fight-the-good-fight/) (*Little Village*)
 
 [Board OKs request by Grinnell students to drop union effort](https://www.apnews.com/4d316d46c18e440b8eb1365bbf183608) (*Associated Press*)
