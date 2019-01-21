@@ -14,7 +14,7 @@ date: 2019-01-21T00:00:00.000Z
 
 GRINNELL, IOWA — UGSDW on Monday published a report detailing discrimination against students of color and international students working at the Spencer Grill, a college-operated cafe on campus.  Non-white student workers at the Spencer Grill are subject to discipline and termination at a disproportionately high rate, compared to their white peers. UGSDW is appalled by the report’s findings, and calls for Grinnell College to meet with us about the issue and to take immediate action on the discrimination that has been endemic to the Spencer Grill for at least a year.
 
-<a href="/assets/news/grill_discrimination.pdf" class="button inline">Read the report</a>
+<a href="/assets/news/grill_discrimination.pdf" class="button inline">Read the report »</a>
 
 Discipline at the Spencer Grill is administered through a three-strikes system instituted by the Assistant Director of Dining Services.  Strikes, colloquially known as “cuts,” are mostly given for absenteeism or tardiness.  Once a student worker receives three cuts, they are usually fired.  Data provided to UGSDW by Grinnell College show that these work rules are enforced inconsistently for different racial groups.
 
