@@ -12,7 +12,7 @@ date: 2019-01-21T02:45:00.000Z
 
 ---
 
-GRINNELL, IOWA — UGSDW on Monday published a report detailing discrimination against students of color and international students working at the Spencer Grill, a college-operated cafe on campus.  Non-white student workers at the Spencer Grill are subject to discipline and termination at a disproportionately high rate, compared to their white peers. UGSDW is appalled by the report’s findings, and calls for Grinnell College to meet with us about the issue and to take immediate action on the discrimination that has been endemic to the Spencer Grill for at least a year.
+GRINNELL, IOWA — UGSDW on Monday published a report detailing discrimination against students of color and international students working at the Spencer Grill, a college-operated cafe on campus.  Non-white student workers at the Spencer Grill are subject to discipline and termination at a disproportionately high rate, compared to their white peers. UGSDW is appalled by the report’s findings, and calls for Grinnell College to meet with us about the issue and to take immediate action on the discrimination that has been endemic to the Spencer Grill for at least a year. [Read the report here.](/assets/news/grill_discrimination.pdf)
 
 ![Image of the Spencer Grill](/assets/news/sgrill.jpg)
 
