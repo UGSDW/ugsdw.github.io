@@ -1,10 +1,10 @@
 ---
-release: false
-published: false
+release: true
+published: true
 title: UGSDW Unearths Evidence of Racial Discrimination at the Spencer Grill
 excerpt: >-
-  New UGSDW Report Details Grinnell’s Consistent Bias
-  in Discipline and Termination Decisions
+  New UGSDW Report Details Grinnell’s Consistent Bias in Discipline and
+  Termination Decisions
 author: UGSDW
 date: 2019-01-21T02:45:00.000Z
 ---
