@@ -13,6 +13,12 @@ published: true
 
 # Coverage
 
+[Students Speak: The Union Decision](http://www.thesandb.com/opinion/students-speak.html) (*Scarlet & Black*)
+
+[Update on UGSDW](http://www.thesandb.com/article/update-on-ugsdw-post-concessions.html) (*Scarlet & Black*)
+
+[In Iowa, a union’s report uncovers discrimination at Grinnell College](https://www.workers.org/2019/01/29/in-iowa-a-unions-report-uncovers-discrimination-at-grinnell-college/) (*Worker's World*)
+
 [Education Workers on Campuses Around the Country Are Demanding Better Labor Conditions](https://www.teenvogue.com/story/education-workers-on-campuses-demanding-better-labor-conditions) (*Teen Vogue*)
 
 [Top five 2018: Workers in Iowa continue to fight the good fight](https://littlevillagemag.com/top-five-2018-workers-in-iowa-continue-to-fight-the-good-fight/) (*Little Village*)
