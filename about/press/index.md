@@ -13,6 +13,8 @@ published: true
 
 # Coverage
 
+[Are Universities Political?](https://www.insidehighered.com/views/2019/02/07/grinnell-colleges-response-undergraduate-student-unionization-political-one-opinion) (*Inside Higher Ed*)
+
 [Students Speak: The Union Decision](http://www.thesandb.com/opinion/students-speak.html) (*Scarlet & Black*)
 
 [Update on UGSDW](http://www.thesandb.com/article/update-on-ugsdw-post-concessions.html) (*Scarlet & Black*)
