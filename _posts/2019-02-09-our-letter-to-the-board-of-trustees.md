@@ -10,7 +10,7 @@ author: UGSDW
 ---
 On Friday, February 8, [forty UGSDW members disrupted a meeting of the Board of Trustees](/2019/02/08/trustees-walk-out-as-ugsdw-asks-for-dialogue/).  On Saturday, President Quinn Ercolani sent a letter to the trustees, explaining the reasons behind our actions and reiterating our request for discussion and dialogue with the college.
 
-You may [read the original letter here](/assets/news/ltr020919-UGSDW-Trustees.pdf), or the copy below.
+<a href="/assets/news/ltr020919-UGSDW-Trustees.pdf" class="button inline">Read the original letter »</a>
 
 ***
 
