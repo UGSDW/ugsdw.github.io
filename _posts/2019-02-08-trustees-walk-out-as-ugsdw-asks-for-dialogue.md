@@ -8,7 +8,7 @@ excerpt: >-
   and discuss our ongoing expansion campaign, 40 UGSDW members peacefully
   disrupted a meeting of the trustees of the college.
 ---
-On February 8, to reiterate our demand for President Kington to meet with us and discuss our ongoing expansion campaign, 40 UGSDW members peacefully disrupted a meeting of the trustees of the college. Chanting and singing, the trustees walked out on us as we sang about “love between our brothers and our sisters.”  
+On February 8, to reiterate our demand for President Kington to meet with us and discuss our ongoing expansion campaign, 40 UGSDW members peacefully disrupted a meeting of the trustees of the college. Tellingly, the trustees walked out on us as we sang about “love between our brothers and our sisters.”  
 
 ![UGSDW members sing at a meeting of the Board of Trustees.](/assets/news/occupation-2-8.jpg)
 
