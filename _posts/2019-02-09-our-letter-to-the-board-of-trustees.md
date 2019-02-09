@@ -12,6 +12,8 @@ On Friday, February 8, [forty UGSDW members disrupted a meeting of the Board of 
 
 You may [read the original letter here](/assets/news/ltr020919-UGSDW-Trustees.pdf), or the copy below.
 
+***
+
 ![Letter sent to Grinnell's Board of Trustees](/assets/news/ltr020919_1.jpg)
 
 Dear Trustee:
