@@ -1,6 +1,6 @@
 ---
 release: false
-published: false
+published: true
 title: Our Letter to the Board of Trustees
 excerpt: >-
   UGSDW President Quinn Ercolani sent a letter to the trustees, explaining the
