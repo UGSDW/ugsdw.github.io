@@ -1,6 +1,6 @@
 ---
 release: false
-published: true
+published: false
 title: Statement on Feb. 21 Special Campus Memo
 ---
 #### Press Release
@@ -10,7 +10,7 @@ title: Statement on Feb. 21 Special Campus Memo
 ### *Fighting for all Student Workers, UGSDW Looks Forward to a Dialogue with the Administration*
 
 
-GRINNELL, IOWA-On February 21, 2019, Grinnell College sent out a special campus memo on behalf of President Raynard Kington, indicating the administration’s willingness to negotiate “possible selective expansion.” This is a step in the right direction, and UGSDW looks forward to a candid, productive conversation with the administration to achieve the best outcome for student workers. 
+GRINNELL, IOWA - On February 21, 2019, Grinnell College sent out a special campus memo on behalf of President Raynard Kington, indicating the administration’s willingness to negotiate “possible selective expansion.” This is a step in the right direction, and UGSDW looks forward to a candid, productive conversation with the administration to achieve the best outcome for student workers. 
 
 Without the tireless organizing and direct action of UGSDW members, this development would not have been possible. Since student workers voted in favor of campus-wide expansion by a 5-to-1 margin last November, UGSDW reached out to the administration again and again to discuss any possible compromise. Every time, we were rebuffed. However, after numerous direct actions involving hundreds of union members and community allies, as well as a tremendous showing of solidarity from alumni, the administration has finally agreed to meet with UGSDW. 
 
