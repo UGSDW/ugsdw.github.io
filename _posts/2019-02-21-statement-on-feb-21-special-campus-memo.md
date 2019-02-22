@@ -1,6 +1,6 @@
 ---
 release: false
-published: false
+published: true
 title: Statement on Feb. 21 Special Campus Memo
 ---
 #### Press Release
