@@ -1,7 +1,11 @@
 ---
-release: false
-published: false
+release: true
+published: true
 title: Statement on Feb. 21 Special Campus Memo
+author: UGSDW
+excerpt: >-
+  Fighting for all student workers, UGSDW looks forward to a dialogue with the
+  administration.
 ---
 #### Press Release
 
