@@ -13,6 +13,8 @@ published: true
 
 # Coverage
 
+["Moving On": Kington Outlines Next Steps for College and UGSDW](http://www.thesandb.com/news/moving-on-kington-outlines-next-steps-for-college-and-ugsdw.html) (*Scarlet & Black*)
+
 [College Addresses Accusations of Racial Discrimination in the Spencer Grill](http://www.thesandb.com/news/college-addresses-accusations-of-racial-discrimination-in-the-spencer-grill.html) (*Scarlet & Black*)
 
 [Are Universities Political?](https://www.insidehighered.com/views/2019/02/07/grinnell-colleges-response-undergraduate-student-unionization-political-one-opinion) (*Inside Higher Ed*)
