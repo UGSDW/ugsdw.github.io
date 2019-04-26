@@ -13,6 +13,8 @@ published: true
 
 # Coverage
 
+[UGSDW Negotiates New Contract with College, CLS Brainstorms Making On-Campus Jobs More Fulfilling](http://www.thesandb.com/news/ugsdw-negotiates-new-contract-with-college-cls-brainstorms-making-on-campus-jobs-more-fulfilling.html) (*Scarlet & Black*)
+
 ["Moving On": Kington Outlines Next Steps for College and UGSDW](http://www.thesandb.com/news/moving-on-kington-outlines-next-steps-for-college-and-ugsdw.html) (*Scarlet & Black*)
 
 [College Addresses Accusations of Racial Discrimination in the Spencer Grill](http://www.thesandb.com/news/college-addresses-accusations-of-racial-discrimination-in-the-spencer-grill.html) (*Scarlet & Black*)
