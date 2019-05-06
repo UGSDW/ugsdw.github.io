@@ -1,6 +1,6 @@
 ---
 release: true
-published: false
+published: true
 title: Members Elect Fall 2019 Executive Board
 author: Evangeline Bolles-Rioux
 ---
@@ -45,5 +45,3 @@ Nate Williams ‘20 (106 in favor, 11 against)
 
 
 Before all newly elected officers assume office on July 1, 2019, the current Executive Board will host a series of briefings with all newly elected officers to ensure a smooth transition of leadership.
-
-
