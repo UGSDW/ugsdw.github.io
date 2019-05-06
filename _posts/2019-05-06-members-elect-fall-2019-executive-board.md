@@ -3,6 +3,9 @@ release: true
 published: true
 title: Members Elect Fall 2019 Executive Board
 author: Evangeline Bolles-Rioux
+excerpt: >-
+  UGSDW voted on May 4, 2019 to elect officers of the Executive Board. The newly
+  elected officers will assume office on July 1, 2019
 ---
 #### Press Release
 
@@ -10,9 +13,7 @@ author: Evangeline Bolles-Rioux
 
 ### *Record Number of Candidates and Elected Board Members*
 
-The Union of Grinnell Student Dining Workers (UGSDW) voted on May 4, 2019 to elect officers of the Executive Board. The newly elected officers will assume office on July 1, 2019, and their term ends on December 31, 2019. 
-
-The election results are as follows:
+UGSDW voted on May 4, 2019 to elect officers of the Executive Board. The newly elected officers will assume office on July 1, 2019, and their term ends on December 31, 2019. The election results are as follows:
 
 <br>
 
