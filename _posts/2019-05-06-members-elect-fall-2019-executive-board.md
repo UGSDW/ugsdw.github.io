@@ -15,6 +15,8 @@ excerpt: >-
 
 UGSDW voted on May 4, 2019 to elect officers of the Executive Board. The newly elected officers will assume office on July 1, 2019, and their term ends on December 31, 2019. The election results are as follows:
 
+![Union vote](https://www.honestballot.com/wp-content/uploads/2015/07/Avoid-Ballot-Stuffing-In-Your-Next-Union-Representative-Vote-with-Secure-Online-Voting.jpg)
+
 **President**
 
 Sam Xu ‘20 (225 out of 317 votes)
@@ -41,6 +43,6 @@ Ryland Rich ‘22 (103 in favor, 12 against)
 
 Nate Williams ‘20 (106 in favor, 11 against)
 
-
+<br>
 
 Before all newly elected officers assume office on July 1, 2019, the current Executive Board will host a series of briefings with all newly elected officers to ensure a smooth transition of leadership.
