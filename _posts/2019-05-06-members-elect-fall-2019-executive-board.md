@@ -15,8 +15,6 @@ excerpt: >-
 
 UGSDW voted on May 4, 2019 to elect officers of the Executive Board. The newly elected officers will assume office on July 1, 2019, and their term ends on December 31, 2019. The election results are as follows:
 
-<br>
-
 **President**
 
 Sam Xu ‘20 (225 out of 317 votes)
