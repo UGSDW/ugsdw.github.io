@@ -1,5 +1,5 @@
 ---
-release: false
+release: true
 published: true
 title: 'Moving Backward: Statement on May 7 Student Campus Memo'
 excerpt: >-
