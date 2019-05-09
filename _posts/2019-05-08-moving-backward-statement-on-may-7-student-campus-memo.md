@@ -3,8 +3,8 @@ release: true
 published: true
 title: 'Moving Backward: Statement on May 7 Student Campus Memo'
 excerpt: >-
-  Trustees suspended discussion on partial expansion at last minute. UGSDW
-  members shocked, disappointed, and concerned.
+  Trustees suspended discussion on partial expansion at the last minute. UGSDW
+  members are shocked, disappointed, and concerned.
 author: UGSDW
 ---
 #### Press Release
@@ -14,7 +14,7 @@ author: UGSDW
 ### *Trustees Suspend Discussion on Partial Expansion at Last Minute*
 
 
-GRINNELL, IOWA - On May 7, Grinnell College announced in a [Student Campus Memo](https://myemail.constantcontact.com/Campus-Memo---5-7-2019.html?soid=1101855135914&aid=w5sK-kjqPAs) that the Board of Trustees directed the administration to suspend any talk over partial expansion of union representation with UGSDW “pending further discussion by the Board at its October 2019 meeting.”  We are shocked, disappointed and concerned. 
+On May 7, Grinnell College announced in a [Student Campus Memo](https://myemail.constantcontact.com/Campus-Memo---5-7-2019.html?soid=1101855135914&aid=w5sK-kjqPAs) that the Board of Trustees directed the administration to suspend any talk over partial expansion of union representation with UGSDW “pending further discussion by the Board at its October 2019 meeting.”  We are shocked, disappointed and concerned. 
 
 Following the Feb. 21 [Special Campus Memo](https://www.grinnell.edu/news/special-campus-memo-moving-ahead), in which President Kington indicated the administration’s openness to “possible selective expansion,” UGSDW representatives have engaged in a series of productive conversations with the administration throughout the semester, and made significant concessions regarding the scope of formal union representation.  On May 5, after lengthy debate and deliberation, UGSDW members voted in favor of a partial expansion proposal offered by the administration themselves, only to be told two days later that the administration was unable to enter any agreement, or even negotiate, any more. 
 
