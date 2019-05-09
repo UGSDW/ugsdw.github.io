@@ -1,6 +1,6 @@
 ---
 release: false
-published: false
+published: true
 title: 'Moving Backward: Statement on May 7 Student Campus Memo'
 ---
 #### Press Release
@@ -18,5 +18,4 @@ Following the Feb. 21 [Special Campus Memo](https://www.grinnell.edu/news/specia
 
 This unfortunate development underscores the serious confusion within the leadership of Grinnell College.  During our conversations, President Kington repeatedly communicated that the Board was fully supportive of a bargaining unit agreeable to the administration.  Not only does the recent directive from the Board of Trustees belie his claim, but also the directive is deeply troubling in its own right.  The Board claims that it needs more time to deliberate the complex issue of union expansion, but, at the same time, it bars the administration from engaging in any discussion with UGSDW.  The blanket refusal of conversation is obviously inconsistent with the stated objective of the Board, and Grinnell’s coveted values of civil discourse, free expression, and thoughtful dialogue. 
 
-The Board’s abrupt order is extremely counterproductive and deeply troubling.  We hope that Grinnell will choose to honor its promise with regard to partial union expansion.  Regardless, UGSDW remains open to dialogue with the administration and the Board, and stands steadfast in our mission to fight for a better and fairer campus workplace for all student workers. 
-
+The Board’s abrupt order is extremely counterproductive and deeply troubling.  We hope that Grinnell will choose to honor its promise with regard to partial union expansion.  Regardless, UGSDW remains open to dialogue with the administration and the Board, and stands steadfast in our mission to fight for a better and fairer campus workplace for all student workers.
