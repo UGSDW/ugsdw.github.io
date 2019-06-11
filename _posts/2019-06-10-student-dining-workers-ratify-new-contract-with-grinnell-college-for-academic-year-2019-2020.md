@@ -1,9 +1,10 @@
 ---
-release: false
+release: true
 published: false
 title: >-
   Student Dining Workers Ratify New Contract with Grinnell College for Academic
   Year 2019-2020
+author: UGSDW
 ---
 ### Press Release
 
