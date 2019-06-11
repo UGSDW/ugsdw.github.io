@@ -1,6 +1,6 @@
 ---
 release: true
-published: false
+published: true
 title: >-
   Student Dining Workers Ratify New Contract with Grinnell College for Academic
   Year 2019-2020
@@ -23,5 +23,4 @@ The contract came after weeks of heated back-and-forth at the bargaining table. 
 
 Membership participation is also indispensable for progress made in the new contract. Sam Xu ‘20, bargaining representative and President-Elect of UGSDW said, “A record number of members responded to our bargaining survey, and I do not think the administration would have reached an agreement with us without all the organizing and actions our members have participated in throughout the academic year.” Sam Xu ‘20 continued, “Not only does this contract bring tangible progress to student dining workers, but also it shows that there is power in a union and positions us well for our continued fight for all student workers.”
 
-The dining contract for the 2019-2020 academic year will be effective as of July 1, 2019 and will terminate on June 30, 2020. 
-
+The dining contract for the 2019-2020 academic year will be effective as of July 1, 2019 and will terminate on June 30, 2020.
