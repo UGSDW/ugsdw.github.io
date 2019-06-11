@@ -13,7 +13,7 @@ author: UGSDW
 ### *Higher Wages and Clearer Leave Policy; UGSDW to Build More Anti-Discrimination Resources*
 
 
-Recently, members of the Union of Grinnell Student Dining Workers (UGSDW) unanimously voted to ratify a [new dining contract](https://ugsdw-board.slack.com/files/UASH4A81G/FKGSLRM7H/signed_2019-20_dining_contract.pdf) for the 2019-2020 academic year. The new contract provides a base wage of $10, a 2.4% increase of the current base wage of $9.76. Notably, most returning student dining workers can earn equal to, or more than, $10.50 an hour under the new experience pay structure. The new contract also contains a clearer leave policy and a more consistent discipline protocol, among other improvements in working conditions. 
+Recently, members of the Union of Grinnell Student Dining Workers (UGSDW) unanimously voted to ratify a [new dining contract](https://drive.google.com/file/d/1L3XUaduwzYlC0KICy4GAt001YnAAbsoP/view?usp=sharing) for the 2019-2020 academic year. The new contract provides a base wage of $10, a 2.4% increase of the current base wage of $9.76. Notably, most returning student dining workers can earn equal to, or more than, $10.50 an hour under the new experience pay structure. The new contract also contains a clearer leave policy and a more consistent discipline protocol, among other improvements in working conditions. 
 
 ![sgrill.jpg]({{site.baseurl}}/assets/news/sgrill.jpg)
 
