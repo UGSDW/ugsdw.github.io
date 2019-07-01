@@ -46,6 +46,7 @@ determine the qualifications of employees and the content of their jobs
 
 **2.5	Labor Management Cooperation.** Upon the written request of either party, the College and the Union shall meet to discuss workplace conditions and any other matters that arise in the administration of this Agreement.
 
+
 ## ARTICLE III: Union Security
 
 **3.1	Employee Roster.**  The parties recognize that to fulfill its obligation to represent employees under this Agreement, the Union should have access to the names and contact information of employees covered by this Agreement. The parties recognize and agree that Employee students may choose to keep their contact information confidential.
@@ -76,6 +77,7 @@ The Union shall remove from the bulletin board, upon the written request of the 
 
 **3.7	Dues Check-Off.**  Each month the College agrees to deduct uniform dues from the paycheck of those covered employees whose individual written unrevoked authorizations are on file with the College. Dues deducted shall be remitted to the Union by the twentieth of each month.  Accompanying each remittance shall be a spreadsheet report of employees from whose wages deductions were made.
 
+
 ## ARTICLE IV: Wages
 
 **4.1	Initial Base Wage.**  Employees covered by this Agreement shall be paid a base hourly wage of $10.00 per hour.
@@ -83,6 +85,7 @@ The Union shall remove from the bulletin board, upon the written request of the 
 **4.2	Student Leader Pay/Special Designated Shift.**  Those employees designated and working as a Student Leader by the College shall be paid an additional $0.75 per hour. Those employees who work a Special Designated Shift shall be paid an additional $0.75 per hour.  Special Designated Shifts shall be clearly designated in the schedule.
 
 **4.3	Experience Pay.**  An employee who has worked 90 hours or more in an academic year shall be paid an additional $0.50 per hour.  An employee who has worked 90 hours or more in each of two academic years shall be paid an additional $1.00 per hour.  An employee who has worked 90 hours or more in each of three or more academic years shall be paid an additional $1.25 per hour.  Academic years in which an employee works 90 hours or more need not be consecutive.  For the purposes of this Section 4.3, each “academic year” runs from July 1 through June 30.
+
 
 ## ARTICLE V: Health, Safety, and Breaks
 
@@ -92,6 +95,7 @@ The Union shall remove from the bulletin board, upon the written request of the 
 
 **5.3	Meal Breaks.**  Employees who are unable to eat before their shift because of unavoidable academic conflicts shall receive an unpaid meal break of up to thirty (30) minutes during their shift.  Employees who receive a meal break shall not also receive paid rest break.
 
+
 ## ARTICLE VI: Non-Discrimination
 
 **6.1	No Discrimination.**	Grinnell College is committed to establishing and maintaining a safe and nondiscriminatory environment for all college community members.  It is committed to a policy of nondiscrimination in matters of admission, employment, and housing, and in access to and participation in its educational programs, services, and activities.  The College shall not discriminate on the basis of race, color, ethnicity, national origin, age, sex, gender, sexual orientation, gender identity or expression, marital status, veteran status, pregnancy, childbirth, religion, disability, creed, or any other protected class.  Discrimination and harassment on any of the bases covered by state or federal antidiscrimination statutes is unlawful and a violation of Grinnell College policy. The parties agree that any matter covered by the Grinnell College nondiscrimination policies will not be subject to the grievance provision in this Agreement.  Students concerned about violations of College nondiscrimination and harassment policy are encouraged to follow the Grinnell College Discrimination and Harassment Grievance/Complaint Procedure, and in cases of alleged sexual harassment or misconduct may elect to have a union representative act as their support person.
@@ -99,6 +103,7 @@ The Union shall remove from the bulletin board, upon the written request of the 
 **6.2	Accessibility.**  The College will provide reasonable accommodations to any employee with a temporary or long-term disability which prevents them from performing the essential functions of their normal assigned duties.
 
 **6.3	Diversity and Inclusion Training.** The College shall provide mandatory diversity and inclusion training for all non-unit employees of Dining Services, except for supported employees. 
+
 
 ## ARTICLE VII: Discipline
 
@@ -109,6 +114,7 @@ The Union shall remove from the bulletin board, upon the written request of the 
 **7.3	Union Representatives.**  When an employee’s supervisor wishes to question an employee or discuss with them any matter in order to obtain information which could be used as a basis for discipline or termination, or asks an employee to defend their conduct, the supervisor must offer the employee the option of waiting until a union representative arrives.  The College agrees that no employee shall be disciplined or retaliated against for exercising their right to union representation.  Alleged violations of this Section 7.3 shall not be subject to the grievance provision in this Agreement.  Each semester, the Union shall provide the College with a list of union representatives and their contact information.
 
 **7.4	Consistent Discipline.**  Individual exceptions shall not be given to student employees for any disciplinary issues.  The College shall ensure that all new employees are given a copy of the Student Employee Handbook, containing all workplace rules and expectations.
+
 
 ## ARTICLE VIII: Grievances
 
@@ -127,6 +133,7 @@ If the grievance involves a termination, the grievance process may begin at Step
 **8.3	Arbitration.** If the grievance is not resolved at Step Three the Union may request arbitration on behalf of the aggrieved employee by submitting a written request to the Vice President of Human Resources within three (3) working days of receiving the Step Three response.
 
 The Dean of Students shall serve as the arbitrator.  The Dean shall conduct a hearing and decide the grievance based upon the terms of this Agreement and College policies and practices.  The Dean shall have no power to amend, ignore or modify the terms of this Agreement.
+
 
 ## ARTICLE IX: Term
 
