@@ -1,38 +1,38 @@
 president:
-    name: Sam Xu
-    email: president@ugsdw.org
-    box: 4610
+    name:  Sam Xu
+    email:  president@ugsdw.org
+    box:  4610
 sec-treas:
-    name: Oona Miller
-    email: sectreas@ugsdw.org
-    box: 4218
+    name:  Oona Miller
+    email:  sectreas@ugsdw.org
+    box:  4218
 at-large:
     -
-        name: Annie Kratz
-        email: kratzann@grinnell.edu
+        name:  Annie Kratz
+        email:  kratzann@grinnell.edu
     -
-        name: Luca Nelson
-        email: nelsonlu@grinnell.edu
+        name:  Luca Nelson
+        email:  nelsonlu@grinnell.edu
    	-
-        name: Paige Oamek
-        email: oamekpai@grinnell.edu
+        name:  Paige Oamek
+        email:  oamekpai@grinnell.edu
    	-
-        name: Andy Pavey
-        email: paveyand@grinnell.edu
+        name:  Andy Pavey
+        email:  paveyand@grinnell.edu
    	-
-        name: Ryland Rich 
-        email: richryla@grinnell.edu
+        name:  Ryland Rich 
+        email:  richryla@grinnell.edu
    	-
-        name: Nate Williams
-        email: williams2@grinnell.edi
+        name:  Nate Williams
+        email:  williams2@grinnell.edi
 advisors:
     -
-        name: Alec Doss
-        email: dossalec@grinnell.edu
+        name:  Alec Doss
+        email:  dossalec@grinnell.edu
     -
-        name: Cory McCartan
-        email: mccartan@grinnell.edu
+        name:  Cory McCartan
+        email:  mccartan@grinnell.edu
 press-secretary:
-    name:  Evangeline Bolles-Rioux
-    email: press@ugsdw.org
+    name:   Evangeline Bolles-Rioux
+    email:  press@ugsdw.org
     box:
