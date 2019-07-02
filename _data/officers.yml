@@ -1,18 +1,30 @@
 president:
-    name: Quinn Ercolani
+    name: Sam Xu
     email: president@ugsdw.org
-    box: 3409
+    box: 4610
 sec-treas:
-    name: Anastasia Zhu
+    name: Oona Miller
     email: sectreas@ugsdw.org
-    box: 4802
+    box: 4218
 at-large:
     -
-        name: Jacob Schneyer
-        email: schneyer@grinnell.edu
+        name: Annie Kratz
+        email: kratzann@grinnell.edu
     -
-        name: Sam Xu
-        email: xuzijun@grinnell.edu
+        name: Luca Nelson
+        email: nelsonlu@grinnell.edu
+   	-
+        name: Paige Oamek
+        email: oamekpai@grinnell.edu
+   	-
+        name: Andy Pavey
+        email: paveyand@grinnell.edu
+   	-
+        name: Ryland Rich 
+        email: richryla@grinnell.edu
+   	-
+        name: Nate Williams
+        email: williams2@grinnell.edi
 advisors:
     -
         name: Alec Doss
