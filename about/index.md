@@ -29,9 +29,9 @@ margin.
 Since then, we've expanded to include all Dining Services workers.  We've fought
 for, and won:
 - An initial 9% wage increase to $9.25 an hour
-- Further increases to $9.76 an hour
-- Tiered bonuses for students who work at least 110 hours a semester
-- A grievance procedure
+- Further increases to $10.00 an hour
+- Bonuses up to 1.25$ an hour for experienced student workers
+- Just cause employment and a grievance procedure
 - Paid rest breaks
 - Equal pay for local high school students
 
@@ -59,12 +59,12 @@ UGSDW is led by the Executive Board, which is elected yearly by the membership. 
 
 ### End-of-Year Financial Reports
 
-[FY 2017](/assets/reports/fy2017.pdf)
+[FY 2019](/assets/reports/fy2019.pdf)
 
 [FY 2018](/assets/reports/fy2018.pdf)
 
 ### LM-4 Reports
 
-[2017 LM-4](/assets/reports/lm_4_2017.pdf)
+[2019 LM-4](/assets/reports/lm_4_2019.pdf)
 
 [2018 LM-4](/assets/reports/lm_4_2018.pdf)
