@@ -27,12 +27,18 @@ We are proud that Grinnell College was the first college where undergraduate stu
 
 Respectfully,
 
-Philip Bertenthal '68 
-Cady Landa '75, PhD
-Sharyn Obsatz '93, Executive Committee Member, Santa Monica College Faculty Association
+Philip Bertenthal '68; 
+
+Cady Landa '75, PhD;
+
+Sharyn Obsatz '93, Executive Committee Member, Santa Monica College Faculty Association;
+
 Naida Tushnet '61, PhD
+
 Susan Allyn Carlson '68	
+
 Alana Smart '68, Attended Grinnell on a union scholarship 
+
 Vivian Adzaku '68	
 Ron Cogswell ‘68
 the Rev. Dr. Judith H. W. Crossett '68, MD, PhD
