@@ -1,6 +1,6 @@
 ---
 release: false
-published: false
+published: true
 title: 'Alumni: It is Time for Trustees to Accept Selective Expansion '
 ---
 ### Open Letter Signed by 200 Alumni in Support of Partial Expansion 
