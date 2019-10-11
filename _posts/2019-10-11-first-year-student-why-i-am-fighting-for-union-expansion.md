@@ -1,6 +1,6 @@
 ---
 release: false
-published: false
+published: true
 title: 'First Year Student: Why I am Fighting for Union Expansion'
 ---
 ### I came here for UGSDW. Now I am fighting to expand it 
