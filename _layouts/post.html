@@ -8,7 +8,9 @@
             <section class="main-content">
                 <h1>{{ page.title }}</h1>
                 <span class="byline">
-                    By <span class="author">{{ page.author | default: UGSDW }}</span>
+                    {% if page.author and page.author != "" %}
+                        By <span class="author">{{ page.author }}</span>
+                    {% endif %}
                     <span class="date">{{ page.date | date: '%A, %B %-d, %Y' }}</span>
                 </span>
 
