@@ -76,10 +76,19 @@ a.logo-wrapper
 .main-logo
     height: $logo-height
 
-.fb
+.social 
     position: absolute
-    top: 18px
-    left: 0
+    left: 4px
+    top: 4px
+    
+    a img
+        height: 20px
+        opacity: 0.5
+        transition: opacity 100ms
+    a img:hover
+        opacity: 0.75
+
+.social-footer a img
     height: 20px
     opacity: 0.5
 
@@ -382,7 +391,7 @@ address
         margin-top: 2em
         margin-left: 0
 
-    .fb 
+    .social
         display: none
 
     nav.main
