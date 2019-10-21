@@ -36,6 +36,10 @@ to fundamentally rethink the relationship between student labor and the college.
 We can make Grinnell the most unionized campus in the country, a place where 
 democracy and fair wages are the rule rather than the exception.
 
+<a href="/together/faq/" class="button">Learn More: Frequently Asked Questions &raquo;</a>
+<br>
+<a href="/together/why/" class="button">Read More: A Case for UGSDW for All &raquo;</a>
+
 <div class="text-banner" style="font-size: 1.5rem; margin: 1em 0">
 &ldquo;Student workers can shape the college that they serve. The fight to increase
 dining hall wages is an amazing and powerful example of we can do when we
@@ -44,10 +48,6 @@ combine our voices in the name of student power.&rdquo;
 — Langston Thomas &rsquo;19, peer educator and vice-chair of SPARC
 </div>
 </div>
-
-<a href="/together/faq/" class="button">Learn More: Frequently Asked Questions &raquo;</a>
-<br>
-<a href="/together/why/" class="button">Read More: A Case for UGSDW for All &raquo;</a>
 
 # Timeline
 
@@ -61,11 +61,13 @@ combine our voices in the name of student power.&rdquo;
 
 # Partial Expansion
 
-Ever since we announced our campaign to expand union representation beyond Dining Services, the college administration fought us at every turn, lawyering up, saying that student workers do not deserve any labor right, and threatening the rights of student workers across the country.
+Ever since we announced our campaign to expand union representation beyond Dining Services, the college administration fought us at every turn, [saying](https://www.ugsdw.org/2017/11/16/grinnell-s-anti-worker-agenda/) that student workers do not deserve any labor rights, [lawyering up](https://www.ugsdw.org/2018/11/19/statement-on-nov-19-special-campus-memo/), and [threatening](https://www.motherjones.com/politics/2018/12/grinnell-college-union-nlrb-national-labor-relations-board/) the rights of student workers across the country.
 
-Yet, student workers continued to organize, take direct action, and offer to discuss the administration’s concerns in good faith. In February 2019, UGSDW members made the difficult decision to agree to expand representation to jobs that not “primarily educational” first. In May 2019, we again made a difficult decision to agree to a partial expansion proposal from the administration. But the trustees continued to delay and deny student workers’ rights, refusing to approve the deal in May 2019 and in October 2019. 
+Yet, student workers continued to organize, [take](https://www.ugsdw.org/2018/12/14/grinnell-college-sent-backpedaling-after-successful-student-demonstration/) direct action, and [offer](https://www.ugsdw.org/2019/02/09/our-letter-to-the-board-of-trustees/) to discuss the administration’s concerns in good faith. In [February 2019](https://www.ugsdw.org/2019/02/21/statement-on-feb-21-special-campus-memo/), UGSDW members made the difficult decision to agree to expand representation to jobs that not “primarily educational” first. In May 2019, we again made a difficult decision to agree to a partial expansion proposal from the administration. But the trustees continued to deny student workers’ rights, delaying a vote on the deal in [May](https://www.ugsdw.org/2019/05/08/moving-backward-statement-on-may-7-student-campus-memo/) and [October](https://www.ugsdw.org/2019/09/28/statement-on-board-of-trustees-delay-of-vote-on-partial-expansion/), 2019.
 
 We will fight to get to partial expansion. We will fight for all student workers, with or without formal union representation. 
+
+<a href="/assets/Sam Xu 10_3_19 Statement to Trustees on Union Partial Expansion.pdf" class="button">Read More: UGSDW Statment before the Trustees on Partial Expansion &raquo;</a>
 
 {% comment %} 
 # Our Platform
@@ -95,15 +97,3 @@ that leave for medical treatment, family emergencies, and illness is a basic
 right.  Giving employees one paid sick day a semester would discourage them
 from working while sick and endangering their peers.
 {% endcomment %} 
-
-
-# More Information and Resources
-
-Looking for a more detailed argument in favor of UGSDW's expansion? The union has put
-together [an extensively-researched document arguing in favor unionization](/together/why/),
-and explaining why the college's "arguments" are little more than convenient misrepresentations
-designed to deny student workers their rights.
-
-You can hear from the college in it's own words on [its dedicated unionization website](https://www.grinnell.edu/campus-life/conversations/unionization).
-
-An [FAQ for expansion](/together/faq/) is also available.
