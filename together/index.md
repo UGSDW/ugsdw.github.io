@@ -30,9 +30,7 @@ the workplace. Wages and hours are set arbitrarily by the administration, and
 
 ![Expansion announcement](/assets/news/expansion_watching.jpg)
 
-UGSDW can provide a voice to student workers. Together, we can advocate for our
-common goals in a way that has not been possible before. We have an opportunity
-to fundamentally rethink the relationship between student labor and the college. 
+Together, we can advocate for our common goals in a way that has not been possible before. We have an opportunity to fundamentally rethink the relationship between student labor and the college. 
 We can make Grinnell the most unionized campus in the country, a place where 
 democracy and fair wages are the rule rather than the exception.
 
@@ -45,7 +43,7 @@ democracy and fair wages are the rule rather than the exception.
 dining hall wages is an amazing and powerful example of we can do when we
 combine our voices in the name of student power.&rdquo;
 <div style="color: #777; font-size: 0.9em; text-align: right">
-— Langston Thomas &rsquo;19, peer educator and vice-chair of SPARC
+— Langston Thomas &rsquo;20, peer educator and vice-chair of SPARC
 </div>
 </div>
 
@@ -59,13 +57,20 @@ combine our voices in the name of student power.&rdquo;
 - **October 18, 2018:** The labor board concludes a two-day hearing with UGSDW and the college about the union's election petition.  [Read](http://www.thesandb.com/article/college-and-union-convene-historic-hearing-on-expanded-unionization-efforts.html) [more](http://www.thesandb.com/article/historic-unionization-hearing-concludes-with-nlrb-ruling-pending.html).
 - **October 8, 2018:** UGSDW has [filed for an election](/2018/10/08/ugsdw-files-for-election-paving-the-way-for-campus-wide-union/) with the National Labor Relations Board, setting up a campus-wide election.
 
+<div class="text-banner" style="font-size: 1.5rem; margin: 1em 0">
+&ldquo;.&rdquo;We will fight to get to partial expansion. We will fight for all student workers, with or without formal union representation, in or out of partial expansion.&rdquo;
+<div style="color: #777; font-size: 0.9em; text-align: right">
+— Sam Xu &rsquo;20, President, UGSDW
+</div>
+</div>
+
 # Partial Expansion
 
 Ever since we announced our campaign to expand union representation beyond Dining Services, the college administration fought us at every turn, [saying](https://www.ugsdw.org/2017/11/16/grinnell-s-anti-worker-agenda/) that student workers do not deserve any labor rights, [lawyering up](https://www.ugsdw.org/2018/11/19/statement-on-nov-19-special-campus-memo/), and [threatening](https://www.motherjones.com/politics/2018/12/grinnell-college-union-nlrb-national-labor-relations-board/) the rights of student workers across the country.
 
-Yet, student workers continued to organize, [take](https://www.ugsdw.org/2018/12/14/grinnell-college-sent-backpedaling-after-successful-student-demonstration/) direct action, and [offer](https://www.ugsdw.org/2019/02/09/our-letter-to-the-board-of-trustees/) to discuss the administration’s concerns in good faith. In [February 2019](https://www.ugsdw.org/2019/02/21/statement-on-feb-21-special-campus-memo/), UGSDW members made the difficult decision to agree to expand representation to jobs that not “primarily educational” first. In May 2019, we again made a difficult decision to agree to a partial expansion proposal from the administration. But the trustees continued to deny student workers’ rights, delaying a vote on the deal in [May](https://www.ugsdw.org/2019/05/08/moving-backward-statement-on-may-7-student-campus-memo/) and [October](https://www.ugsdw.org/2019/09/28/statement-on-board-of-trustees-delay-of-vote-on-partial-expansion/), 2019.
+Yet, student workers continued to organize, [take](https://www.ugsdw.org/2018/12/14/grinnell-college-sent-backpedaling-after-successful-student-demonstration/) direct action, and [offer](https://www.ugsdw.org/2019/02/09/our-letter-to-the-board-of-trustees/) to discuss the administration’s concerns in good faith. In [February 2019](https://www.ugsdw.org/2019/02/21/statement-on-feb-21-special-campus-memo/), UGSDW members made the difficult decision to agree to expand representation to jobs that not “primarily educational” first. In May 2019, we again made a difficult decision to agree to a partial expansion proposal from the administration that would commit the college not to resist union expansion to 200+ student workers outside Dining, including those in Mail Services and Atheletics.  
 
-We will fight to get to partial expansion. We will fight for all student workers, with or without formal union representation. 
+But the trustees continued to deny student workers’ rights, delaying a vote on the deal in [May](https://www.ugsdw.org/2019/05/08/moving-backward-statement-on-may-7-student-campus-memo/) and [October](https://www.ugsdw.org/2019/09/28/statement-on-board-of-trustees-delay-of-vote-on-partial-expansion/), 2019. We will fight to get to partial expansion. We will fight for all student workers, with or without formal union representation, in or out of partial expansion.
 
 <a href="/assets/Sam Xu 10_3_19 Statement to Trustees on Union Partial Expansion.pdf" class="button">Read More: Our Statement before the Trustees on Partial Expansion &raquo;</a>
 
