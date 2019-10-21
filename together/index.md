@@ -69,7 +69,7 @@ We will fight to get to partial expansion. We will fight for all student workers
 
 <a href="/assets/Sam Xu 10_3_19 Statement to Trustees on Union Partial Expansion.pdf" class="button">Read More: Our Statement before the Trustees on Partial Expansion &raquo;</a>
 
-![UGSDW President Sam Xu '20 speaking at trustees listening session on partial expansion]({{site.baseurl}}/assets/news/IMG_1414.JPG)
+![IMG_20190513_155500.jpg]({{site.baseurl}}/assets/news/IMG_20190513_155500.jpg)
 
 {% comment %} 
 # Our Platform
