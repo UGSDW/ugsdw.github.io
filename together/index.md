@@ -67,7 +67,9 @@ Yet, student workers continued to organize, [take](https://www.ugsdw.org/2018/12
 
 We will fight to get to partial expansion. We will fight for all student workers, with or without formal union representation. 
 
-<a href="/assets/Sam Xu 10_3_19 Statement to Trustees on Union Partial Expansion.pdf" class="button">Read More: UGSDW Statment before the Trustees on Partial Expansion &raquo;</a>
+<a href="/assets/Sam Xu 10_3_19 Statement to Trustees on Union Partial Expansion.pdf" class="button">Read More: Our Statement before the Trustees on Partial Expansion &raquo;</a>
+
+![UGSDW President Sam Xu '20 speaking at trustees listening session on partial expansion]({{site.baseurl}}/assets/news/IMG_1414.JPG)
 
 {% comment %} 
 # Our Platform
@@ -96,4 +98,4 @@ they reserve the right to fire employees for being "too sick," we believe
 that leave for medical treatment, family emergencies, and illness is a basic
 right.  Giving employees one paid sick day a semester would discourage them
 from working while sick and endangering their peers.
-{% endcomment %} 
+{% endcomment %}
