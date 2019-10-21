@@ -15,22 +15,6 @@ published: true
 Student workers deserve a say. That's why we are joining together at UGSDW.
 </span>
 
-# Timeline
-
-- **December 14, 2018:** UGSDW asked the NLRB to [withdraw its petition](/2018/12/14/ugsdw-withdraws-petition-seeks-to-preserve-rights-of-student-workers-grinnell-opposes/), moving the battle from the bureaucracy back to campus.
-- **November 27, 2018:** Student workers [voted for UGSDW by a 5-to-1 margin](/2018/11/27/student-workers-we-re-stickin-with-the-union/)!
-- **November 19, 2018:** Grinnell [has filed a motion to stop the election going forward](/2018/11/19/statement-on-nov-19-special-campus-memo/), with the help of three new lawyers from [Proskauer Rose](http://www.proskauer.com), one of the top union-busting firms in the country.  The college now has five lawyers working to deny us a vote on a union. 
-- **November 12, 2018:** Grinnell College [continues its misinformation and intimidation tactics](https://www.ugsdw.org/2018/11/12/statement-on-nov-12-special-campus-memo/).
-- **November 5, 2018:** The Regional Director of the NLRB has [ruled in UGSDW's favor and directed an election](/2018/11/05/student-workers-prevail-as-nlrb-directs-union-election/).
-- **October 18, 2018:** The labor board concludes a two-day hearing with UGSDW and the college about the union's election petition.  [Read](http://www.thesandb.com/article/college-and-union-convene-historic-hearing-on-expanded-unionization-efforts.html) [more](http://www.thesandb.com/article/historic-unionization-hearing-concludes-with-nlrb-ruling-pending.html).
-- **October 8, 2018:** UGSDW has [filed for an election](/2018/10/08/ugsdw-files-for-election-paving-the-way-for-campus-wide-union/) with the National Labor Relations Board, setting up a campus-wide 
-election in the coming weeks.
-
-
-<a href="/together/faq/" class="button">Learn More: Frequently Asked Questions &raquo;</a>
-<br>
-<a href="/together/why/" class="button">Read More: A Case for UGSDW for All &raquo;</a>
-
 
 # Why a union?
 
@@ -61,6 +45,31 @@ combine our voices in the name of student power.&rdquo;
 — Langston Thomas &rsquo;19, peer educator and vice-chair of SPARC
 </div>
 </div>
+
+# Timeline
+
+- **December 14, 2018:** UGSDW asked the NLRB to [withdraw its petition](/2018/12/14/ugsdw-withdraws-petition-seeks-to-preserve-rights-of-student-workers-grinnell-opposes/), moving the battle from the bureaucracy back to campus.
+- **November 27, 2018:** Student workers [voted for UGSDW by a 5-to-1 margin](/2018/11/27/student-workers-we-re-stickin-with-the-union/)!
+- **November 19, 2018:** Grinnell [has filed a motion to stop the election going forward](/2018/11/19/statement-on-nov-19-special-campus-memo/), with the help of three new lawyers from [Proskauer Rose](http://www.proskauer.com), one of the top union-busting firms in the country.  The college now has five lawyers working to deny us a vote on a union. 
+- **November 12, 2018:** Grinnell College [continues its misinformation and intimidation tactics](https://www.ugsdw.org/2018/11/12/statement-on-nov-12-special-campus-memo/).
+- **November 5, 2018:** The Regional Director of the NLRB has [ruled in UGSDW's favor and directed an election](/2018/11/05/student-workers-prevail-as-nlrb-directs-union-election/).
+- **October 18, 2018:** The labor board concludes a two-day hearing with UGSDW and the college about the union's election petition.  [Read](http://www.thesandb.com/article/college-and-union-convene-historic-hearing-on-expanded-unionization-efforts.html) [more](http://www.thesandb.com/article/historic-unionization-hearing-concludes-with-nlrb-ruling-pending.html).
+- **October 8, 2018:** UGSDW has [filed for an election](/2018/10/08/ugsdw-files-for-election-paving-the-way-for-campus-wide-union/) with the National Labor Relations Board, setting up a campus-wide election. 
+
+<a href="/together/faq/" class="button">Learn More: Frequently Asked Questions &raquo;</a>
+<br>
+<a href="/together/why/" class="button">Read More: A Case for UGSDW for All &raquo;</a>
+
+# Partial Expansion
+
+Ever since we announced our campaign to expand union representation beyond Dining Services, the college administration fought us at every turn, [saying](https://www.ugsdw.org/2017/11/16/grinnell-s-anti-worker-agenda/) that student workers do not deserve any labor rights, [lawyering up](https://www.ugsdw.org/2018/11/19/statement-on-nov-19-special-campus-memo/), and [threatening](https://www.motherjones.com/politics/2018/12/grinnell-college-union-nlrb-national-labor-relations-board/) the rights of student workers across the country.
+
+Yet, student workers continued to organize, take direct action, and [offer](https://www.ugsdw.org/2019/02/09/our-letter-to-the-board-of-trustees/) to discuss the administration’s concerns in good faith. In [February 2019](https://www.ugsdw.org/2019/02/21/statement-on-feb-21-special-campus-memo/), UGSDW members made the difficult decision to agree to expand representation to jobs that not “primarily educational” first. In May 2019, we again made a difficult decision to agree to a partial expansion proposal from the administration. But the trustees continued to deny student workers’ rights, delaying on vote on the deal in [May](https://www.ugsdw.org/2019/05/08/moving-backward-statement-on-may-7-student-campus-memo/) and [September](https://www.ugsdw.org/2019/09/28/statement-on-board-of-trustees-delay-of-vote-on-partial-expansion/), 2019.
+
+We will fight to get to partial expansion. We will fight for all student workers, with or without formal union representation. 
+
+<a href="/assets/Sam Xu 10_3_19 Statement to Trustees on Union Partial Expansion.pdf" class="button">Read More: UGSDW Statement to Trustees on Partial Expansion &raquo;</a>
+
 
 {% comment %} 
 # Our Platform
