@@ -26,17 +26,16 @@ Grinnell has always valued self-governance. College president George Gates
 famously said that "It is 10,000 times better that young people should learn to 
 govern themselves." Despite this, self-governance is notably absent in 
 the workplace. Wages and hours are set arbitrarily by the administration, and
-[jobs can disappear without notice or discussion](/2017/08/26/statement-on-the-closing-of-bob-s-underground-cafe-and-lyle-s-pub/). Student workers in Dining Services have fought for, and won, [key improvements](https://www.ugsdw.org/2019/06/10/student-dining-workers-ratify-new-contract-with-grinnell-college-for-academic-year-2019-2020/) in wages and working conditions through UGSDW. Student workers outside Dining Services ought to have the right to do the same. 
+[jobs can disappear without notice or discussion](/2017/08/26/statement-on-the-closing-of-bob-s-underground-cafe-and-lyle-s-pub/). 
+
+Together, we can advocate for our common goals in a way that has not been possible before. Student workers in Dining Services have fought for, and won, [key improvements](https://www.ugsdw.org/2019/06/10/student-dining-workers-ratify-new-contract-with-grinnell-college-for-academic-year-2019-2020/) in wages and working conditions through UGSDW. Student workers outside Dining Services ought to have the right to do the same. 
 
 ![Expansion announcement](/assets/news/expansion_watching.jpg)
-
-Together, we can advocate for our common goals in a way that has not been possible before. We have an opportunity to fundamentally rethink the relationship between student labor and the college. 
-We can make Grinnell the most unionized campus in the country, a place where 
-democracy and fair wages are the rule rather than the exception.
 
 <a href="/together/faq/" class="button">Learn More: Frequently Asked Questions &raquo;</a>
 <br>
 <a href="/together/why/" class="button">Read More: A Case for UGSDW for All &raquo;</a>
+
 
 <div class="text-banner" style="font-size: 1.5rem; margin: 1em 0">
 &ldquo;Student workers can shape the college that they serve. The fight to increase
@@ -47,6 +46,7 @@ combine our voices in the name of student power.&rdquo;
 </div>
 </div>
 
+
 # Timeline
 
 - **December 14, 2018:** UGSDW asked the NLRB to [withdraw its petition](/2018/12/14/ugsdw-withdraws-petition-seeks-to-preserve-rights-of-student-workers-grinnell-opposes/), moving the battle from the bureaucracy back to campus.
@@ -56,6 +56,7 @@ combine our voices in the name of student power.&rdquo;
 - **November 5, 2018:** The Regional Director of the NLRB has [ruled in UGSDW's favor and directed an election](/2018/11/05/student-workers-prevail-as-nlrb-directs-union-election/).
 - **October 18, 2018:** The labor board concludes a two-day hearing with UGSDW and the college about the union's election petition.  [Read](http://www.thesandb.com/article/college-and-union-convene-historic-hearing-on-expanded-unionization-efforts.html) [more](http://www.thesandb.com/article/historic-unionization-hearing-concludes-with-nlrb-ruling-pending.html).
 - **October 8, 2018:** UGSDW has [filed for an election](/2018/10/08/ugsdw-files-for-election-paving-the-way-for-campus-wide-union/) with the National Labor Relations Board, setting up a campus-wide election.
+
 
 # Partial Expansion
 
