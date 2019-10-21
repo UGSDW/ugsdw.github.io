@@ -57,14 +57,14 @@ combine our voices in the name of student power.&rdquo;
 - **October 18, 2018:** The labor board concludes a two-day hearing with UGSDW and the college about the union's election petition.  [Read](http://www.thesandb.com/article/college-and-union-convene-historic-hearing-on-expanded-unionization-efforts.html) [more](http://www.thesandb.com/article/historic-unionization-hearing-concludes-with-nlrb-ruling-pending.html).
 - **October 8, 2018:** UGSDW has [filed for an election](/2018/10/08/ugsdw-files-for-election-paving-the-way-for-campus-wide-union/) with the National Labor Relations Board, setting up a campus-wide election.
 
+# Partial Expansion
+
 <div class="text-banner" style="font-size: 1.5rem; margin: 1em 0">
-&ldquo;.&rdquo;We will fight to get to partial expansion. We will fight for all student workers, with or without formal union representation, in or out of partial expansion.&rdquo;
+&ldquo;We will fight to get to partial expansion. We will fight for all student workers, with or without formal union representation, in or out of partial expansion.&rdquo;
 <div style="color: #777; font-size: 0.9em; text-align: right">
 — Sam Xu &rsquo;20, President, UGSDW
 </div>
 </div>
-
-# Partial Expansion
 
 Ever since we announced our campaign to expand union representation beyond Dining Services, the college administration fought us at every turn, [saying](https://www.ugsdw.org/2017/11/16/grinnell-s-anti-worker-agenda/) that student workers do not deserve any labor rights, [lawyering up](https://www.ugsdw.org/2018/11/19/statement-on-nov-19-special-campus-memo/), and [threatening](https://www.motherjones.com/politics/2018/12/grinnell-college-union-nlrb-national-labor-relations-board/) the rights of student workers across the country.
 
