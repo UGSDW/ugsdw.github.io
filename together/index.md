@@ -12,12 +12,10 @@ published: true
 </div>
 
 <span>
-Student workers deserve a say. That's why we are joining together at UGSDW. 
+Student workers deserve a say. That's why we are joining together at UGSDW.
 </span>
 
-
-
-# Updates
+# Timeline
 
 - **December 14, 2018:** UGSDW asked the NLRB to [withdraw its petition](/2018/12/14/ugsdw-withdraws-petition-seeks-to-preserve-rights-of-student-workers-grinnell-opposes/), moving the battle from the bureaucracy back to campus.
 - **November 27, 2018:** Student workers [voted for UGSDW by a 5-to-1 margin](/2018/11/27/student-workers-we-re-stickin-with-the-union/)!
