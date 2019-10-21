@@ -19,14 +19,14 @@ Student workers deserve a say. That's why we are joining together at UGSDW.
 
 Workers deserve a voice. Without student workers, there would be no food, no
 library, no mentor sessions, no mail delivery. We do vital work for the
-college. Some students work 20 hours a week. We should have a say in how we
+college. We should have a say in how we
 work.
 
 Grinnell has always valued self-governance. College president George Gates 
 famously said that "It is 10,000 times better that young people should learn to 
 govern themselves." Despite this, self-governance is notably absent in 
 the workplace. Wages and hours are set arbitrarily by the administration, and
-[jobs can disappear without notice or discussion](/2017/08/26/statement-on-the-closing-of-bob-s-underground-cafe-and-lyle-s-pub/).
+[jobs can disappear without notice or discussion](/2017/08/26/statement-on-the-closing-of-bob-s-underground-cafe-and-lyle-s-pub/). Student workers in Dining Services have fought for, and won, [key improvements](https://www.ugsdw.org/2019/06/10/student-dining-workers-ratify-new-contract-with-grinnell-college-for-academic-year-2019-2020/) in wages and working conditions through UGSDW. Student workers outside Dining Services ought to have the right to do the same. 
 
 ![Expansion announcement](/assets/news/expansion_watching.jpg)
 
