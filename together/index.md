@@ -7,20 +7,15 @@ published: true
 ---
 
 <div class="text-banner">
-    <h2 class="subtitle">Expanding UGSDW Representation to All</h2>
+    <h2 class="subtitle"> UGSDW </h2>
     <h1 class="title">A Voice for Everyone.</h1>
 </div>
 
 <span>
-Student workers deserve a say.  UGSDW can give them one.
+Student workers deserve a say. That's why we are joining together at UGSDW. 
 </span>
 
-# Election Details
 
-- **When:** Tuesday, November 27, from 9 a.m. until 5 p.m.
-- **Where:** Joe Rosenfield Center Room 101
-- **What to Bring:** Photo ID such as a driver's license or student ID.
-- **Questions or concerns:** E-mail <expansion@ugsdw.org>.
 
 # Updates
 
