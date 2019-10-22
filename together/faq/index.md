@@ -43,9 +43,7 @@ grievance procedure.
 
 In Spring 2019, the administration offered not to oppose partial expansion to campus jobs covering 200+ student workers, including those in Athletics and Mail Services. The Board of Trustees have since twice delayed approving the proposal. We are fighting to get partial expansion, and then we will negotiate a contract based on the demands of student workers. 
 
-Learn more about partial expansion:
-<a href="/assets/Sam Xu 10_3_19 Statement to Trustees on Union Partial Expansion.pdf" class="button">Read More: Our Statement before the Trustees on Partial Expansion &raquo;</a>
-
+<a href="/assets/Sam Xu 10_3_19 Statement to Trustees on Union Partial Expansion.pdf" class="button">Read more: Our Statement before the Trustees on Partial Expansion &raquo;</a>
 
 ### What about student workers outside partial expansion?
 
@@ -75,16 +73,7 @@ included should it become necessary. Regardless of where you work, you deserve a
 
 ### If the union wins more benefits for student employees, won't Grinnell have to make more cuts elsewhere? 
 
-Not necessarily.  The college has 
-[A LOT](https://www.grinnell.edu/sites/default/files/documents/Grinnell%20College%20-%20Final%20Financial%20Statements%20-%20Short.pdf) 
-of money, and can largely choose to do
-whatever it wants with it.  They also build flexibility into their budget. Financial aid is
-central to Grinnell's mission.  The new admissions building? Maybe not as much.
-We certainly think that paying employees a fair wage should be a higher
-priority than some of the College's current expenditures.
-
-Learn more about why we find this argument unpersuasive:
-<a href="/together/why/" class="button">Read More: A Case for UGSDW for All &raquo;</a>
+Not necessarily.  The college has [A LOT](https://www.grinnell.edu/sites/default/files/documents/Grinnell%20College%20-%20Final%20Financial%20Statements%20-%20Short.pdf)of money, and can largely choose to do whatever it wants with it.  They also build flexibility into their budget. Financial aid is central to Grinnell's mission.  The new admissions building? Maybe not as much. We certainly think that paying employees a fair wage should be a higher priority than some of the College's current expenditures.
 
 
 ### I like my work. Why would I want a union? 
