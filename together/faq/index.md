@@ -122,7 +122,7 @@ support of UGSDW this past semester.
 
 We always appreciate the love and solidarity from alumni. 
 
-For now, we ask all alumni to submit an [online comment](https://grinnell.co1.qualtrics.com/jfe/form/SV_9FBZ1in5An2B30N) to Grinnell's Board of Trustees supporting partial expansion and student workers' union rights in general. For updates, you can follow us on social media (Facebook, Twitter, Instagram: @ugsdw), [join](https://forms.gle/VyLccBQz1xwEE4uD7) our UGSDW support net work mailing list. You can also [donate](/donate) to us. UGSDW does not have mandatory dues, and your donations will support our strike fund, picket signs, and this website. 
+For now, we ask all alumni to submit an [online comment](https://grinnell.co1.qualtrics.com/jfe/form/SV_9FBZ1in5An2B30N) to Grinnell's Board of Trustees supporting partial expansion and student workers' union rights in general. For updates, you can follow us on social media (Facebook, Twitter, Instagram: @ugsdw), [join](https://forms.gle/VyLccBQz1xwEE4uD7) our UGSDW support net work mailing list. You can also [donate](https://www.ugsdw.org/donate/) to us. UGSDW does not have mandatory dues, and your donations will support our strike fund, picket signs, and this website. 
 
 
 ### Further questions?
