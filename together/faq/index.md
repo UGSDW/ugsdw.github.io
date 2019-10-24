@@ -34,8 +34,6 @@ negotiated base pay raises from $8.50 to $9.76 per hour, a bonus system that
 rewards experience, guaranteed rest breaks, food safety training, and a 
 grievance procedure.
 
-[Read more about our goals for a new contract](/together/#our-platform).
-
 ![Langston Thomas, speaking at the announcement event for UGSDW's expansion campaign.](/assets/news/langston_speaking.jpg)
 
 
