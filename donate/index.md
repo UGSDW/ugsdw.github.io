@@ -2,16 +2,14 @@
 title: Donate
 published: true
 members: 0
+banner-text: WE
 ---
 
 # Donate to UGSDW
 
 <a href="https://www.ugsdw.org/">Learn more about UGSDW</a><br>
 
-UGSDW operates on voluntary dues of only $2 a month. We don't believe in
-forcing student workers to pay for the privelege of participating in workplace
-democracy. But running a union takes a lot of resources, especially when you're 
-going up against one of the richest colleges in the country.
+UGSDW operates on voluntary dues of only $2 a month. But running a union takes a lot of resources, especially when you're going up against one of the richest colleges in the country.
 
 Any contribution helps, and makes a real difference for us and our workers.
 
