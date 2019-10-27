@@ -197,8 +197,7 @@ the administration refuses. To this day, UGSDW remains willing to an open
 dialogue and a compromise with the College, and our fight for all working
 students carries on.
 
-
-[Learn more about our expansion, and our Nov. 27 election.](/together/)
+[# learn more about the expansion campaign, including the potential "partial expansion" compromise](/together/)
 
 
 # Endnotes
