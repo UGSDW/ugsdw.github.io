@@ -13,6 +13,10 @@ published: true
 
 # Coverage
 
+[Letter to the Editor: A message on selective union expansion from 200+ alums](http://www.thesandb.com/article/letter-to-the-editor-a-message-on-selective-union-expansion-from-200-alums.html) (*Scarlet & Black*)
+
+[UGSDW and College agree to new contract](http://www.thesandb.com/article/ugsdw-and-college-agree-to-new-contract.html) (*Scarlet & Black*)
+
 [UGSDW Negotiates New Contract with College, CLS Brainstorms Making On-Campus Jobs More Fulfilling](http://www.thesandb.com/news/ugsdw-negotiates-new-contract-with-college-cls-brainstorms-making-on-campus-jobs-more-fulfilling.html) (*Scarlet & Black*)
 
 ["Moving On": Kington Outlines Next Steps for College and UGSDW](http://www.thesandb.com/news/moving-on-kington-outlines-next-steps-for-college-and-ugsdw.html) (*Scarlet & Black*)
