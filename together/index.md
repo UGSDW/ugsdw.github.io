@@ -49,8 +49,8 @@ combine our voices in the name of student power.&rdquo;
 
 # Timeline
 
-- **September 27, 2019** The Board of Trustees [again refused to vote on partial expansion.](https://www.ugsdw.org/2019/09/28/statement-on-board-of-trustees-delay-of-vote-on-partial-expansion/) 
-- **May 7, 2019** The Board of Trustees [refused to vote on a partial expansion agreement proposed by the adminitsration, and suspended all talk with UGSDW.](https://www.ugsdw.org/2019/05/08/moving-backward-statement-on-may-7-student-campus-memo/)
+- **September 27, 2019:** The Board of Trustees [again refused to vote on partial expansion.](https://www.ugsdw.org/2019/09/28/statement-on-board-of-trustees-delay-of-vote-on-partial-expansion/) 
+- **May 7, 2019:** The Board of Trustees [refused to vote on a partial expansion agreement proposed by the adminitsration, and suspended all talk with UGSDW.](https://www.ugsdw.org/2019/05/08/moving-backward-statement-on-may-7-student-campus-memo/)
 - **February 21, 2019:** President Kington [indicated its willingness to discuss "possible selective expansion" with UGSDW.](https://www.ugsdw.org/2019/02/21/statement-on-feb-21-special-campus-memo/) 
 - **February 8, 2019:** Student workers [staged a peaceful sit-in](https://www.ugsdw.org/2019/02/08/trustees-walk-out-as-ugsdw-asks-for-dialogue/) at a meeting of the Board of Trustees to demand a dialogue about expansion. 
 - **December 14, 2018:** UGSDW asked the NLRB to [withdraw its petition](/2018/12/14/ugsdw-withdraws-petition-seeks-to-preserve-rights-of-student-workers-grinnell-opposes/), moving the battle from the bureaucracy back to campus.
