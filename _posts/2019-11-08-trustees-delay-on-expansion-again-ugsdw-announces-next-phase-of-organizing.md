@@ -32,8 +32,3 @@ Time and time again, we see that workers rights advance not through court and bu
 
 _Get more involved in organizing student workers. Sign up to a volunteer [here](https://forms.gle/B2ZV234Tk9ZrcnM38)._
 _If you are an alumni or community support. Join our support network [here](https://forms.gle/6H3bFGMAA46ndCHg9)._
-
-
-
-
-
