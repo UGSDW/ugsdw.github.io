@@ -1,13 +1,14 @@
 ---
-release: true
+release: false
 published: true
 title: Trustees Delay on Expansion Again; UGSDW Announces Next Phase of Organizing.
 author: UGSDW
-excerpt: "The Board of Trustees refused to release a timeline on partial expansion. We will \tfight for fair wages and working conditions for all student workers of Grinnell College with every tool in our arsenal, to the fullest extent of our power. "
+excerpt: >-
+  The Board of Trustees refused to release a timeline on partial expansion. We
+  will fight for fair wages and working conditions for all student workers of
+  Grinnell College with every tool in our arsenal, to the fullest extent of our
+  power.
 ---
-
-#### Press Release
-
 On November 7, 2019, Dr. David Maxwell ’66, Chair of Grinnell College Board of Trustees, claimed in a letter to UGSDW that the Board does not have a deadline for a decision on partial expansion. This claim directly contradicts the Campus Update sent to the campus community on September 27, 2019, in which Chair Maxwell stated that the Board would “determine the process and timeline for a final decision.” 
 
 This regrettable development is consistent with the pattern of delay and denial that characterizes the Board’s approach to partial expansion, a compromise proposed by no other than the current administration of Grinnell College. During the past year, the Board has twice resolved not to make a decision on partial expansion, and now refuses to even release a timeline for its decision. 
