@@ -30,5 +30,7 @@ UGSDW remains committed to productive dialogue with the College administration a
   
 Time and time again, we see that workers rights advance not through court and bureaucracy, not through permission from employers, but through the collective power of working people. We demand that the Board of Trustees immediately release its timeline for a decision on partial expansion,  and swiftly approve partial expansion. Whether or not the Board approves partial expansion, whether or not the Board makes a decision at all, we will fight for fair wages and working conditions for all student workers of Grinnell College with every tool in our arsenal, to the fullest extent of our power. 
 
-_Get more involved in organizing student workers. Sign up to a volunteer [here](https://forms.gle/B2ZV234Tk9ZrcnM38)._
+
+_Get more involved in organizing student workers. Sign up to be a volunteer [here](https://forms.gle/B2ZV234Tk9ZrcnM38)._
+
 _If you are an alumni or community supporter, join our support network [here](https://forms.gle/6H3bFGMAA46ndCHg9)._
