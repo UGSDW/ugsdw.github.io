@@ -6,7 +6,7 @@ title: Trustees Delay on Expansion Again; UGSDW Announces Next Phase of Organizi
 
 #### Press Release
 
-On November 7, 2018, Dr. David Maxwell ’66, Chair of Grinnell College Board of Trustees, claimed in a letter to UGSDW that the Board does not have a deadline for a decision on partial expansion. This claim directly contradicts the Campus Update sent to the campus community on September 27, 2019, in which Chair Maxwell stated that the Board would “determine the process and timeline for a final decision.” 
+On November 7, 2019, Dr. David Maxwell ’66, Chair of Grinnell College Board of Trustees, claimed in a letter to UGSDW that the Board does not have a deadline for a decision on partial expansion. This claim directly contradicts the Campus Update sent to the campus community on September 27, 2019, in which Chair Maxwell stated that the Board would “determine the process and timeline for a final decision.” 
 
 This regrettable development is consistent with the pattern of delay and denial that characterizes the Board’s approach to partial expansion, a compromise proposed by no other than the current administration of Grinnell College. During the past year, the Board has twice resolved not to make a decision on partial expansion, and now refuses to even release a timeline for its decision. 
 
