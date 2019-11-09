@@ -1,6 +1,6 @@
 ---
 release: true
-published: false
+published: true
 title: Trustees Delay on Expansion Again; UGSDW Announces Next Phase of Organizing.
 author: UGSDW
 excerpt: "The Board of Trustees refused to release a timeline on partial expansion. We will \tfight for fair wages and working conditions for all student workers of Grinnell College with every tool in our arsenal, to the fullest extent of our power. "
