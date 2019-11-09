@@ -1,7 +1,9 @@
 ---
-release: false
+release: true
 published: false
 title: Trustees Delay on Expansion Again; UGSDW Announces Next Phase of Organizing.
+author: UGSDW
+excerpt: "The Board of Trustees refused to release a timeline on partial expansion. We will \tfight for fair wages and working conditions for all student workers of Grinnell College with every tool in our arsenal, to the fullest extent of our power. "
 ---
 
 #### Press Release
@@ -25,3 +27,8 @@ UGSDW remains committed to productive dialogue with the College administration a
 <div style="color: #777; font-size: 0.9em; text-align: right">
 
 Time and time again, we see that workers rights advance not through court and bureaucracy, not through permission from employers, but through the collective power of working people. We demand that the Board of Trustees immediately release its timeline for a decision on partial expansion,  and swiftly approve partial expansion. Whether or not the Board approves partial expansion, whether or not the Board makes a decision at all, we will fight for fair wages and working conditions for all student workers of Grinnell College with every tool in our arsenal, to the fullest extent of our power. 
+
+_If you would like to get more involved in organizing student workers, sign up to a volunteer here_
+  
+  
+  
