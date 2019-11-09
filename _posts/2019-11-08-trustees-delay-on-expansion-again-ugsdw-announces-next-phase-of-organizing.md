@@ -15,7 +15,7 @@ This regrettable development is consistent with the pattern of delay and denial 
 
 UGSDW remains committed to productive dialogue with the College administration as well as the Board, and recognizes the Board’s deliberation and information gathering process. However, we will not sit idly by as the Board continues to drag its feet. Today, we proudly announce our next phase of organizing with three closely interconnected themes. 
 
-![Student workers protesting in Dec. 2018]({{site.baseurl}}/assets/news/20181214.UnionDirectAction.012.jpg)
+![The Fight Goes On.jpg]({{site.baseurl}}/assets/news/The Fight Goes On.jpg)
 
 **Form an energetic base:** Our union is only as strong as our members. This fight requires the collective effort from everyone. We will focus on forming meaningful relationships among student workers from diverse backgrounds and across campus workplaces. We will win if all student workers are well-informed; if all student workers are putting up posters; if all student workers are knocking on doors; if all student workers are organizing each other; if all student workers are taking direct action; and if all student workers are on the picket line. 
 
