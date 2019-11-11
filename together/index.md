@@ -52,7 +52,7 @@ combine our voices in the name of student power.&rdquo;
 - **November 7, 2019:** The Board of Trustees [claimed that it did not have a deadline](https://www.ugsdw.org/2019/11/08/trustees-delay-on-expansion-again-ugsdw-announces-next-phase-of-organizing/) for a decision on partial expansion. 
 - **September 27, 2019:** The Board of Trustees [again refused to vote on partial expansion.](https://www.ugsdw.org/2019/09/28/statement-on-board-of-trustees-delay-of-vote-on-partial-expansion/) 
 - **May 7, 2019:** The Board of Trustees [refused to vote on a partial expansion agreement proposed by the adminitsration, and suspended all talk with UGSDW.](https://www.ugsdw.org/2019/05/08/moving-backward-statement-on-may-7-student-campus-memo/)
-- **February 21, 2019:** President Kington [indicated its willingness to discuss "possible selective expansion" with UGSDW.](https://www.ugsdw.org/2019/02/21/statement-on-feb-21-special-campus-memo/) 
+- **February 21, 2019:** President Kington [indicated Grinnell's willingness toward "possible selective expansion" with UGSDW.](https://www.ugsdw.org/2019/02/21/statement-on-feb-21-special-campus-memo/) 
 - **February 8, 2019:** Student workers [staged a peaceful sit-in](https://www.ugsdw.org/2019/02/08/trustees-walk-out-as-ugsdw-asks-for-dialogue/) at a meeting of the Board of Trustees to demand a dialogue about expansion. 
 
 - **December 14, 2018:** UGSDW asked the NLRB to [withdraw its petition](/2018/12/14/ugsdw-withdraws-petition-seeks-to-preserve-rights-of-student-workers-grinnell-opposes/), moving the battle from the bureaucracy back to campus.
@@ -61,8 +61,8 @@ combine our voices in the name of student power.&rdquo;
 - **November 19, 2018:** Grinnell [filed a motion to stop the election going forward](/2018/11/19/statement-on-nov-19-special-campus-memo/), with the help of three new lawyers from [Proskauer Rose](http://www.proskauer.com), one of the top union-busting firms in the country.  
 - **November 5, 2018:** The Regional Director of NLRB [ruled in UGSDW's favor and directed an election](/2018/11/05/student-workers-prevail-as-nlrb-directs-union-election/).
 - **October 18, 2018:** The Regional Director of NLRB concluded a two-day hearing with UGSDW and the college about the union's election petition.  [Read](http://www.thesandb.com/article/college-and-union-convene-historic-hearing-on-expanded-unionization-efforts.html) [more](http://www.thesandb.com/article/historic-unionization-hearing-concludes-with-nlrb-ruling-pending.html).
-- **October 8, 2018:** After a year of campus-wide organizing, UGSDW [filed for an election](/2018/10/08/ugsdw-files-for-election-paving-the-way-for-campus-wide-union/) with the National Labor Relations Board (NLRB), setting up a campus-wide election.
 
+- **October 8, 2018:** After a year of campus-wide organizing, UGSDW [filed for an election](/2018/10/08/ugsdw-files-for-election-paving-the-way-for-campus-wide-union/) with the National Labor Relations Board (NLRB), setting up a campus-wide election.
 - **November 16, 2017:** Grinnell College [announced its intent to oppose union expansion](https://www.ugsdw.org/2017/11/16/grinnell-s-anti-worker-agenda/), claiming student workers are not "employees."
 - **September 20, 2017:** UGSDW [announced the effort to unionize all student workers](https://www.ugsdw.org/2017/09/20/the-most-unionized-campus-in-america/) of Grinnell College, demonstrating the potential for an independent student labor movement.
 
