@@ -13,6 +13,8 @@ published: true
 
 # Coverage
 
+[Biden endorses UGSDW, possibly helping expansion efforts](http://www.thesandb.com/article/32025.html) (*Scarlet & Black*)
+
 [Letter to the Editor: A message on selective union expansion from 200+ alums](http://www.thesandb.com/article/letter-to-the-editor-a-message-on-selective-union-expansion-from-200-alums.html) (*Scarlet & Black*)
 
 [UGSDW and College agree to new contract](http://www.thesandb.com/article/ugsdw-and-college-agree-to-new-contract.html) (*Scarlet & Black*)
