@@ -13,6 +13,8 @@ published: true
 
 # Coverage
 
+[The Student Worker Movement is Growing](https://jacobinmag.com/2019/11/student-workers-organizing-national-labor-relations-board) (*Jacobin*)
+
 [Biden endorses UGSDW, possibly helping expansion efforts](http://www.thesandb.com/article/32025.html) (*Scarlet & Black*)
 
 [Letter to the Editor: A message on selective union expansion from 200+ alums](http://www.thesandb.com/article/letter-to-the-editor-a-message-on-selective-union-expansion-from-200-alums.html) (*Scarlet & Black*)
