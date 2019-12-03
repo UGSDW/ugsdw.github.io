@@ -5,7 +5,6 @@ title: >-
   Trustees: No Decision on Expansion in 2019; Student Workers Rally Against
   Delays
 author: UGSDW
-excerpt: ''
 ---
 #### Press Release
 
