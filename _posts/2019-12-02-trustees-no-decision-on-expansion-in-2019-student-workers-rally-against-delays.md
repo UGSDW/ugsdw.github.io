@@ -6,6 +6,7 @@ title: >-
   Delays
 author: UGSDW
 'Outside Nollen House, student workers and community supporters packed the lawn, sharing stories, and singing labor songs. In so doing, we sent a message loud and clear': we have had enough waiting.
+excerpt: "Outside Nollen House, student workers and community supporters packed the lawn, \t\t sharing stories, and singing labor songs. In so doing, we sent a message loud and  clear- we have had enough waiting."
 ---
 #### Press Release
 
