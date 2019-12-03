@@ -5,6 +5,7 @@ title: >-
   Trustees: No Decision on Expansion in 2019; Student Workers Rally Against
   Delays
 author: UGSDW
+'Outside Nollen House, student workers and community supporters packed the lawn, sharing stories, and singing labor songs. In so doing, we sent a message loud and clear': we have had enough waiting.
 ---
 #### Press Release
 
