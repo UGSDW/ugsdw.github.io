@@ -1,7 +1,11 @@
 ---
-release: false
+release: true
 published: false
 title: UGSDW Members Elect 2020 Executive Board
+author: UGSDW
+excerpt: >-
+  Members voted in Decemeber to elect 2020 Executive Board. The newly elected
+  officers will assume office on January 1, 2020.
 ---
 #### Press Release
 
@@ -21,24 +25,22 @@ Jacob Schneyer '21
 
 **Secretary-Treasurer**
 
-Isaiah
+Isaiah Gutman '23
 
 <br>
 
 **Executive Board Member At Large**
 
-Annie Kratz ‘22 (99 votes in favor, 18 votes against)
-
-Luca Nelson ‘20 (106 in favor, 11 against)
-
-Paige Oamek ‘20 (100 in favor, 15 against)
-
-Andy Pavey ‘22 (111 in favor, 9 against)
-
-Ryland Rich ‘22 (103 in favor, 12 against)
-
-Nate Williams ‘20 (106 in favor, 11 against)
+Evangeline Bolles-Rioux '22 
+Sofia Carr '22 
+Gabe Ferguson '23 
+Keir Hichens '22 
+Nadia Langley '23 
+Zoe Mahler '22 
+Oona Miller '21 
+Ryland Rich '22 
+Jack Watkins '21 
 
 <br>
 
-Before all newly elected officers assume office on July 1, 2019, the current Executive Board will host a series of briefings with all newly elected officers to ensure a smooth transition of leadership.
+Before all newly elected officers assume office on January 1, 2020, the current Executive Board will host a series of briefings with all newly elected officers to ensure a smooth transition of leadership.
