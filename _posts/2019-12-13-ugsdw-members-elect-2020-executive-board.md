@@ -1,6 +1,6 @@
 ---
 release: true
-published: false
+published: true
 title: UGSDW Members Elect 2020 Executive Board
 author: UGSDW
 excerpt: >-
@@ -32,13 +32,21 @@ Isaiah Gutman '23
 **Executive Board Member At Large**
 
 Evangeline Bolles-Rioux '22 
+
 Sofia Carr '22 
+
 Gabe Ferguson '23 
+
 Keir Hichens '22 
+
 Nadia Langley '23 
+
 Zoe Mahler '22 
+
 Oona Miller '21 
+
 Ryland Rich '22 
+
 Jack Watkins '21 
 
 <br>
