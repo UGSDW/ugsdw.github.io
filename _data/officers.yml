@@ -1,35 +1,38 @@
 president:
-    name:  Sam Xu
+    name:  Jacob Schneyer
     email:  president@ugsdw.org
-    box:  4610
+    box:  4431
 sec-treas:
-    name:  Oona Miller
+    name:  Isaiah Gutman
     email:  sectreas@ugsdw.org
-    box:  4218
+    box:  3594
 at-large:
    -
-        name: Annie Kratz
-        email: kratzann@grinnell.edu
+        name: Evangeline Bolles-Rioux
+        email: bollesri@grinnell.edu 
    -
-        name: Luca Nelson
-        email: nelsonlu@grinnell.edu
+	    name: Sofi Carr
+        email: carrsofi@grinnell.edu
    -
-        name: Paige Oamek
-        email: oamekpai@grinnell.edu
+        name: Gabe Ferguson 
+        email: ferguson3@grinnell.edu
    -
-        name: Ryland Rich 
+	    name: Keir Hichens
+        email: hichensk@grinnell.edu
+   -
+        name: Nadia Langley 
+        email: langleyn@grinnell.edu
+   -
+	    name: Zoe Mahler
+        email: mahlerzo@grinnell.edu
+   -
+	    name: Oona Miller
+        email: milleroo@grinnell.edu
+   -
+        name: Ryland Rich
         email: richryla@grinnell.edu
    -
-        name: Nate Williams
-        email: williams2@grinnell.edi
-advisors:
-    -
-        name:  Alec Doss
-        email:  dossalec@grinnell.edu
-    -
-        name:  Cory McCartan
-        email:  mccartan@grinnell.edu
-press-secretary:
-    name:   Evangeline Bolles-Rioux
-    email:  press@ugsdw.org
-    box:
+	    name: Jack Watkins
+        email: watkinsj@grinnell.edu
+
+
