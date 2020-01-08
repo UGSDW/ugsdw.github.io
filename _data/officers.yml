@@ -2,37 +2,35 @@ president:
     name:  Jacob Schneyer
     email:  president@ugsdw.org
     box:  4431
-
 sec-treas:
     name:  Isaiah Gutman
     email:  sectreas@ugsdw.org
     box:  3594
-
 at-large:
    -
         name: Evangeline Bolles-Rioux
         email: bollesri@grinnell.edu 
    -
-	    name: Sofi Carr
+        name: Sofi Carr
         email: carrsofi@grinnell.edu
    -
         name: Gabe Ferguson 
         email: ferguson3@grinnell.edu
    -
-	    name: Keir Hichens
+        name: Keir Hichens
         email: hichensk@grinnell.edu
    -
         name: Nadia Langley 
         email: langleyn@grinnell.edu
    -
-	    name: Zoe Mahler
+        name: Zoe Mahler
         email: mahlerzo@grinnell.edu
    -
-	    name: Oona Miller
+        name: Oona Miller
         email: milleroo@grinnell.edu
    -
         name: Ryland Rich
         email: richryla@grinnell.edu
    -
-	    name: Jack Watkins
+        name: Jack Watkins
         email: watkinsj@grinnell.edu
