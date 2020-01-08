@@ -2,10 +2,12 @@ president:
     name:  Jacob Schneyer
     email:  president@ugsdw.org
     box:  4431
+
 sec-treas:
     name:  Isaiah Gutman
     email:  sectreas@ugsdw.org
     box:  3594
+
 at-large:
    -
         name: Evangeline Bolles-Rioux
