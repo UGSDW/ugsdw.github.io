@@ -7,14 +7,14 @@ published: true
 
 UGSDW has suggested dues of $2.00 per month, due on the following dates:
 
- - September 1
- - October 1
- - November 1
- - December 1
- - February 1
- - March 1
- - April 1
- - May 1
+ - September 15
+ - October 15
+ - November 15
+ - December 15
+ - February 15
+ - March 15
+ - April 15
+ - May 15
 
 The easiest way to pay dues is to fill out a dues check-off form.  Grinnell will automatically deduct dues from your paycheck.
 
