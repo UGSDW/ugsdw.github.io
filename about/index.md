@@ -30,7 +30,7 @@ Since then, we've expanded to include all Dining Services workers.  We've fought
 for, and won:
 - An initial 9% wage increase to $9.25 an hour
 - Further increases to $10.00 an hour
-- Bonuses up to 1.25$ an hour for experienced student workers
+- Bonuses up to $1.25 an hour for experienced student workers
 - Just cause employment and a grievance procedure
 - Paid rest breaks
 - Equal pay for local high school students
