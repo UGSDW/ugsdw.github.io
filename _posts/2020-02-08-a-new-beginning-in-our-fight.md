@@ -3,6 +3,11 @@ release: true
 published: true
 title: A New Beginning in Our Fight
 author: UGSDW
+excerpt: >-
+  We appreciate the Board of Trustees’ enthusiasm for improving worker
+  conditions, but we continue to believe deeply that positive change must be
+  driven by student workers themselves, and that only workers have the right to
+  decide if they should have a union.
 ---
 #### Press Release
 
