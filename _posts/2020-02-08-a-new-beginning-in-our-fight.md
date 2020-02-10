@@ -1,7 +1,8 @@
 ---
-release: false
-published: false
+release: true
+published: true
 title: A New Beginning in Our Fight
+author: UGSDW
 ---
 #### Press Release
 
