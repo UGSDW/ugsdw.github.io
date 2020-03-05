@@ -2,6 +2,7 @@
 release: false
 published: false
 title: 'Solidarity with the Wet’suwet’en First Nation and the Unist’ot’en house group '
+author: UGSDW
 ---
 ### *Student workers stand in solidarity with Indeginous people in their struggle.*
 
