@@ -1,6 +1,6 @@
 ---
 release: false
-published: false
+published: true
 title: 'Solidarity with the Wet’suwet’en First Nation and the Unist’ot’en house group '
 author: UGSDW
 ---
