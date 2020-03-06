@@ -13,4 +13,5 @@ Grinnell College operates on land stolen from Meskwaki, Sauk, and Ioway Nations,
 We encourage student workers to educate themselves and others on the historical and ongoing processes of settler-colonization against Indigenous peoples both where we live and across the world, and to support efforts that seek to disrupt settler-colonial systems. 
 
 Learn more about the fight of the Wet’suwet’en First Nation [here](http://unistoten.camp/). 
+
 Donate to the legal fund of the Unist’ot’en house group [here](https://actionnetwork.org/fundraising/unistoten2020legalfund/).
