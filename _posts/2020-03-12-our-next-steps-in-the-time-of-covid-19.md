@@ -1,6 +1,6 @@
 ---
 release: false
-published: false
+published: true
 title: Our Next Steps in the Time of COVID-19
 ---
 Dear UGSDW members:
