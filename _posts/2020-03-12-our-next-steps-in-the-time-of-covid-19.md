@@ -45,4 +45,5 @@ Above all, remember that even though we have to isolate from each other physical
 
 
 In love and solidarity,
+
 UGSDW Executive Board
