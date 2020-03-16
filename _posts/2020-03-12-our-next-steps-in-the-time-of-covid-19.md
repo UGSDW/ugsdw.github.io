@@ -28,7 +28,7 @@ Members run our union. We need to figure out how we can continue to make decisio
 
 **UGSDW will service all grievances.** If you feel that Grinnell College has violated the current union contract, you can still file grievances to defend your rights. We are confident that we can handle all grievances remotely, and hope to ensure in-person access to UGSDW representatives on campus. Please contact our grievance team (cgo@ugsdw.org), if you have any questions or concerns, or wish to file a grievance under the current union contract. 
 
-**Collective bargaining for Academic Year 2020-21:** The current union contract expires on June 31st, 2020. Right now we don’t know how we’ll bargain the next contract while many of us are off-campus, but we will discuss this issue at the March 16th special meeting. 
+**Collective bargaining for Academic Year 2020-21:** The current union contract expires on June 31st, 2020. Right now we don’t know how we’ll bargain the next contract while many of us are off-campus, but we will discuss this issue at the soon-to-be-held online union meeting 
 
 ![NorthCampusFeatureImage.png]({{site.baseurl}}/assets/news/NorthCampusFeatureImage.png)
 
