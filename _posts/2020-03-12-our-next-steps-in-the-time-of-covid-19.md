@@ -10,6 +10,8 @@ excerpt: >-
   our fight for economic and social justice for all members of the Grinnell
   community.
 ---
+*updated March 15th, 2020*
+
 Dear UGSDW members:
 
 It’s been a really crazy few days.  Basically all of us are going through a major emotional and social change, and some of us are dealing with much more difficult and scary stuff.  This is a time when our solidarity and community become so much more important. Know that UGSDW as an organization is here for all of you.  In this tumultuous time, we are striving to use every tool in our arsenal to maintain our fight for economic and social justice for all members of the Grinnell community. Here are our next steps in the immediate future:
