@@ -10,7 +10,7 @@ excerpt: >-
   our fight for economic and social justice for all members of the Grinnell
   community.
 ---
-*updated March 15th, 2020*
+*Updated March 15th, 2020*
 
 Dear UGSDW members:
 
