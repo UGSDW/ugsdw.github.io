@@ -15,9 +15,9 @@ Dear UGSDW members:
 It’s been a really crazy few days.  Basically all of us are going through a major emotional and social change, and some of us are dealing with much more difficult and scary stuff.  This is a time when our solidarity and community become so much more important. Know that UGSDW as an organization is here for all of you.  In this tumultuous time, we are striving to use every tool in our arsenal to maintain our fight for economic and social justice for all members of the Grinnell community. Here are our next steps in the immediate future:
 
 
-**Special Union Meeting**
+**Online Union Meeting**
 
-Members run our union. We need to figure out how we can continue to make decisions in a democratic way while most of us are off campus. To talk about this and to open up a community space of love and solidarity, we’ll hold a special meeting at 2:30PM on Monday, March 16th in HSSC N1112.  If you’re on campus, please try to be there.
+Members run our union. We need to figure out how we can continue to make decisions in a democratic way while most of us are off campus. To talk about this and to open up a community space of love and solidarity, we’ll hold an online union meeting soon. 
 
 
 **Student Employees of Dining Services**
@@ -27,6 +27,8 @@ Members run our union. We need to figure out how we can continue to make decisio
 **UGSDW will service all grievances.** If you feel that Grinnell College has violated the current union contract, you can still file grievances to defend your rights. We are confident that we can handle all grievances remotely, and hope to ensure in-person access to UGSDW representatives on campus. Please contact our grievance team (cgo@ugsdw.org), if you have any questions or concerns, or wish to file a grievance under the current union contract. 
 
 **Collective bargaining for Academic Year 2020-21:** The current union contract expires on June 31st, 2020. Right now we don’t know how we’ll bargain the next contract while many of us are off-campus, but we will discuss this issue at the March 16th special meeting. 
+
+![NorthCampusFeatureImage.png]({{site.baseurl}}/assets/news/NorthCampusFeatureImage.png)
 
 
 **Support for All Student Workers and Community Members**
