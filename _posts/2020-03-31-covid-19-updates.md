@@ -1,6 +1,6 @@
 ---
 release: false
-published: false
+published: true
 title: COVID-19 Updates
 ---
 Dear UGSDW Members:
