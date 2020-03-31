@@ -2,6 +2,11 @@
 release: false
 published: true
 title: COVID-19 Updates
+author: UGSDW
+excerpt: >-
+  We are pushing the administration to clarify new student worker policies. We
+  encourage   all student workers to fill out our COVID-19 survey, and join us
+  at the online union  meeting on April 12th.
 ---
 Dear UGSDW Members:
 
@@ -23,4 +28,4 @@ Even more than usual, please reach out if you need help, have questions, or have
 In solidarity,
 
 Jacob Schneyer 
-President, UGSDW 
+President, UGSDW
