@@ -14,7 +14,7 @@ I hope you're all safe and well. I want to update you all on how the union is ad
 
 **Student Work Policies**
 
-We are still in contact with administrators to get clarity on the policies related to student employment, and we hope to publish some helpful information soon.For now, let us know if you have any questions and we'll try to help. You can reach union representatives at union@ugsdw.org 
+We are still in contact with administrators to get clarity on the policies related to student employment, and we hope to publish some helpful information soon. For now, let us know if you have any questions and we'll try to help. You can reach union representatives at union@ugsdw.org. 
 
 ![1014063_01_N87_HERO.jpg.jpg]({{site.baseurl}}/assets/news/1014063_01_N87_HERO.jpg.jpg)
 
@@ -26,7 +26,7 @@ As the work environment is changing, we want to make sure we know what your work
 
 Finally, we'll be having a digital general meeting on **Sunday, April 12 at 4pm EST.** More details on the platform and the agenda will come later but please plan to be there! 
 
-Even more than usual, please reach out if you need help, have questions, or have an idea to help other workers.  Our solidarity and community is so important right now.
+Even more than usual, please reach out if you need help, have questions, or have an idea to help other workers. Our solidarity and community is so important right now.
 
 In solidarity,
 
