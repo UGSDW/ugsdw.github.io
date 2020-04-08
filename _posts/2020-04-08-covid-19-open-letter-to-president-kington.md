@@ -1,5 +1,5 @@
 ---
-release: true
+release: false
 published: true
 title: COVID-19 Open Letter to President Kington
 author: UGSDW
