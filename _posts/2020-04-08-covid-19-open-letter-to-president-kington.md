@@ -4,6 +4,4 @@ published: false
 title: COVID-19 Open Letter to President Kington
 author: UGSDW
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+On Wednesday, April 8th, the UGSDW Executive Board sent an open letter to President Rayndard Kington detailing concerns about Grinnell Colleges response to the coronavirus crisis. 
