@@ -6,6 +6,8 @@ author: UGSDW
 ---
 **On Wednesday, April 8th, the UGSDW Executive Board sent an open letter to President Rayndard Kington detailing concerns about Grinnell Colleges response to the coronavirus crisis. Read the letter below:**
 
+
+
 Dear President Kington,
 
 The global spread of COVID-19 has drastically changed the Grinnell College landscape. While we
