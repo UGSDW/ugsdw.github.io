@@ -1,6 +1,6 @@
 ---
 release: true
-published: false
+published: true
 title: COVID-19 Open Letter to President Kington
 author: UGSDW
 ---
@@ -47,4 +47,5 @@ heard and their urgent concerns not addressed. True solutions that work for all 
 the decision-making process includes the workers most affected.
 
 Respectfully,
+
 UGSDW Executive Board
