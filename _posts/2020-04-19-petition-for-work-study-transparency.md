@@ -1,7 +1,8 @@
 ---
-release: false
+release: true
 published: false
 title: Petition for Work Study Transparency
+author: UGSDW
 ---
 As Grinnell College student workers, across departments, we demand transparency into the work study grant determination process. We are asking for the specific formulas applied to determine the grants on a case-by-case basis. We also demand an appeal process so students who were given insufficient grants have a chance to help fix that mistake. You can sign the petition [here!](https://www.coworker.org/petitions/grinnell-college-work-study-transparency)
 
