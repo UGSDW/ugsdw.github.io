@@ -1,6 +1,6 @@
 ---
 release: false
-published: false
+published: true
 title: Work Study Transparency Petition Delivered!
 ---
 On Monday, May 4th, UGSDW delivered our petition for Work Study Transparency to Grinnell College President Raynard Kington. 
@@ -12,4 +12,4 @@ Student workers, including those outside of dining services, are concerned about
 Clarity on this policy is essential because student employment frequently provides for essential needs like rent and food, not just tuition. That's why we're amplifying the voices of student workers and asking that the college publish the formulas or policies used to determine grant amounts and set up an appeal process for students whose grants fail to meet their needs.
 
 
-This demand for basic transparency and accountability has already been signed by 141 student workers, alumni, and community members. Grinnell College claims to be supporting students in this difficult time; we're asking the college to follow through on their pledge.
+This demand for basic transparency and accountability has already been signed by 143 student workers, alumni, and community members. Grinnell College claims to be supporting students in this difficult time; we're asking the college to follow through on their pledge.
