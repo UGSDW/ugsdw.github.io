@@ -1,7 +1,8 @@
 ---
-release: false
+release: true
 published: true
 title: Work Study Transparency Petition Delivered!
+author: UGSDW
 ---
 On Monday, May 4th, UGSDW delivered our petition for Work Study Transparency to Grinnell College President Raynard Kington. 
 
