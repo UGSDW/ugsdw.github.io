@@ -1,6 +1,6 @@
 ---
 release: true
-published: false
+published: true
 title: Black Lives Matter
 author: UGSDW
 ---
