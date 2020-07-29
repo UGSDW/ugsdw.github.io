@@ -6,7 +6,7 @@ author: UGSDW
 ---
 On Tuesday, July 28th, the UGSDW Executive Board sent a letter to Grinnell College President Anne Harris. The letter responded to Harris' rhetorical question "How do we start to think about work as a part of what it means to be a student?" from an [interview with the S&B](http://www.thesandb.com/article/the-sb-interviews-acting-president-anne-harris-on-leadership-in-time-of-two-pandemics.html) and affirmed UGSDW's qualifications to answer this question as we work for social and economic justice for all Grinnell students. Read the letter below:
 
-
+![anneharris.jpg]({{site.baseurl}}/assets/news/anneharris.jpg)
 
 
 Dear Dr. Harris,
@@ -26,6 +26,6 @@ On behalf of the Union of Grinnell Student Dining Workers, we congratulate you o
 **We hope your commitment to listening translates to listening to the answer of student workers, and especially to turning your listening into concrete action.** We hope your commitment to upholding self-governance translates to continuing to bargain in good faith with us on the working conditions of student dining workers and to recognizing the right of all workers to organize in unions and collectively advocate for ourselves. However, UGSDW maintains that employers have neither the right nor the authority to infringe on such organizing rights of its workers. We want to emphasize our commitment to advocating for student workers regardless of College permission. With that in mind, we look forward to continuing to make our answer loud and clear to you. Congratulations again.
 
 
-	Sincerely,
+Sincerely,
 
-	UGSDW Executive Board
+**UGSDW Executive Board**
