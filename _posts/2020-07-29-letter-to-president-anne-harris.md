@@ -1,6 +1,6 @@
 ---
 release: true
-published: false
+published: true
 title: Letter to President Anne Harris
 author: UGSDW
 ---
@@ -29,6 +29,3 @@ On behalf of the Union of Grinnell Student Dining Workers, we congratulate you o
 	Sincerely,
 
 	UGSDW Executive Board
-
-
-
