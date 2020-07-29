@@ -6,7 +6,7 @@ author: UGSDW
 ---
 On Tuesday, July 28th, the UGSDW Executive Board sent a letter to Grinnell College President Anne Harris. The letter responded to Harris' rhetorical question "How do we start to think about work as a part of what it means to be a student?" from an [interview with the S&B](http://www.thesandb.com/article/the-sb-interviews-acting-president-anne-harris-on-leadership-in-time-of-two-pandemics.html) and affirmed UGSDW's qualifications to answer this question as we work for social and economic justice for all Grinnell students. Read the letter below:
 
-![anneharris.jpg]({{site.baseurl}}/assets/news/anneharris.jpg)
+
 
 
 Dear Dr. Harris,
