@@ -67,6 +67,8 @@ UGSDW is led by the Executive Board, which is elected yearly by the membership. 
 
 ### LM-4 Reports
 
+[2020 LM-4](/assets/reports/lm_4_2020.pdf)
+
 [2019 LM-4](/assets/reports/lm_4_2019.pdf)
 
 [2018 LM-4](/assets/reports/lm_4_2018.pdf)
