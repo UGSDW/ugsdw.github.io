@@ -1,7 +1,8 @@
 ---
-release: false
+release: true
 published: false
 title: Haverford Solidarity Statement
+author: UGSDW
 ---
 Dear Haverford Student Strike Organizers and Participants:
 
