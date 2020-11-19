@@ -1,6 +1,6 @@
 ---
 release: true
-published: false
+published: true
 title: Haverford Solidarity Statement
 author: UGSDW
 ---
