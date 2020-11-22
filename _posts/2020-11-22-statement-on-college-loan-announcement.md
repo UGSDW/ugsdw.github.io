@@ -14,3 +14,5 @@ This week, Grinnell College announced that they will be replacing loans with sch
 
 While the college’s decision this week was an important step for the future, student’s immediate needs this year are still not being met, and there are many other important issues on campus that the administration must address, like demands for racial justice.  In the future, the administration must show they value student voices by not just helping students, but actively engaging with student voices and demands.  No matter what, UGSDW will continue to organize and fight to build student worker power on campus, and win more victories like this for students.
 
+![]({{site.baseurl}}/assets/news/12_2%20Rally.jpg)
+
