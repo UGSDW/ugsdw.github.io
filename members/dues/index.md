@@ -16,7 +16,7 @@ UGSDW has suggested dues of $2.00 per month, due on the following dates:
  - April 15
  - May 15
 
-The easiest way to pay dues is to use Venmo, and to dues for the entire semester ($8.00) or year ($16.00) at a time. You can also pay dues with Paypal.
+The easiest way to pay dues is to use Venmo, and to pay your dues for the entire semester ($8.00) or year ($16.00) at a time. You can also pay dues with Paypal.
 
 <br>
 <a href="https://venmo.com/ugsdw" class="button" target="_blank">Pay with Venmo</a>
