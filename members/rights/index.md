@@ -1,5 +1,6 @@
 ---
 title: Your Rights
+published: true
 ---
 
 # Know Your Rights
@@ -13,6 +14,12 @@ As a union member, you are guaranteed specific rights under our contract and fed
  - Talk about the union at work
  - Wear union buttons or t-shirts
  - Be fairly represented by the union
+ 
+## Grievances
+- If you work in Dining and you believe your rights have been violated at work, especially if you were fired or disciplined unfairly, we can file a grievance 
+- The grievance process allows us to formally raise issues with admin under our contract
+- If you plan to file a grievance, contact the union ASAP at [cgo@ugsdw.org](mailto:cgo@ugsdw.org)! There’s a tight timeline that we have to follow.
+
 
 ## What can’t your employer do?
 
