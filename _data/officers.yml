@@ -1,39 +1,39 @@
 president:
-    name:  Jacob Schneyer
+    name:  Ryland Rich (Jan-June 2021)
     email:  president@ugsdw.org
-    box:  4431
+    box:  4399
 sec-treas:
-    name:  Isaiah Gutman
+    name:  Zoe Mahler
     email:  sectreas@ugsdw.org
-    box:  3594
+    box:  4031
 at-large:
    -
-        name: Evangeline Bolles-Rioux
-        email: bollesri@grinnell.edu 
+        name: Sofia Carr (President July-Dec 2021)
+        email: carrsofi@grinnell.edu 
    -
-        name: Sofi Carr
-        email: carrsofi@grinnell.edu
-   -
-        name: Gabe Ferguson 
+        name: Gabe Ferguson
         email: ferguson3@grinnell.edu
    -
-        name: Keir Hichens
+        name: Malcolm Galpern Levin 
+        email: galpernl@grinnell.edu
+   -
+        name: Isaiah Gutman
+        email: gutmanis@grinnell.edu
+   -
+        name: Keir Hichens 
         email: hichensk@grinnell.edu
    -
-        name: Nadia Langley 
-        email: langleyn@grinnell.edu
+        name: Bethany Willig
+        email: willigbe@grinnell.edu
    -
-        name: Zoe Mahler
-        email: mahlerzo@grinnell.edu
+        name: Emily Wunsch
+        email: wunschem@grinnell.edu
    -
-        name: Oona Miller
-        email: milleroo@grinnell.edu
+        name: 
+        email: 
    -
-        name: Ryland Rich
-        email: richryla@grinnell.edu
-   -
-        name: Jack Watkins
-        email: watkinsj@grinnell.edu
+        name: 
+        email: 
 press-secretary:
-    name: Evangeline Bolles-Rioux
+    name: Collective Position
     email: press@ugsdw.org
