@@ -45,4 +45,4 @@ Keir Hichens '22
  
 Malcolm Galpern Levin '24
  
-Sofia Carr '22 (Jan-July)
+Sofia Carr '22 (Jan-June)
