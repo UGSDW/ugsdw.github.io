@@ -1,6 +1,6 @@
 ---
 release: false
-published: false
+published: true
 title: 2020 End of Year Update
 author: UGSDW
 ---
@@ -46,5 +46,3 @@ Keir Hichens '22
 Malcolm Galpern Levin '24
  
 Sofia Carr '22 (Jan-July)
-
-
