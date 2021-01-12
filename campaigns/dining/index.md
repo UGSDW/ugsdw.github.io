@@ -8,5 +8,5 @@ Dining workers are currently fighting for a fair contract.  While we were able t
 
 For more information on the current contract and recent wins, check out the [contract page](https://www.ugsdw.org/members/contract/).
 
-##Get Involved
+## Get Involved
 Organizers are meeting weekly to fight for fair wages in Dining - if you want to get involved in that, just send us an email at [union@ugsdw.org](mailto:union@ugsdw.org). And make sure to follow our Facebook and Instagram for updates.
