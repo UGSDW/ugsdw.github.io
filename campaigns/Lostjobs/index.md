@@ -16,4 +16,4 @@ Students understand the jobs they work. Student workers provide essential insigh
 
 ## Get Involved!
 The lost jobs team meets every week to plan actions and events, if you are interested in joining the team email [union@ugsdw.org](mailto:union@ugsdw.org) and we will get back to you as soon as possible.
-If you would like to be kept up to date on our actions and events, follow UGSDW on instagram or facebook, and become a member [here](www.ugsdw.org/join) and check your email for updates!
+If you would like to be kept up to date on our actions and events, follow UGSDW on instagram or facebook, and become a member [here](/join) and check your email for updates!
