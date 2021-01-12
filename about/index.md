@@ -19,21 +19,18 @@ The first independent  undergraduate labor union in the country, UGSDW is a demo
 
 # Our History
 
-The Union of Grinnell Student Dining Workers was started in the spring of 2016
-to represent student workers in the dining hall.  After the union filed a
-petition with the National Labor Relations Board in April, an election was held
-to determine whether workers wanted the union to represent them. Employees
-overwhelmingly chose to be represented by the union, voting in favor by a 91%
-margin.
+The Union of Grinnell Student Dining Workers was started in the spring of 2016, elected with a 91% margin by employees to represent the student dining workers. Since then, we’ve expanded to include all Dining Services workers, made a larger effort to [expand](/together) to all student workers at Grinnell College, and negotiated multiple [contracts](/members/contract)). We’ve fought for, and won:
 
-Since then, we've expanded to include all Dining Services workers.  We've fought
-for, and won:
-- An initial 9% wage increase to $9.25 an hour
-- Further increases to $10.00 an hour
-- Bonuses up to $1.25 an hour for experienced student workers
+- Wage increases to $10.00 an hour and bonuses up to $1.25 an hour
 - Just cause employment and a grievance procedure
 - Paid rest breaks
 - Equal pay for local high school students
+- Pay for missed shifts due to college enforced quarantines during the COVID-19 pandemic
+
+# Get Involved
+Grinnell College relies on student workers to run it. In fact, the college wouldn’t exist without students.  The more students that actively voice their concerns, the more pressure the college will experience to actually meet our demands.  UGSDW is constantly challenging the college to better represent student interests.  Get more involved in the decision making processes by becoming a member, joining a Union campaign or leadership position, and keeping up to date on our actions and events by following UGSDW on instagram or facebook. 
+Become a member [here](/join), then check your email for updates!
+
 
 # Leadership
 
