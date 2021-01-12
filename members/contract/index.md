@@ -16,7 +16,7 @@ download a PDF copy.
 <br> <br>
 
 # Updates
-This contract expired in July 2020.  It hasn’t been replaced with a new contract because the union and the college have been at [impasse](https://www.ugsdw.org/2020/10/15/dining-unit-members-reject-college-s-final-offer/) since October 2020.  The main disagreement still is over wages - the college insists on offering no raise at all. Check out the ongoing campaign for a fair contract here. Although the contract is expired, many of its provisions still apply, as do the new provisions agreed on during negotiations.  Those new provisions are in the Student Handbook, which all workers receive a copy of, and are explained here in our [Handbook Explainer](/assets/explainer.pdf).
+This contract expired in July 2020.  It hasn’t been replaced with a new contract because the union and the college have been at [impasse](/2020/10/15/dining-unit-members-reject-college-s-final-offer/) since October 2020.  The main disagreement still is over wages - the college insists on offering no raise at all - you can learn about that fight [here](/campaigns/dining). Although the contract is expired, many of its provisions still apply, as do the new provisions agreed on during negotiations.  Those new provisions are in the Student Handbook, which all workers receive a copy of, and are explained here in our [Handbook Explainer](/assets/explainer.pdf).
 
 
 
