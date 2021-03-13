@@ -4,7 +4,7 @@ published: true
 title: Mailroom Workers Organize
 author: UGSDW
 ---
-## Student Workers in Mailroom Demand Improved Covid Protections and Working Conditions
+### Student Workers in Mailroom Demand Improved Covid Protections and Working Conditions
 
 At 6:00 PM on Friday, March 12, student workers in the mailroom sent a list of demands to supervisors and administration regarding inadequate COVID protections. After weeks of neglect from supervisors, these workers organized with UGSDW to demand immediate action.
 
