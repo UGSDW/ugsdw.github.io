@@ -1,6 +1,6 @@
 ---
 release: true
-published: false
+published: true
 title: Mailroom Workers Organize
 author: UGSDW
 ---
