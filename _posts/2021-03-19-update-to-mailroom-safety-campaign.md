@@ -3,6 +3,9 @@ release: true
 published: true
 title: Update on Mailroom Safety Campaign
 author: UGSDW
+excerpt: >-
+  Safety changes were only implemented by the college after mail services
+  student workers organized together to demand changes in their workplace.
 ---
 #### Press Release
 
