@@ -4,9 +4,9 @@ published: true
 title: UGSDW Considers Multi-Union Affiliation
 author: UGSDW
 excerpt: >-
-  On Event Celebrating International Workers Day, UGSDW Officially Began the
-  Process of Joining Student Workers Across the Country in Affiliation with a
-  National Union
+  At Event Celebrating International Workers Day, UGSDW Officially Began
+  Consideration of Joining Student Workers Across the Country in Affiliation
+  with a National Union
 ---
 #### Press Release
 
@@ -24,4 +24,4 @@ At the May Day celebration and general meeting this Saturday, UGSDW membership a
 
 Over 30 members present at the general meeting have already voted; additionally voting will be conducted online and remain open through May 21st. In order to move forward, we will require at least 75% approval from a minimum of 150 members. This vote, while not not a hard commitment to affiliation, will enable us to gauge member interest and begin determining whether affiliation will benefit student workers at Grinnell. If you are interested in learning more about affiliation and what it would mean for UGSDW, we encourage you to consult this [cheat sheet](https://docs.google.com/document/d/17l6tPoqfI2u47454Hg8hFcF2_hT3hGrRrwf6UANScZo/edit?usp=sharing) and reach out to ugsdw.org@gmail.com with any questions you may have. 
 
-Regardless of any future decisions regarding affiliation, UGSDW remains fully committed to democratically representing and advocating on behalf of all student workers at Grinnell. 
+Regardless of any future decisions regarding affiliation, UGSDW remains fully committed to democratically representing and advocating on behalf of all student workers at Grinnell.
