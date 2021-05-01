@@ -1,21 +1,27 @@
 ---
-release: false
-published: false
+release: true
+published: true
 title: UGSDW Considers Multi-Union Affiliation
+author: UGSDW
+excerpt: >-
+  On Event Celebrating International Workers Day, UGSDW Officially Began the
+  Process of Joining Student Workers Across the Country in Affiliation with a
+  National Union
 ---
 #### Press Release
 
 ***
 
-### Collective Action Gets Results; Workers Will Continue to Fight for Remaining Demands
+On Saturday, May 1st, 2021, the Union of Grinnell Student Dining Workers started the process of officially considering a multi-union affiliation agreement between a national labor union and student worker unions at Grinnell College, Vanderbilt University, the University of Chicago, the University of Maryland, and Washington University in St. Louis.
 
+![UGSDW President Ryland Rich Speaks at May Day Event]({{site.baseurl}}/assets/news/20210501_143813.jpg)
 
-Following organizing efforts by mail services workers in response to months of neglect with regard to COVID-19 safety, Grinnell College promised to revise COVID-19 protocols in the mailroom. Safety changes were only implemented by the college after mail services student workers organized together to demand changes in their workplace. 
+Since 2016, UGSDW has made waves specifically because we won recognition, a strong contract in the dining hall, and protections for student workers while remaining independent from any national union. At the same time, we know that workers are stronger together, and building a structure of solidarity across campuses is extremely important work. The pandemic and stagnation in our fight for expansion have also prompted us to consider all of the resources at our disposal. Affiliation is one option that could lend us the resources and infrastructure needed to fight effective battles for higher wages and better workplace protections while cementing our place in a coherent and progressive national labor movement.
 
-Prior to the mail service workers’ email campaign, supervisors refused to wear real masks, social distance, and otherwise abide by bare-minimum safety practices. The changes implemented following the emails include enforcement of physical distance between coworkers, creation of separate spaces for eating during shifts, and requirements that all people entering the mailroom, including supervisors and outside delivery workers, wear appropriate and effective PPE. The provisions have come only after much effort from student workers in the mailroom, even though they were promised safe working conditions upon agreeing to be employees of the college this academic year. These policies, many of which should already have been in place, represent a necessary but insufficient response. 
+With input from student workers, members of the Executive Board worked with student organizers at the aforementioned institutions to put together a draft affiliation agreement, which you can read [here](https://docs.google.com/document/d/1a8qs5c75wSbX832W4e1adEijA_D7YZODO1BHlK-QsBw/edit?usp=sharing). This coalition takes a unique and groundbreaking form — instead of approaching a national union on our own, we have the opportunity to join forces with like-minded undergraduate and graduate worker unions across the country. Our combined strength in numbers puts us in a strong position to bargain for local autonomy and access to resources.
 
-The College did not concede to a demand for equal pay among all mailroom workers, starting at $10 an hour. Workers have called attention to wage disparities between positions that entail similar responsibilities within the workplace. Currently, cashiers, who are arbitrarily chosen by supervisors, earn $9.00 an hour, while other student employees earn only $8.50 an hour, less than most other campus jobs.
+At the May Day celebration and general meeting this Saturday, UGSDW membership approved opening a vote to determine whether UGSDW will sign on with our fellow student worker unions to bring this proposal to a national union.
 
-Further, the College did not concede to a demand for increased priority with regard to student COVID-19 vaccinations. As essential workers, mailroom employees are at an increased risk of exposure. As a rich and powerful institution, the College has the resources to advocate for its employees’ safety at every level. 
+Over 30 members present at the general meeting have already voted; additionally voting will be conducted online and remain open through May 21st. In order to move forward, we will require at least 75% approval from a minimum of 150 members. This vote, while not not a hard commitment to affiliation, will enable us to gauge member interest and begin determining whether affiliation will benefit student workers at Grinnell. If you are interested in learning more about affiliation and what it would mean for UGSDW, we encourage you to consult this [cheat sheet](https://docs.google.com/document/d/17l6tPoqfI2u47454Hg8hFcF2_hT3hGrRrwf6UANScZo/edit?usp=sharing) and reach out to ugsdw.org@gmail.com with any questions you may have. 
 
-Mailroom workers will continue to work towards an increased hourly wage and urge the college to advocate for vaccine priority. The workers also remain committed to taking action to monitor and enforce the safety conditions of their workplace in order to ensure the safety of themselves, and the larger Grinnell College community.
+Regardless of any future decisions regarding affiliation, UGSDW remains fully committed to democratically representing and advocating on behalf of all student workers at Grinnell. 
