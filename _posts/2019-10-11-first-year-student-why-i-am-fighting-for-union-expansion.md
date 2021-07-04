@@ -8,7 +8,7 @@ excerpt: >-
   campus, one of the primary reasons I came here was the Union of Grinnell
   Student Dining Workers.
 ---
-### I came here for UGSDW. Now I am fighting to expand it 
+### I came here for UGSDW. Now I am fighting to expand it. 
 
 Although Grinnell has many draws, like its strong academics and the intimate campus, one of the primary reasons I came here was the Union of Grinnell Student Dining Workers (UGSDW). In my senior year of high school, I helped organize student efforts to support my school’s teachers’ union. Teachers who have gone on strike across the country for a better public education have shown me that unions can help workers as well as the entire community. At Grinnell, I knew I would have a great opportunity to stand up for myself and others, to fight for student workers and our community in UGSDW. 
 
