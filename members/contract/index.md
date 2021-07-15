@@ -92,7 +92,8 @@ commencement of the semester, if such student has applied for “Experienced Stu
 has worked a minimum of 90 hours in a single semester. Experienced Students will receive an additional
 $1.00/ hour. Employees who are currently earning experience pay at higher rates than the additional $1.00
 an hour will continue earning the higher rate until they are no longer employed with Dining Services.
-4.4 Special Designated Shifts. Those employees who work a Special Designated Shift shall be paid an
+
+**4.4 Special Designated Shifts.** Those employees who work a Special Designated Shift shall be paid an
 additional $0.75 per hour. Special Designated Shifts shall be clearly designated in the schedule.
 
 ## ARTICLE V: Health, Safety, and Breaks
