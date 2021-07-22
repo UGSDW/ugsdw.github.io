@@ -1,6 +1,6 @@
 ---
 release: true
-published: true
+published: false
 title: UGSDW Approves New Dining Contract
 excerpt: >-
   The new dining contract includes a significant base wage increase, an improved
