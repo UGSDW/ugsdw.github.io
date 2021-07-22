@@ -15,8 +15,6 @@ On Thursday, July 8th, 2021, UGSDW membership voted unanimously to approve a new
 
 The new contract includes several significant wins for our membership. In year 1 of the contract, the initial base wage will increase from $10 to $10.40 per hour. In year 2, this base wage will increase to $10.75. Student leaders will now receive $1 per hour extra rather than $.75.
 
-![grinnell works because we do.webp]({{site.baseurl}}/assets/news/grinnell works because we do.webp)
-
 
 Dining workers should also take note of changes to experience pay. If students have worked more than 90 hours in a singular semester, they are eligible for an additional “experienced student” bonus worth $1 per hour. However, to receive this raise, you will need to apply before the beginning of a semester. UGSDW leadership will remind students to apply for this bonus before each semester begins. 
 
