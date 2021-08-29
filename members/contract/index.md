@@ -8,9 +8,9 @@ You can view the last year's collective bargaining agreement below, or
 download a PDF copy.
 
 <br>
-<a class="button" href="https://drive.google.com/file/d/1L3XUaduwzYlC0KICy4GAt001YnAAbsoP/view?usp=sharing" 
+<a class="button" href="https://drive.google.com/file/d/1RKx_rNubPfGRsk0Xr6IClqb9vGfBaICU/view?usp=sharing" 
     target="_blank">
-    2019–2020 Contract
+    2021–2023 Contract
 </a>
 <br> <br>
 
