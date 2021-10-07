@@ -17,6 +17,8 @@ Kim Hegg and Payton Ronfeldt have consistently misgendered transgender workers i
 
 Several workers have also reported instances of prejudice towards students’ countries of origin and race. Workers also expressed that Hegg and Ronfeldt have long made passive-aggressive comments to student workers. Without adequate protections against unfair firing, workers have felt unsafe bringing complaints directly to the supervisors.
 
+![Rally Outside JRC]({{site.baseurl}}/assets/news/Image%20from%20iOS.jpg)
+
 The following are a selection of testimonials from student workers:
 
 - One worker said that Kim Hegg made a comment towards a Black student worker, using the phrase “people like you” to refer to their race. 
