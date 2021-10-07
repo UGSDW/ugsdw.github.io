@@ -17,14 +17,15 @@ Kim Hegg and Payton Ronfeldt have consistently misgendered transgender workers i
 
 Several workers have also reported instances of prejudice towards students’ countries of origin and race. Workers also expressed that Hegg and Ronfeldt have long made passive-aggressive comments to student workers. Without adequate protections against unfair firing, workers have felt unsafe bringing complaints directly to the supervisors.
 
-![Rally Outside JRC]({{site.baseurl}}/assets/news/Image%20from%20iOS.jpg)
-
 The following are a selection of testimonials from student workers:
 
-	-One worker said that Kim Hegg made a comment towards a Black student worker, using the phrase “people like you” to refer to their race. 
-	-Another worker noted that Hegg and Ronfeldt made open sexual comments about a student, using the word “package” as a sexual innuendo. 
-	-Other workers have noted that Kim Hegg has also expressed annoyance in regards to Asian students and the fact that many of them opt to go by more than one name, making comments about this on several occasions. 
-	-One worker quoted Kim Hegg as saying that “I know it’s so hard for you to get out of bed to work in the morning.” 
+- One worker said that Kim Hegg made a comment towards a Black student worker, using the phrase “people like you” to refer to their race. 
+
+- Another worker noted that Hegg and Ronfeldt made open sexual comments about a student, using the word “package” as a sexual innuendo. 
+
+- Other workers have noted that Kim Hegg has also expressed annoyance in regards to Asian students and the fact that many of them opt to go by more than one name, making comments about this on several occasions. 
+
+- One worker quoted Kim Hegg as saying that “I know it’s so hard for you to get out of bed to work in the morning.” 
 
 Earlier this year, mailroom workers delivered a set of demands in response to inadequate COVID-19 protections. Feeling unsafe in their work environment, their demands included proper use of PPE in the mail room, fair wages to mitigate supervisor bias, and paid COVID-19 leave, among others. These demands were meant to address negligence from Kim Hegg and Payton Ronfeldt surrounding COVID protocol. Hegg and Ronfeldt had said at the time that workers were “young and healthy” and therefore would not be in danger if they contracted the virus. They repeated on multiple occasions a line about COVID-19 being “no worse than the flu.” In response to these demands, the College agreed to five of the eight demands, implementing safety procedures that had not been previously followed despite complaints from student workers. Ronfeldt has continued not to wear a mask in spaces with student workers.
 
