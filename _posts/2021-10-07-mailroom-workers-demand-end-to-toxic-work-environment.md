@@ -3,6 +3,7 @@ release: true
 published: true
 title: Mailroom Workers Demand End to Toxic Work Environment
 author: UGSDW
+excerpt: "\tOn Thursday,October 7, at 11:15 a.m., mailroom workers organizing with UGSDW delivered a set \tof demands to supervisors Kim Hegg and Payton Ronfeldt. They are demanding the supervisors cease making racist comments and misgendering workers, which has created a hostile work environment with few protections for workers. They are also demanding a wage increase to $10 an hour, a point system to prevent unjustified firing, and more changes that would protect mailroom workers and improve conditions at the workplace"
 ---
 #### Press Release
 
