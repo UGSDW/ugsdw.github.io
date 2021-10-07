@@ -1,9 +1,8 @@
 ---
 release: true
-published: false
+published: true
 title: Mailroom Workers Demand End to Toxic Work Environment
 author: UGSDW
-excerpt: ''
 ---
 #### Press Release
 
@@ -16,6 +15,8 @@ These demands come after weeks of organizing by mailroom workers. Workers have e
 Kim Hegg and Payton Ronfeldt have consistently misgendered transgender workers in the mailroom, refusing to even attempt to respect their identities, leaving transgender workers and ally coworkers feeling unsafe to correct them. They have misgendered workers immediately after being informed of the worker’s pronouns. They have also repeatedly called workers by the wrong name, including on the schedule, and delayed updating names of transgender students. 
 
 Several workers have also reported instances of prejudice towards students’ countries of origin and race. Workers also expressed that Hegg and Ronfeldt have long made passive-aggressive comments to student workers. Without adequate protections against unfair firing, workers have felt unsafe bringing complaints directly to the supervisors.
+
+![Rally Outside JRC]({{site.baseurl}}/assets/news/Image%20from%20iOS.jpg)
 
 The following are a selection of testimonials from student workers:
 
@@ -37,5 +38,4 @@ The mailroom supervisors only took adequate precautions against COVID-19 after c
 6. Workers will have paid sick leave that covers their wages if they get sick and either must stay in isolation, or are unable to attend work. This includes contraction of COVID-19, as well as other illnesses such as strep throat or the common cold. 
 7. Mailroom workers should have autonomy over when they work during a given week. Shift times should not be chosen by mailroom supervisors. A formal scheduling process should be implemented to allow mailroom student workers to schedule their own shifts without facing pressure or retribution from supervisors.  
 8. Mailroom supervisors should cease to make comments to student mailroom workers that criticize the work ethic and behavior of other workers. 
-9. When not in a room behind a closed door, supervisors must be required to wear masks at all times. 
-
+9. When not in a room behind a closed door, supervisors must be required to wear masks at all times.
