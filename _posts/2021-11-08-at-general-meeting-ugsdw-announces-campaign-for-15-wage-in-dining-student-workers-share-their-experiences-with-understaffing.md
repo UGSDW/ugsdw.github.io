@@ -2,9 +2,11 @@
 release: true
 published: false
 title: >-
-  AT GENERAL MEETING, UGSDW ANNOUNCES CAMPAIGN FOR $15 WAGE IN DINING; STUDENT
-  WORKERS SHARE THEIR EXPERIENCES WITH UNDERSTAFFING
+  t General Meeting, UGSDW Announces Campaign for $15 in Dining; Student Workers
+  Share Their Experiences With Understaffing
 author: UGSDW
+excerpt: ''
+"The Union of Grinnell Student Dining Workers (UGSDW) held its first general meeting of the \tfall 2021 semester on Saturday, November 6. At the meeting, attended by more than 40 student workers, the Union announced its next campaign": demanding a starting wage of $15 an hour for all workers in Dining Services.
 ---
 #### Press Release
 
@@ -14,6 +16,8 @@ The Union of Grinnell Student Dining Workers (UGSDW) held its first general meet
 
 
 Throughout the meeting, workers shared stories about their experiences with understaffing in Dining Services. One worker pointed out they had been assigned to work the vegan and gluten-free stations with no experience or training, putting those with severe allergies and dietary restrictions at risk. Another explained how their closing shift lasted 40 minutes longer than expected, cutting into time they were planning to use for homework. A student leader-in-training remarked “We [student leaders] are paid more to cover multiple jobs, but student workers doing the same thing are making $10.40 no matter how many jobs they do.” Multiple student workers attested that they considered quitting their jobs due both to the low pay and the working conditions, and that without a wage increase they would likely leave to work another job. 
+
+![15.jpg]({{site.baseurl}}/assets/news/15.jpg)
 
 
 Union President Sofia Carr explained that the demand for a $15 wage was not a full solution to the issues facing dining workers, but that it is a start that would both properly compensate workers and potentially attract more workers to Dining Services. Carr and other members of the Union’s Executive Board stressed that the fight for $15 would not be an easy one, and that student workers should be prepared to engage in a long campaign. 
