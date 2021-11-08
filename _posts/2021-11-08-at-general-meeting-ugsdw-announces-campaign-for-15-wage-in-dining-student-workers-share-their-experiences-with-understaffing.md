@@ -6,6 +6,12 @@ title: >-
   Experiences with Understaffing
 author: UGSDW
 'The Union of Grinnell Student Dining Workers (UGSDW) held its first general meeting of the fall 2021 semester on Saturday, November 6. At the meeting, attended by more than 40 student workers, the Union announced its next campaign': demanding a starting wage of $15 an hour for all workers in Dining Services.
+excerpt: >-
+  The Union of Grinnell Student Dining Workers (UGSDW) held its first general
+  meeting of the fall 2021 semester on Saturday, November 6. At the meeting,
+  attended by more than 40 student workers, the Union announced its next
+  campaign: demanding a starting wage of $15 an hour for all workers in Dining
+  Services.
 ---
 #### Press Release
 
