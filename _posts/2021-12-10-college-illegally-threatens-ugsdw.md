@@ -4,6 +4,7 @@ published: true
 title: Grinnell College Illegally Threatens UGSDW
 author: UGSDW
 excerfpt: null
+excerpt: null
 ---
 #### Press Release
 
