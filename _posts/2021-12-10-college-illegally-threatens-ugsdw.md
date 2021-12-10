@@ -1,6 +1,6 @@
 ---
 release: true
-published: false
+published: true
 title: Grinnell College Illegally Threatens UGSDW
 author: UGSDW
 excerfpt: null
@@ -10,11 +10,11 @@ excerfpt: null
 ***
 Preceding a meeting with the College, the Union of Grinnell Student Dining Workers received an email from Vice President of HR Jana Grimes at 8:36 a.m. on the morning of Thursday, Nov. 18. The email included a document partially titled “In Preparation for our meeting today,” which contains the following sentence:
 
-> "Certain actions such as pressuring or intimidating a supervisor or other staff members to achieve demands, if they continue, would also be in violation of College policies and could result in a College conduct process, as well as claims by employees that they have been exposed to a hostile work environment."
+"Certain actions such as pressuring or intimidating a supervisor or other staff members to achieve demands, if they continue, would also be in violation of College policies and could result in a College conduct process, as well as claims by employees that they have been exposed to a hostile work environment."
 
-During the meeting between the College and UGSDW, Grimes clarified that the specific incident of “pressuring or intimidating a supervisor” consisted of 15 student workers participating in Jeanette Moser's "Meet w/Dining Director'' event as it was advertised. The event description invited dining workers to share their concerns about their work, which student workers did, while emphasizing that the Union's demand for a $15 wage was the only sufficient response to these concerns. When Moser indicated that she did not have the power to change this wage, student workers respectfully asked her to pass on our demands and concerns, which Moser agreed to do. At no point did student workers do or say anything beyond the nature of the event as outlined by Dining Services on the College's calendar.
+During the meeting between the College and UGSDW, Grimes clarified that the specific incident of “pressuring or intimidating a supervisor” consisted of 15 student workers participating in Jeanette Moser's "Meet w/Dining Director'' event as it was advertised. The event description invited dining workers to share their concerns about their work, which student workers did, while emphasizing that the Union's demand for a $15 wage was the only sufficient response to these concerns. When Moser indicated that she did not have the power to change this wage, student workers respectfully asked her to pass on our demands and concerns, which Moser agreed to do. At no point did student workers do or say anything beyond the nature of the event as outlined by Dining Services on the College's calendar. 
 
-![]({{site.baseurl}}/assets/news/IMG_20211109_161206.jpg)![IMG_20211109_161206.jpg]
+![Student Workers at the "Meet the Dining Director" event]({{site.baseurl}}/assets/news/IMG_20211109_161206.jpg)![IMG_20211109_161206.jpg]
 
 
 In the statement above, the College suggests that student workers' collective action constitutes intimidation, harassment, and a violation of College policies. Threatening to start a conduct process when student workers express our concerns about understaffing, inadequate training, wage theft, and the lack of a fair wage is a clear attempt to intimidate student workers and shut down collective action. Collective action is at the heart of the Union's mission, without which it would not exist, without which student workers would be powerless to change harmful working conditions and fight for better pay, better protections, and our basic rights. 
