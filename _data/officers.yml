@@ -1,33 +1,30 @@
 president:
-    name:  Ryland Rich (Jan-June 2021)
+    name:  Keir Hichens (Jan-June 2022)
     email:  president@ugsdw.org
-    box:  4399
+    box:  3718
 sec-treas:
-    name:  Zoe Mahler
+    name:  Lu Johnston
     email:  sectreas@ugsdw.org
-    box:  4031
+    box:  3881
 at-large:
    -
-        name: Sofia Carr (President July-Dec 2021)
-        email: carrsofi@grinnell.edu 
+        name: Isaiah Gutman (President July-Dec 2022)
+        email: gutmanis@grinnell.edu 
    -
-        name: Gabe Ferguson
-        email: ferguson3@grinnell.edu
+        name: Nora Kohnhorst
+        email: kohnhors@grinnell.edu
    -
         name: Malcolm Galpern Levin 
         email: galpernl@grinnell.edu
    -
-        name: Isaiah Gutman
-        email: gutmanis@grinnell.edu
+        name: Sam Hiller
+        email: hillersa@grinnell.edu
    -
-        name: Keir Hichens 
-        email: hichensk@grinnell.edu
+        name: Edo Biluar
+        email: biluared@grinnell.edu
    -
-        name: Bethany Willig
-        email: willigbe@grinnell.edu
-   -
-        name: Emily Wunsch
-        email: wunschem@grinnell.edu
+        name: Eli Eichner
+        email: eichnere@grinnell.edu
 press-secretary:
     name: Collective Position
     email: press@ugsdw.org
