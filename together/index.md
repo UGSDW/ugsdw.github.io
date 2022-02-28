@@ -48,7 +48,6 @@ combine our voices in the name of student power.&rdquo;
 
 
 # Timeline
-- **
 - **February 8, 2020:** The Board of Trustees [unanimously rejected the partial expansion deal](https://www.ugsdw.org/2020/02/08/a-new-beginning-in-our-fight/) after delaying for 9 months.
 
 - **December 2, 2019:** Student workers [rallied in front of Nollen House](https://www.ugsdw.org/2019/12/02/trustees-no-decision-on-expansion-in-2019-student-workers-rally-against-delays/) to demand an end to Trustee delays on partial expansion.
