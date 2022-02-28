@@ -48,9 +48,10 @@ combine our voices in the name of student power.&rdquo;
 
 
 # Timeline
+- **
+- **February 8, 2020:** The Board of Trustees [unanimously rejected the partial expansion deal](https://www.ugsdw.org/2020/02/08/a-new-beginning-in-our-fight/) after delaying for 9 months.
 
-- **November 7, 2019:** The Board of Trustees [claimed that it did not have a deadline](https://www.ugsdw.org/2019/11/08/trustees-delay-on-expansion-again-ugsdw-announces-next-phase-of-organizing/) for a decision on partial expansion. 
-- **September 27, 2019:** The Board of Trustees [again refused to vote on partial expansion.](https://www.ugsdw.org/2019/09/28/statement-on-board-of-trustees-delay-of-vote-on-partial-expansion/) 
+- **December 2, 2019:** Student workers [rallied in front of Nollen House](https://www.ugsdw.org/2019/12/02/trustees-no-decision-on-expansion-in-2019-student-workers-rally-against-delays/) to demand an end to Trustee delays on partial expansion.
 - **May 7, 2019:** The Board of Trustees [refused to vote on a partial expansion agreement proposed by the administration, and suspended all talk with UGSDW.](https://www.ugsdw.org/2019/05/08/moving-backward-statement-on-may-7-student-campus-memo/)
 - **February 21, 2019:** President Kington [indicated Grinnell's willingness toward "possible selective expansion" with UGSDW.](https://www.ugsdw.org/2019/02/21/statement-on-feb-21-special-campus-memo/) 
 - **February 8, 2019:** Student workers [staged a peaceful sit-in](https://www.ugsdw.org/2019/02/08/trustees-walk-out-as-ugsdw-asks-for-dialogue/) at a meeting of the Board of Trustees to demand a dialogue about expansion. 
@@ -66,7 +67,7 @@ combine our voices in the name of student power.&rdquo;
 - **November 16, 2017:** Grinnell College [announced its intent to oppose union expansion](https://www.ugsdw.org/2017/11/16/grinnell-s-anti-worker-agenda/), claiming student workers are not "employees."
 - **September 20, 2017:** UGSDW [announced the effort to unionize all student workers](https://www.ugsdw.org/2017/09/20/the-most-unionized-campus-in-america/) of Grinnell College, demonstrating the potential for an independent student labor movement.
 
-
+{% comment %} 
 # Partial Expansion
 
 <div class="text-banner" style="font-size: 1.5rem; margin: 1em 0">
@@ -86,7 +87,7 @@ But the trustees continued to deny student workers’ rights, delaying a vote on
 
 ![IMG_20190513_155500.jpg]({{site.baseurl}}/assets/news/IMG_20190513_155500.jpg)
 
-{% comment %} 
+
 # Our Platform
 
 If students choose to be represented by UGSDW, we will begin negotiating a
