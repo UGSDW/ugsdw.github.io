@@ -8,11 +8,9 @@ members: 0
 # Experience Pay
 Student workers won experience bonuses in our new contract!
 
-- If you have worked 90 hours or more in one acadmic year, you will be paid an additional $0.50 per hour. 
-- If you have worked 90 hours or more in two acadmic years, you will be paid an additional $1.00 per hour. 
-- If you have worked 90 hours or more in three acadmic years, you will be paid an additional $1.25 per hour. 
+- If you have worked 90 hours or more in a single semester, you will be paid an additional $1.00 per hour. 
 
-You can read the details in [the contract](/members/contract/#article-iv-wages). You can calculate your hourly wage using this [calculator](https://jscalc.io/calc/FmLjrnEAdXqMa6nP). 
+You can read the details in [the contract](/members/contract/#article-iv-wages). <<!--You can calculate your hourly wage using this [calculator](https://jscalc.io/calc/FmLjrnEAdXqMa6nP).-->>
 
 
 To track the number of hours you’ve worked in a semester:
