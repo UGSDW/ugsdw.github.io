@@ -19,16 +19,16 @@ The first independent  undergraduate labor union in the country, UGSDW is a demo
 
 # Our History
 
-The Union of Grinnell Student Dining Workers was started in the spring of 2016, elected with a 91% margin by employees to represent the student dining workers. Since then, we’ve expanded to include all Dining Services workers, made a larger effort to [expand](/together) to all student workers at Grinnell College, and negotiated multiple [contracts](/members/contract)). We’ve fought for, and won:
+The Union of Grinnell Student Dining Workers was started in the spring of 2016, elected with a 91% margin by employees to represent the student dining workers. Since then, we’ve expanded to include all Dining Services workers, made a larger effort to [expand](/together) to all student workers at Grinnell College, and negotiated multiple [contracts](/members/contract). We’ve fought for, and won:
 
-- Wage increases to $10.00 an hour and bonuses up to $1.25 an hour
+- Wage increases to $10.40 an hour and bonuses up to $1.00 an hour
 - Just cause employment and a grievance procedure
 - Paid rest breaks
 - Equal pay for local high school students
 - Pay for missed shifts due to college enforced quarantines during the COVID-19 pandemic
 
 # Get Involved
-Grinnell College relies on student workers to run it. In fact, the college wouldn’t exist without students.  The more students that actively voice their concerns, the more pressure the college will experience to actually meet our demands.  UGSDW is constantly challenging the college to better represent student interests.  Get more involved in the decision making processes by becoming a member, joining a Union campaign or leadership position, and keeping up to date on our actions and events by following UGSDW on instagram or facebook. 
+Grinnell College relies on student workers to run it. In fact, the college wouldn’t exist without student workers.  The more student workers take action to improve their conditions, the more pressure the college will have to meet our demands.  UGSDW is constantly fighting to win better treatment for all workers across campus, from higher wages to a grievance procedure to protections against unjust firings.  Get more involved in the decision making processes by becoming a member, joining a Union campaign or leadership position, and keeping up to date on our actions and events by following UGSDW on instagram or facebook. 
 Become a member [here](/join), then check your email for updates!
 
 
