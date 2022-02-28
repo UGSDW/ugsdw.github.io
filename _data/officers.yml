@@ -28,3 +28,8 @@ at-large:
 press-secretary:
     name: Collective Position
     email: press@ugsdw.org
+advisors:
+   -
+    name: Sofia Carr
+    email: carrsofi@grinnell.edu
+
