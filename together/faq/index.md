@@ -43,8 +43,6 @@ Outside Dining Services, student workers have [organized in the Mailroom for saf
 
 In February 2022, we reached a tentative agreement with the College that will guarantee a free and fair election to expand the union to all hourly student workers. Union membership and the Board of Trustees will vote on this agreement this week. We are fighting to win a union for all student workers, and then we will negotiate a contract based on the demands of student workers. All student workers who are paid hourly will be represented, excepting students whose only positions are outside internships, research fellowships, or Summer MAPs. Community advisors will also be excluded for now. 
 
-<a href="/assets/Sam Xu 10_3_19 Statement to Trustees on Union Partial Expansion.pdf" class="button">Read more: Our Statement before the Trustees on Partial Expansion &raquo;</a>
-
 ### What about student workers outside union expansion?
 
 Collective bargaining is the most effective way for student workers to advance our interesetes. 
