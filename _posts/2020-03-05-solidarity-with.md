@@ -4,7 +4,7 @@ published: true
 title: 'Solidarity with the Wet’suwet’en First Nation and the Unist’ot’en house group '
 author: UGSDW
 ---
-### *Student workers stand in solidarity with Indeginous people in their struggle.*
+### *Student workers stand in solidarity with Indigenous people in their struggle.*
 
 The Union of Grinnell Student Dining Workers stands in solidarity with the Wet’suwet’en First Nation and the Unist’ot’en house group in their struggle against the construction of Coastal GasLink pipeline (CGL) on their sovereign, unceded territory in so-called “British Columbia” without their consent. Since 2007, the Wet’suwet’en First Nation has been resisting the encroachments of all pipeline developments. In their fight, members of the Unist’ot’en house group have repeatedly been subject to violent raids by the Royal Canadian Mounted Police. 
 
