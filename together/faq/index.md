@@ -30,23 +30,25 @@ administration to negotiate a contract about the terms and conditions of our
 work, including pay and disciplinary policies. 
 
 Through collective bargaining, student employees in Dining Services have
-negotiated base pay raises from $8.50 to $9.76 per hour, a bonus system that 
+negotiated base pay raises from $8.50 to $10.40 per hour, a bonus system that 
 rewards experience, guaranteed rest breaks, food safety training, and a 
 grievance procedure.
+
+Outside Dining Services, student workers have [organized in the Mailroom for safety protections and a better working environment.](https://www.ugsdw.org/2021/03/12/mailroom-workers-organize/) Expanding collective bargaining rights to all student workers on campus would help enshrine these victories and win many more protections for all. 
 
 ![Langston Thomas, speaking at the announcement event for UGSDW's expansion campaign.](/assets/news/langston_speaking.jpg)
 
 
 ### How do we get union representation and a contract? Which workers will be represented?
 
-In Spring 2019, the administration offered not to oppose partial expansion to campus jobs covering 200+ student workers, including those in Athletics and Mail Services. The Board of Trustees have since twice delayed approving the proposal. We are fighting to get partial expansion, and then we will negotiate a contract based on the demands of student workers. 
+In February 2022, we reached a tentative agreement with the College that will guarantee a free and fair election to expand the union to all hourly student workers. Union membership and the Board of Trustees will vote on this agreement this week. We are fighting to win a union for all student workers, and then we will negotiate a contract based on the demands of student workers. All student workers who are paid hourly will be represented, excepting students whose only positions are outside internships, research fellowships, or Summer MAPs. Community advisors will also be excluded for now. 
 
 <a href="/assets/Sam Xu 10_3_19 Statement to Trustees on Union Partial Expansion.pdf" class="button">Read more: Our Statement before the Trustees on Partial Expansion &raquo;</a>
 
-### What about student workers outside partial expansion?
+### What about student workers outside union expansion?
 
 Collective bargaining is the most effective way for student workers to advance our interesetes. 
-But we are committed to organize and fight for student workers outside partial expansion without formal union representation. These student workers can still participate in UGSDW. Student worker unions across the country, such as those at Duke University and the University of Chicago, have won significant gains without formal collective bargaining. 
+But we are committed to organize and fight for student workers outside expansion without formal union representation. These student workers can still participate in UGSDW. Student worker unions across the country, such as those at Duke University and the University of Chicago, have won significant gains without formal collective bargaining. 
 
 
 ### Can international students participate in the union? 
@@ -71,7 +73,7 @@ included should it become necessary. Regardless of where you work, you deserve a
 
 ### If the union wins more benefits for student employees, won't Grinnell have to make more cuts elsewhere? 
 
-Not necessarily.  The college has [A LOT](https://www.grinnell.edu/sites/default/files/documents/Grinnell%20College%20-%20Final%20Financial%20Statements%20-%20Short.pdf)of money, and can largely choose to do whatever it wants with it.  They also build flexibility into their budget. Financial aid is central to Grinnell's mission.  The new admissions building? Maybe not as much. We certainly think that paying employees a fair wage should be a higher priority than some of the College's current expenditures.
+Not necessarily.  The college has [A LOT](https://www.grinnell.edu/sites/default/files/docs/2022-02/Financial%20Statement%20%28Final%29.pdf)of money, and can largely choose to do whatever it wants with it.  They also build flexibility into their budget. Financial aid is central to Grinnell's mission.  The new admissions building? Maybe not as much. We certainly think that paying employees a fair wage should be a higher priority than some of the College's current expenditures.
 
 
 ### I like my work. Why would I want a union? 
@@ -112,8 +114,7 @@ SGA can play a meaningful role in enhancing the workplace experience of student
 employees, but the college is under no obligation to accept SGA's
 recommendations or requests. On the other hand, the administration has a legal
 obligation to bargain with us, represented by UGSDW, as equals over things like
-wages and workplace protections. In fact, SGA has passed a resolution in
-support of UGSDW this past semester.
+wages and workplace protections.
 
 
 ### I am an alum. What can I do to help? 
