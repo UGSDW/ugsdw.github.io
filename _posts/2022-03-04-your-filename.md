@@ -1,6 +1,6 @@
 ---
 release: true
-published: false
+published: true
 title: One Big Union
 author: UGSDW
 ---
