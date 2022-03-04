@@ -1,6 +1,6 @@
 ---
 release: true
-published: false
+published: true
 title: >-
   One Big Union: Grinnell College Student Workers File for Campus-Wide Union;
   College Agrees to Respect Election Results
