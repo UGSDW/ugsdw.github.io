@@ -1,6 +1,6 @@
 ---
 release: false
-published: false
+published: true
 title: 'STATEMENT: Iowa''s Anti-Trans Law Must Go!'
 ---
 ### *Student workers stand in solidarity with trans athletes against Iowa's regressive law.*
