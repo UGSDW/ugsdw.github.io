@@ -41,7 +41,7 @@ Outside Dining Services, student workers have [organized in the Mailroom for saf
 
 ### How do we get union representation and a contract? Which workers will be represented?
 
-In March 2022, we reached an agreement with the College that will guarantee a free and fair election to expand the union to all hourly student workers. We are fighting to win a union for all student workers, and then we will negotiate a contract based on the demands of student workers. All student workers who are paid hourly will be represented, excepting students whose only positions are outside internships, research fellowships, or Summer MAPs. Community advisors will also be excluded in the election, but should the College switch CAs to an hourly pay structure, they will voluntarily acrete CAs into the recognized bargaining unit.  
+In March 2022, we reached an agreement with the College that will guarantee a free and fair election to expand the union to all hourly student workers. We are fighting to win a union for all student workers, and then we will negotiate a contract based on the demands of student workers. All student workers who are paid hourly will be represented, excepting students whose only positions are outside internships, research fellowships, or Summer MAPs. Community advisors will also be excluded in the election, but should the College switch CAs to an hourly pay structure, they will voluntarily accrete CAs into the recognized bargaining unit.  
 
 ### What about student workers outside union expansion?
 
