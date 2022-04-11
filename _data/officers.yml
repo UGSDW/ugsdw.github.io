@@ -1,10 +1,10 @@
 president:
     name:  Keir Hichens (Jan-June 2022)
-    email:  president@ugsdw.org
+    email:  hichensk@grinnell.edu
     box:  3718
 sec-treas:
     name:  Lu Johnston
-    email:  sectreas@ugsdw.org
+    email:  ugsdw.org@gmail.com
     box:  3881
 at-large:
    -
@@ -27,11 +27,14 @@ at-large:
         email: eichnere@grinnell.edu
 press-secretary:
     name: Collective Position
-    email: press@ugsdw.org
+    email: ugsdw.org@gmail.com
 advisors:
    -
     name: Sofia Carr
     email: carrsofi@grinnell.edu
+    -
+    name: Prathik Gowda
+    email: gowdapra@grinnell.edu
    -
        name: Ryland Rich
        email: richryla@grinnell.edu
@@ -42,8 +45,3 @@ advisors:
    -
           name: Emily Wunsch
           email: wunschem@grinnell.edu
-   
-
-
-
-
