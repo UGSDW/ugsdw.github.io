@@ -5,7 +5,7 @@ published: true
 
 # Contact Us
 
-E-mail us at <a href="mailto:union@ugsdw.org" target="_blank">union@ugsdw.org</a>.
+E-mail us at <a href="mailto:ugsdw.org@gmail.com" target="_blank">ugsdw.org@gmail.com</a>.
 You can also [contact our officers directly](/about/#leadership).
 
 Our phone number is [(319) 343-7718](tel:+3193437718).
