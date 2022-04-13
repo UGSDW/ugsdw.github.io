@@ -1,6 +1,6 @@
 ---
 title: Dues
-published: false
+published: true
 ---
 
 # Dues
