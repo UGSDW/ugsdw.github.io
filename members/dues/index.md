@@ -5,16 +5,7 @@ published: true
 
 # Dues
 
-UGSDW has suggested dues of $2.00 per month, due on the following dates:
-
- - September 15
- - October 15
- - November 15
- - December 15
- - February 15
- - March 15
- - April 15
- - May 15
+UGSDW has suggested dues of $2.00 per month.
 
 The easiest way to pay dues is to use Venmo, and to pay your dues for the entire semester ($8.00) or year ($16.00) at a time. You can also pay dues with Paypal.
 
