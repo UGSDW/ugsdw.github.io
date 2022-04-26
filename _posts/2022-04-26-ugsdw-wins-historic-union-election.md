@@ -2,6 +2,7 @@
 release: false
 published: true
 title: UGSDW wins Historic Union Election
+author: UGSDW
 ---
 ### *BREAKING NEWS: UGSDW wins historic union election to expand to all hourly student workers at Grinnell College.*
 
