@@ -30,18 +30,18 @@ press-secretary:
     email: ugsdw.org@gmail.com
 advisors:
    -
-    name: Sofia Carr
-    email: carrsofi@grinnell.edu
-    -
-    name: Prathik Gowda
-    email: gowdapra@grinnell.edu
+        name: Sofia Carr
+        email: carrsofi@grinnell.edu
    -
-       name: Ryland Rich
-       email: richryla@grinnell.edu
+        name: Prathik Gowda
+        email: gowdapra@grinnell.edu
    -
-       name: Bethany Willig
-       email: willigbe@grinnell.edu
+        name: Ryland Rich
+        email: richryla@grinnell.edu
+   -
+        name: Bethany Willig
+        email: willigbe@grinnell.edu
 
    -
-          name: Emily Wunsch
-          email: wunschem@grinnell.edu
+        name: Emily Wunsch
+        email: wunschem@grinnell.edu
