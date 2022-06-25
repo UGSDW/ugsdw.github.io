@@ -1,6 +1,6 @@
 ---
 release: false
-published: false
+published: true
 title: >-
   STATEMENT: Protect Abortion Rights for All: Fight Supreme Court's Attack on
   Reproductive Health
