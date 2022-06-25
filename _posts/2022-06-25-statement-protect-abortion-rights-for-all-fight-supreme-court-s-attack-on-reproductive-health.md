@@ -21,6 +21,3 @@ You can Venmo @Nazma-Noray to contribute to the fund.
 Today’s Supreme Court decision represents one of many reactionary attacks on the rights of working people and all Americans. 
 
 We cannot rely on the legal system or politicians to protect our livelihoods or our rights. We must stand up together to protect and fight for ourselves and build a militant social movement that confronts those threatening our lives and guarantees healthcare as an undeniable human right. The time to act is now.
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
