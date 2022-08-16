@@ -9,8 +9,8 @@ Just like other campus workers, CAs are overworked and underpaid, with a pay sch
 
 To the administrations of Kenyon College, Columbia University, and any other institution considering resisting unionization — it's not worth it. Don't underestimate the power that student workers have. We urge you to voluntarily recognize residence life worker unions on your campuses — starting with the Kenyon Student Worker Organizing Committee (K-SWOC) and the Columbia University Resident Advisors (CURA) Collective.
 
-To student workers at other institutions — we stand in solidarity with you. You know what is best for your workplaces, and your institutions cannot function without you.  After more than 5 years of union busting by a multi-billion dollar institution, we have finally won a true campus-wide student worker union. And now, with student workers at Kenyon, Dartmouth, Wesleyan, Hamilton, and more joining the fight, our movement is stronger than ever. We all deserve fair pay and safe working conditions, and we're excited to provide you with any resources you need to fight and win. 
+To student workers at other institutions — we stand in solidarity with you. You know what is best for your workplaces, and your institutions cannot function without you.  After more than 5 years of union busting by a multi-billion dollar institution, we have finally won a true campus-wide student worker union. And now, with student workers at [Kenyon](http://kswoc.org), [Dartmouth](https://www.swcdartmouth.com/), [Wesleyan](https://twitter.com/wes_use?lang=en), [Hamilton](https://twitter.com/HUSAW_), and more joining the fight, our movement is stronger than ever. We all deserve fair pay and safe working conditions, and we're excited to provide you with any resources you need to fight and win. 
 
-You can reach UGSDW's leaders via email (ugsdw.org@gmail.com) or on social media (@ugsdw).
+*You can reach UGSDW's leaders via email ([ugsdw.org@gmail.com](ugsdw.org@gmail.com)) or on social media (@ugsdw).*
 
-UGSDW is an independent union run by student workers. Consider supporting our organizing at ugsdw.org/donate. 
+*UGSDW is an independent union run by student workers. Consider supporting our organizing at [ugsdw.org/donate](www.ugsdw.org/donate).*
