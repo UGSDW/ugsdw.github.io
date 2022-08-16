@@ -2,6 +2,7 @@
 release: false
 published: true
 title: College Voluntarily Recognizes CAs as a part of UGSDW
+author: UGSDW
 ---
 On August 1, 2022, Grinnell College voluntarily recognized UGSDW as the legal bargaining representative of Community Advisors (CAs). In May 2022, after months of organizing, CAs presented the College with union cards from a large majority of their coworkers and CAs were finally recognized as student workers who deserve the right to collectively bargain. 
 
