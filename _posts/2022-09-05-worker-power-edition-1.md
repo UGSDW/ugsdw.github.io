@@ -2,6 +2,7 @@
 release: false
 published: false
 title: 'Worker Power, Edition #1'
+author: UGSDW
 ---
 ## Higher Wages Now!
 
@@ -44,13 +45,19 @@ Charge 2: It is illegal for Grinnell College to make any unilateral workplace ch
 Are there new rules in your workplace this semester? Reach out and let us know!
 
 
+
 ### Join Us!
  
 Weekly meetings, at which anyone is welcome:
-Organizing: Sundays, 6pm, JRC 209
-Bargaining: Tuesdays, 6pm, JRC 209
+
+- Organizing: Sundays, 6pm, JRC 209
+
+- Bargaining: Tuesdays, 6pm, JRC 209
+
 Attend workplace meetings with your coworkers! Don't have one? Become a steward and set it up at [bit.ly/ugsdwsteward](bit.ly/ugsdwsteward)!
 
-Follow us on [Twitter] and [Instagram], @UGSDW.
+Follow @UGSDW on [Twitter](twitter.com/ugsdw) and [Instagram](instagram.com/ugsdw).
+
 Become a member at [ugsdw.org/join](ugsdw.org/join).
-Email us at [ugsdw.org@gmail.com].
+
+Email us at ugsdw.org@gmail.com.
