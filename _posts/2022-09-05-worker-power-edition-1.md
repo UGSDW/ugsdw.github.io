@@ -54,7 +54,7 @@ Weekly meetings, at which anyone is welcome:
 
 - Bargaining: Tuesdays, 6pm, JRC 209
 
-Attend workplace meetings with your coworkers! Don't have one? Become a steward and set it up at [bit.ly/ugsdwsteward](bit.ly/ugsdwsteward)!
+Attend workplace meetings with your coworkers! Don't have one? Become a steward and set it up!
 
 Follow @UGSDW on [Twitter](twitter.com/ugsdw) and [Instagram](instagram.com/ugsdw).
 
