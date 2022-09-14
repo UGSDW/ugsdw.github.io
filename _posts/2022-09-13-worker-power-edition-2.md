@@ -1,6 +1,6 @@
 ---
 release: false
-published: false
+published: true
 title: 'Worker Power, Edition #2'
 ---
 ## Student Workers Make Action Plan At General Meeting
