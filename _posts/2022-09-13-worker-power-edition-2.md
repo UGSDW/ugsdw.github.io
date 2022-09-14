@@ -20,11 +20,11 @@ We know Grinnell will put up a fight against these resolutions. To win these pri
 
 UGSDW members! Check your email for a link to a Google Form to vote absentee on the resolutions we put forth on our bargaining priorities at our General Meeting this past Saturday, 9/10.
 
+![Photograph of Ada Mehl](https://www.ugsdw.org/assets/news/AdaMehl.png)
 ### Ada Mehl, Class of 2024, Library Worker
 
 "I’m passionate about the union because of the unfair labor practices that the College engages in. When Burling and Kistle workers returned to work this year we were forced to sign a piece of paper enforcing zero use of personal electronic devices while working. The College went through with this knowing that by law they must bargain with the union before enacting any material workplace changes. This illegal change is just a fraction of what the Grinnell administration has done to undermine student workers on campus."
 
-![Photograph of Ada Mehl](https://www.ugsdw.org/assets/news/AdaMehl.png)
 
 ### Become a Steward!
 
