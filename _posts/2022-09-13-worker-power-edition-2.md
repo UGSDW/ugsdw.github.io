@@ -2,6 +2,7 @@
 release: false
 published: true
 title: 'Worker Power, Edition #2'
+author: UGSDW
 ---
 ## Student Workers Make Action Plan At General Meeting
 
