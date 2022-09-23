@@ -1,6 +1,6 @@
 ---
 release: false
-published: true
+published: false
 title: 'Worker Power, Edition #3'
 ---
 ## We Need Real Recourse for Workplace Discrimination and Harassment!
