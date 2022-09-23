@@ -13,7 +13,7 @@ Mailroom workers’ experience in Fall 2021 highlights the need for real recours
 
 *Worker Power is by the workers, for the workers. Read your copy front to back and contact us for submissions!*
 
-## Lu Johnston, Class of 2024, Math Tutor and Special Collections and Archives Worker
+### Lu Johnston, Class of 2024, Math Tutor and Special Collections and Archives Worker
 
 "By Fall 2021 my coworkers and I had brought two separate complaints to the College about
 transphobic behavior from mailroom supervisors. The College did nothing. They only took action to protect
