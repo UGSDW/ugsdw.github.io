@@ -20,3 +20,19 @@ transphobic behavior from mailroom supervisors. The College did nothing. They on
 their own image after we returned in protest — backed by 250+ rallying students. Instead of a real solution, I was subjected to a grueling Title IX procedure that reduced me to tears multiple times. Without a grievance procedure in place and options for real recourse, I felt like I had no choice but to quit. We need a strong grievance procedure and real recourse so that we can ensure that when student-workers are not treated fairly, conditions actually change."
 
 We're fed up with the College's inaction with Title IX complaints! We need actual action and recourse in response to discrimination and harassment! Enough is enough!
+
+### Crash Course: Collective Bargaining
+Collective Bargaining is just around the corner! Here’s what you need to know:
+Collective Bargaining is the formal process where a union and an employer sit down and negotiate to come to an agreement about wages and workplace conditions. When we won our election in April 2022 in a 327 to 6 vote, we became certified as the legal collective bargaining representative for all student workers on campus. This guaranteed that the College has a legal obligation to sit down with us and negotiate a Collective Bargaining Agreement (CBA), aka a union contract.
+In just a few weeks, we will begin negotiations with the College where we will present our contract proposals. As negotiations go, College representatives will have the chance to respond with counter proposalsand make their own arguments. Proposals presented by the Bargaining Team are a direct product of conversations with student workers about the changes we need to see in our workplaces. 
+How to get involved as a Union Member:
+1)  Give Feedback/Vote on Proposals: We will host regular Proposal Feedback Meetings where we will welcome input on proposals. The first Feedback Meeting will be held on Tuesday Sept. 27 at 7pm in HSSC S3325. A General Meeting will then be hosted on October 1 at 2pm in Main Quad to vote on finalized proposals. 
+2)  Workplace specific issues: Attend workplace meetings and let us know what you want us to fight for in the contract! Reach out to your workplace Steward for info on workplace meetings, or become one yourself!
+3)  Stay up to date on Bargaining: Spectating for bargaining sessions is open to ALL in-person or via Zoom. Come see for yourself what the College has to say about our proposals! 
+4)  Get involved in union actions: The College will NOT agree to our proposals if they believe we have weak mobilization and support. When we stand together, we as workers are far more powerful than the College and can pressure them to agree to our demands!
+
+### UGSDW Meetings
+All are welcome!
+- Organizing: Sundays, 6pm, JRC 209
+- Bargaining: Saturdays, 12:30 pm, JRC 209
+- Coworking: Thursdays, 7pm, N2110
