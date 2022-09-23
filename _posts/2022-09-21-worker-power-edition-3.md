@@ -19,4 +19,4 @@ Mailroom workers’ experience in Fall 2021 highlights the need for real recours
 transphobic behavior from mailroom supervisors. The College did nothing. They only took action to protect
 their own image after we returned in protest — backed by 250+ rallying students. Instead of a real solution, I was subjected to a grueling Title IX procedure that reduced me to tears multiple times. Without a grievance procedure in place and options for real recourse, I felt like I had no choice but to quit. We need a strong grievance procedure and real recourse so that we can ensure that when student-workers are not treated fairly, conditions actually change."
 
-We're fed up with the College's inaction with Title IX complaints! We need actual action and recourse in response to discrimination and harassment! ENOUGH IS ENOUGH!
+We're fed up with the College's inaction with Title IX complaints! We need actual action and recourse in response to discrimination and harassment! Enough is enough!
