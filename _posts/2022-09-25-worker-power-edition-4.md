@@ -45,3 +45,8 @@ All are welcome!
 - Organizing: Sundays, 6pm, JRC 209
 - Bargaining: Saturdays, 12:30 pm, JRC 209
 - Coworking: Thursdays, 7pm, N2110
+
+### Contact us!
+Send us videos of College admin illegally removing our newsletters! We love juicy evidence. Newsletter submissions are always open. Email us to be featured.
+- Email: ugsdw.org@gmail.com
+- @UGSDW on [Twitter](twitter.com/ugsdw) and [Instagram](instagram.com/ugsdw)
