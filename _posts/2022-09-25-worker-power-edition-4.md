@@ -48,5 +48,5 @@ All are welcome!
 
 ### Contact us!
 Send us videos of College admin illegally removing our newsletters! We love juicy evidence. Newsletter submissions are always open. Email us to be featured.
-- Email: ugsdw.org@gmail.com
-- @UGSDW on [Twitter](twitter.com/ugsdw) and [Instagram](instagram.com/ugsdw)
+
+Email ugsdw.org@gmail.com or contact @UGSDW on [Twitter](twitter.com/ugsdw) and [Instagram](instagram.com/ugsdw)
