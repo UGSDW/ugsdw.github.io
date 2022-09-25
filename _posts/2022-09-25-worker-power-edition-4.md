@@ -2,6 +2,7 @@
 release: false
 published: false
 title: 'Worker Power, Edition #4'
+author: UGSDW
 ---
 ## Get Ready! Two Weeks Until Bargaining Begins
 
