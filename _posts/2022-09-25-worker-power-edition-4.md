@@ -25,7 +25,7 @@ I had ceased to exist within the College's system. The College’s payroll and H
 
 ### College Represses *Worker Power*, Illegally Throws Away Newsletters
 
-Word has gotten out to College administrators that worker power is on the rise — both in this newsletter and on Grinnell's campus! Last Monday, administrators frantically began removing our newsletters from locations around campus after we expressed our need for a grievance procedure that provides real recourse for student workers. Curiously, they removed Worker Power but not the S&B — even from the same tables! The College's actions are in clear violation of Section 8(a)(1) of the National Labor Relations Act which prohibits interference with workers organizing. 
+Word has gotten out to College administrators that worker power is on the rise — both in this newsletter and on Grinnell's campus! Last Monday, administrators frantically began removing our newsletters from locations around campus after we expressed our need for a grievance procedure that provides real recourse for student workers. Curiously, they removed *Worker Power* but not the *Scarlet & Black* — even from the same tables! The College's actions are in clear violation of Section 8(a)(1) of the National Labor Relations Act which prohibits interference with workers organizing. 
 
 The College even went as far as sending an email to all students blaming us for fomenting "fear and doubt" in the Title IX process. We have no intention of scaring students away from Title IX — we want a neutral, fair alternative to address workplace discrimination and harassment. Rather than focusing on our proposals which would address the failures of Title IX, the College blames student workers for exposing these failures. Don't be distracted — we still need real recourse for discrimination and harassment. 
 
@@ -39,6 +39,8 @@ When we brought these changes to the College, they denied breaking the law, clai
 
 ### UGSDW Meetings
 All are welcome!
+- Proposal Feedback: Tuesday, 9/27, 7pm, S3325
+- General Meeting: Saturday, 10/1, 4pm, Main Quad
 - Organizing: Sundays, 6pm, JRC 209
 - Bargaining: Saturdays, 12:30 pm, JRC 209
 - Coworking: Thursdays, 7pm, N2110
