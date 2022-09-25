@@ -15,7 +15,7 @@ In 2016, we fought for and won just cause and a grievance procedure in UGSDW's u
 Since then, more than 130 student workers have been rehired in the dining hall because of the job protections we fought for together. All workers deserve to feel safe and secure in their workplaces, and they deserve to have fair recourse if their rights are violated. As we begin the process of collective bargaining, we must fight to expand just cause protections to all student workers. No recourse, oversight, or uniformity in disciplinary processes is a recipe for subjective and biased treatment at work. Unless we demand oversight—by student workers and for student workers—the College will continue its unjust and arbitrary firing processes. We can win oversight, real job protections, and higher wages in our new contract if we stand together.
 Make your voice heard and take action now!
 
-### Worker Testimony: Hemlock Envy, Class of 2025, Student Worker for Weekend
+### Worker Testimony: Hemlock Envy, Class of 2025, Student Worker for \[Weekend\]
 
 Was my tax paperwork mixed up, my wages denied for two months, and my access to logging my wages compromised by the College because of transphobic policies and by HR and payroll employees that overlooked me? **Yes.** 
 
