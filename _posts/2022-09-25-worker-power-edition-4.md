@@ -38,6 +38,7 @@ In [Edition 1 of Worker Power](https://www.ugsdw.org/2022/09/05/worker-power-edi
 When we brought these changes to the College, they denied breaking the law, claiming the changes were not "substantial" enough. Student workers knew better; we told administration to their faces how our jobs were harder after these changes. Now, the College is retracting the illegal changes and restoring previous working conditions in these workplaces! Only student workers coming together to protest these changes led to the College changing its tune. If we want to win any improvements for student workers in bargaining, we need to stand together and fight —  because we know the College won't be convinced any other way.
 
 ### UGSDW Meetings
+
 All are welcome!
 - Proposal Feedback: Tuesday, 9/27, 7pm, S3325
 - General Meeting: Saturday, 10/1, 4pm, Main Quad
