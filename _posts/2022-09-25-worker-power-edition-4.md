@@ -6,6 +6,9 @@ author: UGSDW
 ---
 ## Get Ready! Two Weeks Until Bargaining Begins
 
+![A photograph of hundreds of student-workers gathered in Main Quad](https://ugsdw.org/assets/news/PXL_20220827_200150885.jpg)
+
+
 ### The Fight for Student Worker Job Security
 
 Our third bargaining priority is strong job protections, starting with just cause. Just cause is a standard that requires that employers have just reasoning as well as a fair and equitable process in place for any disciplinary action taken against workers. In Iowa, like in most states, workers can be fired or disciplined for any reason and without notice. As part of negotiations, we will demand that student workers at Grinnell be protected from unfair and unequal treatment in the workplace. The College's chronic understaffing is worsened by a disciplinary process that emphasizes punitive action over helping us to do our jobs. We cannot do our work effectively under the threat of being fired at any time, for any reason!
