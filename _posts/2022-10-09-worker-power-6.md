@@ -29,7 +29,7 @@ We will be brainstorming contract proposals for (1) a new grievance procedure fo
 Next Organizing Meeting: Sunday, Oct. 23, 6pm, JRC 209
 
 
-### Workers came out in full force to the first session of bargaining on Oct. 6 wearing  UGSDW Fair Contract Now! buttons to show solidarity and support for a fair and strong contract! 
+### Workers came out in full force to the first session of bargaining on Oct. 6 wearing _UGSDW Fair Contract Now!_ buttons to show solidarity and support for a fair and strong contract! 
 
 Now, it's more important than ever that student workers, students, faculty, and community members continue to come to negotiations to prove to the College that we are watching and ready to take action to win what we deserve!
 
