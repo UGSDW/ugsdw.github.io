@@ -2,6 +2,7 @@
 release: false
 published: false
 title: 'Worker Power, #6'
+author: UGSDW
 ---
 ## Second Bargaining Session October 13, 4:30 PM in JRC 101 and on Zoom
 
