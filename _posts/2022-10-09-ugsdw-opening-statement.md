@@ -4,7 +4,7 @@ published: false
 title: UGSDW Opening Statement
 author: UGSDW
 ---
-## UGSDW Opening Statement, Delivered October 6, 2022
+## UGSDW Opening Statement, Delivered to Open Bargaining on October 6, 2022
 
 Hello everyone and welcome to the very first session of bargaining between the Union of Grinnell Student Dining Workers and Grinnell College. This is a historic moment — We are here today to begin the process of negotiating the first undergraduate campus-wide contract in history that will shape student work at Grinnell College for years to come. It is wonderful to see so many faces in the crowd; it’s clear student workers, students, faculty, staff and community members are here today because they are invested in this process and value work at Grinnell. So, let’s begin. 
 
