@@ -4,7 +4,7 @@ published: true
 title: 'Worker Power, Edition #6'
 author: UGSDW
 ---
-## Second Bargaining Session October 13, 4:30 PM in JRC 101 and on Zoom
+## Second Bargaining Session October 13, 4:30 PM in JRC 101 and on WebEx
 
 ![A photograph of UGSDW's bargaining team at the table in JRC 101, facing the College's Bargaining Team during the first bargaining session](https://ugsdw.org/assets/news/68678555629__0FA51F11-411A-4025-9CF6-83CB8F953641.jpg)
 
