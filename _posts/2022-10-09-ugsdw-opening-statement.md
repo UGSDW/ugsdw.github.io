@@ -1,6 +1,6 @@
 ---
 release: false
-published: false
+published: true
 title: UGSDW Opening Statement
 author: UGSDW
 ---
