@@ -1,9 +1,9 @@
 ---
 release: false
-published: false
+published: true
 title: 'Worker Power, Edition #7'
 ---
-### Next Bargaining Session: October 27, 4:30 PM—JRC 101
+## Next Bargaining Session: October 27, 4:30 PM — JRC 101 or on [Webex](https://grinnellcollege.webex.com/grinnellcollege/j.php?MTID=mdec1e4e4207a56147c49d3f99b3a60c0)
 
 ### College Proposes Excluding Academic Workers From Job Protections
 
@@ -49,5 +49,18 @@ UGSDW proposed:
 5. Union bulletin boards in every building with student workers
 6. Protections for participating in Union events and organizing
 7. No College surveillance of Union activities & communications
+
+The College proposed:
+1. No Union Orientation
+2. Access to workplaces for Union business only in cases where all of the following are true:
+	1. The College thinks it is "reasonable and necessary" 
+	2. The Union is investigating a grievance
+	3. The Union "secures written permission"  
+	4. A College representative accompanies the Union agent
+3. College proposal did not mention a Union office 
+4. Access to meeting spaces
+5. Union bulletin boards in every building, with content limited to:
+	1. Union recreational and social affairs, elections, appointments, results of elections & meetings
+	2. Nothing "political or controversial in nature"
 
 
