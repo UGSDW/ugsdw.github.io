@@ -17,4 +17,17 @@ In 2019, the College proposed excluding all academic workers from a partial expa
 
 Academic workers, do you think you would benefit from protections against unfair discipline and firing?
 
+### Quotes
+_from Grinnell College's Proposal_
+"The just cause, grievance and arbitration provisions of this Agreement shall not apply to student employees who perform jobs supporting faculty or staff related to course work" 
+
+_from Clark Lindgren, Chair of the Faculty & College Bargaining Team Member_
+"\[Just cause\] just seems like … it's imposing something that I think doesn't have any benefit for the students and potentially has some downsides"
+ 
+
+
+### Vote on New Proposals!
+Union members: Check your email to vote on our most recent proposals that we plan to present next in bargaining! 
+
+### 
 
