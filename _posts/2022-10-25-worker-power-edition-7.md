@@ -18,16 +18,36 @@ In 2019, the College proposed excluding all academic workers from a partial expa
 Academic workers, do you think you would benefit from protections against unfair discipline and firing?
 
 ### Quotes
+
 _from Grinnell College's Proposal_
+
 "The just cause, grievance and arbitration provisions of this Agreement shall not apply to student employees who perform jobs supporting faculty or staff related to course work" 
 
 _from Clark Lindgren, Chair of the Faculty & College Bargaining Team Member_
+
 "\[Just cause\] just seems like … it's imposing something that I think doesn't have any benefit for the students and potentially has some downsides"
  
-
 
 ### Vote on New Proposals!
 Union members: Check your email to vote on our most recent proposals that we plan to present next in bargaining! 
 
-### 
+## Bargaining Positions
+
+### Neutrality & Card Check
+
+UGSDW proposed: The College shall remain neutral toward all union organizing drives of any group of employees at Grinnell College. If agreed upon, it would streamline the process for a group of workers to become part of a certified union and engage in collective bargaining.
+
+The College refused to negotiate regarding this proposal stating, "the College has addressed the dignity and safety of faculty and staff in other proposals and responses." The College could agree to this proposal, but claims that since the content does not deal directly with student workers, it is outside our rights and responsibilities in bargaining. 
+
+### Union Rights
+
+UGSDW proposed:
+1. Paid 1-hour Union Orientation for all student workers
+2. Access to workplaces for union business
+3. ADA-accessible Union office
+4. Access to meeting spaces and software
+5. Union bulletin boards in every building with student workers
+6. Protections for participating in Union events and organizing
+7. No College surveillance of Union activities & communications
+
 
