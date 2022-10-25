@@ -4,7 +4,7 @@ published: true
 title: 'Worker Power, Edition #7'
 author: UGSDW
 ---
-### Next Bargaining Session: October 27, 4:30 PM — JRC 101 or on [Webex](https://grinnellcollege.webex.com/grinnellcollege/j.php?MTID=mdec1e4e4207a56147c49d3f99b3a60c0)
+### Next Bargaining Session: October 27, 4:30 PM — JRC 101 or on [WebEx](https://grinnellcollege.webex.com/grinnellcollege/j.php?MTID=mdec1e4e4207a56147c49d3f99b3a60c0)
 
 ### College Proposes Excluding Academic Workers From Job Protections
 
