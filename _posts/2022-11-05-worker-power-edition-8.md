@@ -1,9 +1,9 @@
 ---
 release: false
-published: false
+published: true
 title: 'Worker Power, Edition #8'
 ---
-![UGSDW's bargaining team sits at the bargaining table as the College's team leaves](ugsdw.org/assets/news/Screen%20Shot%202022-10-30%20at%201.32.08%20PM.png)
+![UGSDW's bargaining team sits at the bargaining table as the College's team leaves](https://ugsdw.org/assets/news/Screen%20Shot%202022-10-30%20at%201.32.08%20PM.png)
 
 ## College Walks Out of Negotiations After Failing to Define "Academic Freedom"
 
