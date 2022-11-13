@@ -45,6 +45,6 @@ The College proposed:
 - Either the Union or the College can request arbitration (meaning the College can force the union to pay for an expensive process without our agreement). The College's proposal has no details on who could serve as an arbitrator and no limits on cost.
 - **"No student worker shall be paid for time spent participating in the arbitration process."**
 
-## Schedule a one-on-one conversation with a Union Representative [here](https://bit.ly/union1on1)
+### _Contact us: Schedule a one-on-one conversation with a Union Representative [here](https://bit.ly/union1on1)_
 
 
