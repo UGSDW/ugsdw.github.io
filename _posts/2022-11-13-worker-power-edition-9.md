@@ -20,7 +20,7 @@ We also revisited our proposal for Information to the Union. This proposal would
 
 At our **General Meeting on Nov. 19 at 4pm in the Harris Concert Hall**, we’ll be talking about how we can continue to take action to demand we as student workers get what we deserve and discussing details for a wage proposal that reflects our worth and the work that we do to make this institution run! 
 
-![Student workers gather in protest in the hallway outside of the bargaining room](https://ugsdw.org/assets/news/IMG_7040 2.jpg)
+![Student workers gather in protest in the hallway outside of the bargaining room](https://ugsdw.org/assets/news/IMG_7040%202.jpg)
 
 ![A sign reading "Grinnell: Bargain Now! No More Threats!"](https://ugsdw.org/assets/news/IMG_7033.jpg)
 
