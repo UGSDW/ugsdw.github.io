@@ -1,6 +1,6 @@
 ---
 release: false
-published: false
+published: true
 title: 'Worker Power, Edition #9'
 author: UGSDW
 ---
@@ -46,5 +46,3 @@ The College proposed:
 - **"No student worker shall be paid for time spent participating in the arbitration process."**
 
 ### _Want to talk about the goings-on at your workplace or in the union? Schedule a one-on-one conversation with a Union Representative [here!](https://bit.ly/union1on1)_
-
-
