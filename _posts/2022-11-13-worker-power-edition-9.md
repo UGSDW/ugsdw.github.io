@@ -25,6 +25,7 @@ At our **General Meeting on Nov. 19 at 4pm in the Harris Concert Hall**, we’ll
 ![A sign reading "Grinnell: Bargain Now! No More Threats!"](https://ugsdw.org/assets/news/IMG_7033.jpg)
 
 
+
 _The College refused to allow student workers to watch bargaining in-person, so we posted up outside the hallway in protest and placed signs inside the room._
 
 ## Bargaining Positions: Grievance Procedure
