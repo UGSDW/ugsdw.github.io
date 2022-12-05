@@ -28,4 +28,4 @@ Our demand for $20 is made in solidarity with student workers across the country
 
 Union members! Check your email for a link to vote via Google Form on our wage proposal! 
 
-Come to our last organizing meeting of the year! Sunday, Dec. 11, 6:15pm @JRC 209
+Come to our last organizing meeting of the year! Sunday, Dec. 11, 6:15pm at JRC 209
