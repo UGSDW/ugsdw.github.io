@@ -8,7 +8,7 @@ author: UGSDW
 
 ### The nation’s first fully unionized campus should _lead_ comparable institutions
 
-![A graph comparing the college's base wage, $8.24, the college's proposal, $10.75, the wage adjusted if it had increased at the same rate as tuition since 2005, $18.83, and UGSDW's proposed wage, $20.00.](https://www.ugsdw.org/assets/news/WageGraph1.jpg)
+![A graph comparing the college's base wage, $8.24, the college's proposal, $10.75, the wage adjusted if it had increased at the same rate as tuition since 2005, $18.83, and UGSDW's proposed wage, $20.00.](https://www.ugsdw.org/assets/news/WageGraph1-1.jpg)
 
 When we surveyed student workers, 69% said that they relied on their wages from work to buy groceries, 57% said that they relied on wages for school materials, and 24% said they relied on wages for housing. The wages that many student workers receive for our work are essential to our ability to feed and house ourselves, and to continue to attend Grinnell.
 
