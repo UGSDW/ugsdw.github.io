@@ -24,7 +24,7 @@ Our demand for $20 is made in solidarity with student workers across the country
 
 ### UGSDW's Proposal will let us be _students first_
 
-
+![A graph comparing the hours per week a student-worker would need to work to make their work-study contribution. At the current wage, it is 9.5 hours. The College's proposal is 7.3 hours, and UGSDW's proposal is 3.9 hours.](https://www.ugsdw.org/assets/news/WageGraph2.jpg)
 
 Union members! Check your email for a link to vote via Google Form on our wage proposal! 
 
