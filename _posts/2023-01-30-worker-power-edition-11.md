@@ -36,6 +36,9 @@ On the topic of taking action, setting a strike date is a big step. There are tw
 1. We will continue to do as much work at the bargaining table as we can, so all action taken outside the session directly helps pressure the college to listen to workers, and 
 2. A strike will not be our only action taken in this fight. Be on the lookout for ways to get involved! Our words only take us so far, both on and off the bargaining table, it’s time to fight! 
 
+### Nominate yourself or a co-worker to be a UGSDW Steward!
+Nominations will close Sunday, Feb. 5. No experience necessary! [Click here](Bit.ly/StewardNoms) to nominate someone!
+
 ### Call for Submissions
 
 Want to see your perspective on student work at Grinnell in Worker Power? Have a rant about your workplace, bargaining, or admin? Constructive criticism or feedback for your coworkers in the union? Submit for the next edition of Worker Power - we accept writing, art, quick quotes, anything you want your fellow workers to see! Send it to us at ugsdw.org@gmail.com and don't be shy, we want to encourage dialogue among student workers as we move toward taking action!
