@@ -2,6 +2,7 @@
 release: false
 published: true
 title: 'Worker Power, Edition 11'
+author: UGSDW
 ---
 ## Worker Power, Edition 11
 
