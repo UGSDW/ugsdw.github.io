@@ -37,7 +37,7 @@ On the topic of taking action, setting a strike date is a big step. There are tw
 2. A strike will not be our only action taken in this fight. Be on the lookout for ways to get involved! Our words only take us so far, both on and off the bargaining table, it’s time to fight! 
 
 ### Nominate yourself or a co-worker to be a UGSDW Steward!
-Nominations will close Sunday, Feb. 5. No experience necessary! [Click here](www.bit.ly/StewardNoms) to nominate someone!
+Nominations will close Sunday, Feb. 5. No experience necessary! [Click here](https://www.bit.ly/StewardNoms) to nominate someone!
 
 ### Call for Submissions
 
