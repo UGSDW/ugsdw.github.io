@@ -30,4 +30,3 @@ Grinnell College is a small, private, liberal arts college located in Grinnell, 
 You can reach UGSDW’s leaders via email (ugsdw.org@gmail.com) or on social media (@ugsdw).
 UGSDW is an independent union run by student workers. Consider supporting our organizing at ugsdw.org/donate.
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
