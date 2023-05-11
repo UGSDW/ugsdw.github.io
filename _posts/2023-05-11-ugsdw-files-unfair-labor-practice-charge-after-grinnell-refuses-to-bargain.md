@@ -1,7 +1,9 @@
 ---
 release: true
 published: true
-title: UGSDW Files Unfair Labor Practice Charge after Grinnell Refuses to Bargain
+title: >-
+  Grinnell College Refuses to Bargain Due to Strike; UGSDW Files Unfair Labor
+  Practice Charge as Strike Continues
 ---
 ## The college unilaterally declared impasse after falsely declaring student workers’ strike “unlawful”
 
