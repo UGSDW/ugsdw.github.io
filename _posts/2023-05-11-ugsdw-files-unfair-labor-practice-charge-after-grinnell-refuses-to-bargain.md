@@ -7,6 +7,7 @@ title: >-
 ---
 ## The college unilaterally declared impasse after falsely declaring student workers’ strike “unlawful”
 
+![A photograph of several Grinnell students standing in a circle, two holding signs reading "UGSDW on strike"](ugsdw.org/assets/news/IMG_6890.jpg)
 
 GRINNELL, IOWA — The Union of Grinnell Student Dining Workers filed an Unfair Labor Practice charge against Grinnell College today, Thursday, May 11, for refusal to bargain in good faith. Following the first day of the strike that Grinnell student workers began on May 10, the college’s bargaining team sent an email to UGSDW’s leadership stating that they believed the parties had reached impasse due to UGSDW’s strike. The email stated “As a result of your decision to strike and picket instead of bargaining in good faith, we must conclude that we have now reached impasse. A strike is a fundamental action and acknowledgment of impasse.  During impasse, the parties’ duty to bargain is temporarily suspended.” UGSDW categorically rejects the assertion that the decision to strike is in any way at odds with bargaining in good faith. 
 
@@ -21,6 +22,7 @@ The college’s refusal to bargain is yet another anti-union action from an inst
 UGSDW will continue its indefinite strike. UGSDW’s bargaining team is prepared to bargain in good faith in an effort to reach a contract that addresses the needs of all student workers, including a living wage, room and board compensation for Community Advisors, and contract protections against harassment and discrimination in the workplace. Donate to the [UGSDW strike fund](https://www.gofundme.com/f/ugsdw-strike-fund?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1) to support striking student workers!
 
 												###
+
 
 
 UGDSW is the first independent undergraduate labor union in the country, UGSDW fights for fair pay and benefits for all workers at Grinnell College. The union represents over 800 students, or about 50% of the total student population.
