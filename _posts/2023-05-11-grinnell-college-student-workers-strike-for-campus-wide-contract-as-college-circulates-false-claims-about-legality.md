@@ -7,7 +7,7 @@ title: >-
 ---
 ## Student Workers begin strike amid threats, intimidation from Grinnell College
 
-![A photograph of several student workers standing. One holds a sign reading "UGSDW on strike"](ugsdw.org/assets/news/IMG_20230510_164629.jpg)
+![A photograph of several student workers standing. One holds a sign reading "UGSDW on strike"](/assets/news/IMG_20230510_164629.jpg)
 
 
 GRINNELL, IOWA — Community Advisors (CA) and other student employees at Grinnell College began an indefinite strike on Wednesday, May 10 after 7 months of contract negotiations between the college and the Union of Grinnell Student Dining Workers (UGSDW), which represents CAs. In response, Grinnell College issued several threats to Grinnell students and staff, falsely claiming that the strike is unlawful. Student workers picketed all day to protest the college’s inadequate proposals and intimidation of its employees.
