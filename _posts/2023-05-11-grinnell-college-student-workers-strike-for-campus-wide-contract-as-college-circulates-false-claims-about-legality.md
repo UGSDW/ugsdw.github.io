@@ -1,6 +1,6 @@
 ---
 release: true
-published: false
+published: true
 title: >-
   Grinnell College Student Workers Strike for Campus-Wide Contract as College
   Circulates False Claims about Legality
