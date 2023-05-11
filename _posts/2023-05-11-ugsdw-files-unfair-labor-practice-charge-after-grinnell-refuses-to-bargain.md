@@ -16,7 +16,7 @@ The college’s refusal to bargain is yet another anti-union action from an inst
 
 “This Tuesday, we told the college that we would attend our mediated bargaining session this Thursday in the hopes of coming to an agreement that will end our ongoing strike. The college’s refusal to even meet us at the bargaining table—and their false claim to the entire campus community that our strike is unlawful—is shameful,” said Lena Wiebe, UGSDW President.  “We won’t back down in response to union-busting, stalling, lies, threats, and intimidation. We will continue our strike to demand higher wages, no pay cuts, and a contractually enforceable non-discrimination process, and we will be prepared to bargain when the college is ready to fulfill its legal obligation to bargain in good faith.”
 
-UGSDW will continue its indefinite strike. UGSDW’s bargaining team is prepared to bargain in good faith in an effort to reach a contract that addresses the needs of all student workers, including a living wage, room and board compensation for Community Advisors, and contract protections against harassment and discrimination in the workplace.
+UGSDW will continue its indefinite strike. UGSDW’s bargaining team is prepared to bargain in good faith in an effort to reach a contract that addresses the needs of all student workers, including a living wage, room and board compensation for Community Advisors, and contract protections against harassment and discrimination in the workplace. Donate to the [UGSDW strike fund](https://www.gofundme.com/f/ugsdw-strike-fund?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1) to support striking student workers!
 
 												###
 
