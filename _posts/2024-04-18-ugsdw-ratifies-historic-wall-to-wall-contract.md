@@ -1,9 +1,11 @@
 ---
 release: true
-title: UGSDW Ratifies Historic Wall-To-Wall Contract
+title: HISTORIC WALL-TO-WALL CONTRACT
 published: true
 ---
-## UGSDW Ratifies First Wall-To-Wall Undergraduate Labor Contract in US history
+## UGSDW Ratifies First Wall-To-Wall Undergraduate Labor Contract in US History
+
+![A photograph of a Grinnell student holding a sign that says "Union Power""](/assets/news/Copy of DSC_0009.jpg)
 
 GRINNELL, IOWA — On April 4th, 2024 the Union of Grinnell Student Dining Workers (UGSDW) officially ratified and signed the first wall-to-wall undergraduate labor contract in US History by a landslide vote of 162-1. The contract is a historic victory for the UGSDW. The contract comes after years of legal battles between the Union and Grinnell College, which in 2018, saw the College attempt to remove the right of all undergraduates in the country to unionize under the Republican controlled NLRB. 
 The base wage will increase for all student workers to $13.50 per hour, a $5.25 increase from the base wage when negotiations began. Furthermore, Community Advisors (CAs) now have the option to choose between a room grant or a stipend equivalent to a room grant. Previously, Grinnell refused to pay CAs with a stipend but have since reversed their position. All student workers also have protections of just cause and have access to a grievance procedure with a third party arbitrator having the final say. During negotiations, Grinnell attempted to exclude all academic workers from just cause but moved their position after a UGSDW walkout. In the past, all student workers were “at-will” employees meaning they could be fired at anytime for any reason. Furthermore, in previous contracts, the Grinnell’s Dean of Students was had the final say in the arbitration process. All of these improvements make the contract a win for the Union.  UGSDW Co-Presidents Conrad Dahm & Hannah Sweet said about the historic contract “This contract represents years of organizing and almost 1.5 years of bargaining with the College. We survived years of Union busting and showed that when we fight, we win.” 
