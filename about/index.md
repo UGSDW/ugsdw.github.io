@@ -21,7 +21,7 @@ The first independent  undergraduate labor union in the country, UGSDW is a demo
 
 The Union of Grinnell Student Dining Workers was started in the spring of 2016, elected with a 91% margin by employees to represent the student dining workers. Since then, we’ve expanded to include all Dining Services workers, made a larger effort to [expand](/together) to all student workers at Grinnell College, and negotiated multiple [contracts](/members/contract). We’ve fought for, and won:
 
-- Wage increases to $10.75 an hour and bonuses up to $1.00 an hour
+- Wage increases to $13.50 an hour
 - Just cause employment and a grievance procedure
 - Paid rest breaks
 - Equal pay for local high school students
