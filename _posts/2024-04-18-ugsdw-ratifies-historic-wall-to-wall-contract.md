@@ -1,6 +1,7 @@
 ---
-release: false
+release: true
 title: UGSDW Ratifies Historic Wall-To-Wall Contract
+published: true
 ---
 ## UGSDW Ratifies First Wall-To-Wall Undergraduate Labor Contract in US history
 
