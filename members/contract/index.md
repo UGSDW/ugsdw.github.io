@@ -12,6 +12,14 @@ download a PDF copy.
     target="_blank">
     2021–2023 Contract
 </a>
+<a class="button" href="https://drive.google.com/file/d/154fKbxEATMsp__PvhFzGcqw7vMipjcB6/view?usp=sharing" 
+    target="_blank">
+    2024-2027 Contract (Signed)
+</a>
+<a class="button" href="https://drive.google.com/file/d/1WFW3nx3fcKqIwRep2ED2OBVy7dwK-DxL/view?usp=sharing" 
+    target="_blank">
+    2024-2027 Contract
+</a>
 <br> <br>
 
 
