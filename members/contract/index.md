@@ -57,8 +57,9 @@ from violation of this provision.
 During the term of this Agreement, the College shall not engage in any Lockout against the Union or the Student Workers covered by this Agreement.
 
 This provision incorporates the following definitions:
--**Strike:** The term “Strike” shall include all concerted stoppages of work, sickouts, slow-downs, walkouts, interruptions, and formation of or refusal to cross picket lines which have the intent or effect of preventing or discouraging student workers from participating in work. The term “Strike” shall exclude all activities constituting a Non-Strike Demonstration as set forth below.
--**Lockout:** The term “Lockout” shall include all lockouts against the Union and lockouts against any and all Student Workers.
+
+-**Strike:** The term “Strike” shall include all concerted stoppages of work, sickouts, slow-downs, walkouts, interruptions, and formation of or refusal to cross picket lines which have the intent or effect of preventing or discouraging student workers from participating in work. The term “Strike” shall exclude all activities constituting a Non-Strike Demonstration as set forth below.  
+-**Lockout:** The term “Lockout” shall include all lockouts against the Union and lockouts against any and all Student Workers.  
 -**Non-Strike Demonstration:** For purposes of this Agreement, the term “Non-Strike Demonstration” shall include all protests and demonstrations which do not have the intent or effect of preventing or discouraging student workers from participating in work. The term “Non-Strike Demonstration” shall exclude all activities constituting a Strike as set forth above.
 
 **3.7   Union Management Committee.**  Upon the written request of either party, the College and the Union will convene the Union Management Committee (the “UMC”) to meet to discuss workplace conditions, including, but not limited to, health and safety concerns and any other matters that arise in the administration of this Agreement. Both parties agree to address health and safety concerns in an expedited manner and resolve the issues as quickly as feasible. Should the parties agree in advance on particular agenda items for such meetings, the parties shall facilitate the attendance of individuals qualified to speak on those topics. 
