@@ -34,7 +34,7 @@ You can view the collective bargaining agreement below, or download a PDF copy.
 **2.3 Workplaces Definition.** For the purposes of this Agreement, the term “Workplaces” shall be defined as the locations where Student Workers regularly perform tasks, jobs, and projects at Grinnell College pursuant to their obligations as employees of Grinnell College. 
 
 ## ARTICLE 3—COLLEGE AND UNION RIGHTS AND RESPONSIBILITIES
-3.1 Students First. The College and Union agree that the Student Workers covered by this Agreement are, first and foremost, students. The advancement of the educational goals of the Student Workers and the efficient operation of the College are the mutual obligations of the parties. The parties to this Agreement will cooperate fully to secure the advancement and achievement of these purposes.
+**3.1 Students First.** The College and Union agree that the Student Workers covered by this Agreement are, first and foremost, students. The advancement of the educational goals of the Student Workers and the efficient operation of the College are the mutual obligations of the parties. The parties to this Agreement will cooperate fully to secure the advancement and achievement of these purposes.
 
 **3.2 Mutual Responsibility.** The College and Union agree that they will treat each other with mutual respect and dignity. Members of the College Community shall have the right to express their views concerning the terms and conditions of employment consistent with Grinnell College’s policies (including but not limited to Grinnell College’s Student Handbook, Staff Handbook, and Faculty Handbook), the National Labor Relations Act (“NLRA”), the Family Educational Rights and Privacy Act (“FERPA”), financial aid regulations, privacy regulations, and other state and federal laws and regulations.
 
@@ -154,8 +154,8 @@ Both parties acknowledge and affirm that the Union is an independent entity. Not
 ## ARTICLE 6—WAGES
 **6.1 Base Pay Levels.** A single base pay level shall be assigned to all Student Worker positions on campus, subject to the exception of Section 6.2. Upon ratification, the initial base pay for this contract shall be $13.50. Starting in 2025, Student Workers will receive a wage increase at the beginning of each academic year. The base pay schedule is set forth below. 
 
-2025-2026 - $13.77
-2026-2027 - $14.04
+2025-2026 - **$13.77**  
+2026-2027 - **$14.04**
 
 **6.2 Community Advisors.** Beginning in the 2024-2025 academic year, Student Workers in Community Advisor or Residence-Life House Monitor positions shall be compensated for those positions by their choice of either: (a) a College-designated room grant at the basic room level or (b) a stipend of equivalent value. Student Workers in Community Advisor or Residence-Life House Monitor positions must select their choice of compensation prior to their term of service and may not alter their selection during their term of service. Stipends provided pursuant to this Section shall be paid in equal installments at the close of each pay period during the term of service. Room grants and stipends paid pursuant to this Section shall constitute compensation for all work performed, including any training.
 
