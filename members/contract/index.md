@@ -4,8 +4,7 @@ published: true
 ---
 ## Your Contract
 
-You can view the last year's collective bargaining agreement below, or
-download a PDF copy.
+You can view the collective bargaining agreement below, or download a PDF copy.
 
 <br>
 <a class="button" href="https://drive.google.com/file/d/1WFW3nx3fcKqIwRep2ED2OBVy7dwK-DxL/view?usp=sharing" 
