@@ -1,33 +1,30 @@
 president:
-    name: Lena Wiebe
+    name: Hannah Sweet and Conrad Dahm
     email: ugsdw.org@gmail.com
-    box:  3718
-sec-treas:
-    name:  Conrad Dahm
-    email:  ugsdw.org@gmail.com
     box:  3881
+sec-treas:
+    name:  Leo Goldman
+    email:  goldmanleo@grinnell.edu
+    box:  3179
 at-large:
    -
-        name: Jules Covitz
-        email:  covitzju@grinnell.edu
+        name: Noelle Bueher
+        email:  buehrern@grinnell.edu
    -
         name: Kelly Banfield
         email: banfield@grinnell.edu
    -
-        name: Hannah Sweet 
-        email: sweethan@grinnell.edu
+        name: Kyra Pruszinski
+        email: pruszins@grinnell.edu
    -
-        name: Malcolm Galpern Levin 
-        email: galpernl@grinnell.edu
+        name: Amika Matteson
+        email: matteson@grinnell.edu
    -
-        name: Lyn Victoria Guinto
-        email: guintoly@grinnell.edu
+        name: Lena Wiebe
+        email: wiebelen@grinnell.edu
    -
-        name: Lu Johnston
-        email: johnston@grinnell.edu
-   -
-        name: Amani Alqaisi
-        email: alqaisia@grinnell.edu
+        name: Donovan Wilcox
+        email: wilcoxdo@grinnell.edu
    -
         name: Sam Hiller
         email: hillersa@grinnell.edu
@@ -36,8 +33,8 @@ press-secretary:
     email: ugsdw.org@gmail.com
 advisors:
    -
-        name: Prathik Gowda
-        email: gowdapra@grinnell.edu
+        name: Jules Covitz
+        email: covitzju@grinnell.edu
    -
-        name: Bethany Willig
-        email: willigbe@grinnell.edu
+        name: Paris King-Levine
+        email: kinglevi@grinnell.edu
