@@ -2,10 +2,6 @@
 published: false
 title: UGSDW Begins Work-to-Rule Campaign
 author: Cory McCartan
-excerpt: >-
-  Members of the Union of Grinnell Student Dining Workers (UGSDW) voted Sunday
-  to begin a work-to-rule campaign intended to raise awareness of unfair pay and
-  to put pressure on Grinnell College to raise wages
 ---
 ![Grinnell dining hall]({{site.baseurl}}/https://www.grinnell.edu/sites/default/files/styles/front_page_slideshow/public/Marketplace%20photo%20shoot%20May%202007%20019_0.jpg?itok=k1iGMK7z)
 
