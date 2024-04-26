@@ -1,10 +1,6 @@
 ---
 title: 'Grinnell, Stop Cheating Your Workers'
 author: Quinn Ercolani
-excerpt: >-
-  We hear a lot about Grinnell’s commitment to social responsibility.  It’s
-  plastered all over the College’s website and the glossy brochures it sends out
-  every fall.   But what does that commitment look like in practice?
 published: true
 ---
 
