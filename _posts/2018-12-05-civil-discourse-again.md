@@ -3,11 +3,6 @@ release: true
 published: true
 title: Grinnell College Deals Fatal Blow to Civil Discourse... Again.
 author: UGSDW
-excerpt: >
-  On Wednesday, President Kington officially ran out of excuses
-  for its refusal to speak with Union leadership, instead
-  resorting to blatant lies. This is yet another chapter in a
-  long series of mistruths peddled by the College.
 ---
 #### Press Release
 
