@@ -3,10 +3,6 @@ release: true
 published: true
 title: UGSDW Considers Multi-Union Affiliation
 author: UGSDW
-excerpt: >-
-  At Event Celebrating International Workers Day, UGSDW Officially Began
-  Consideration of Joining Student Workers Across the Country in Affiliation
-  with a National Union
 ---
 #### Press Release
 
