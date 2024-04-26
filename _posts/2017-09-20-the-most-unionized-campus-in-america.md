@@ -2,11 +2,6 @@
 title: The Most Unionized Campus in America
 published: true
 release: true
-excerpt: >-
-  UGSDW announced Wednesday a new effort to unionize all student workers at
-  Grinnell College.  If successful, the union would triple the size of its
-  bargaining unit and make Grinnell the only educational institution in the
-  country to have every undergraduate worker represented by a union.
 author: UGSDW
 ---
 #### Press Release
