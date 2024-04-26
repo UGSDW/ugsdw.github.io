@@ -2,9 +2,6 @@
 release: true
 published: true
 title: 'Moving Backward: Statement on May 7 Student Campus Memo'
-excerpt: >-
-  Trustees suspended discussion on partial expansion at the last minute. UGSDW
-  members are shocked, disappointed, and concerned.
 author: UGSDW
 ---
 #### Press Release
