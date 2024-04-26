@@ -2,13 +2,6 @@
 release: true
 published: true
 title: 'UGSDW Files for Election, Paving the Way for Campus-wide Union'
-excerpt: >
-    UGSDW filed a petition on Monday with the federal National Labor Relations 
-    Board, a first step towards a union election which would allow UGSDW to
-    represent all student workers at Grinnell College. If more than 50% of the
-    votes at the election are for the union, it will be certified, and the
-    college will be required to start bargaining over wages, benefits, and
-    workplace conditions.
 author: UGSDW
 ---
 
