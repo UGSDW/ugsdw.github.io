@@ -17,4 +17,3 @@ GRINNELL, IOWA — The Union of Grinnell Student Dining Workers (UGSDW) Executiv
 The only independent undergraduate labor union in the country, UGSDW fights for fair pay and benefits for all workers at Grinnell College. The union represents over 500 students, or about 30% of the total student population.
 
 Grinnell College is a small, private, liberal arts college located in Grinnell, Iowa.  Founded in 1846, Grinnell has been a consistent leader in social justice issues.  According to its mission statement, the College “aims to graduate individuals who can think clearly, who can speak and write persuasively and even eloquently, who can evaluate critically both their own and others’ ideas, who can acquire new knowledge, and who are prepared in life and work to use their knowledge and their abilities to serve the common good.”
-
