@@ -2,10 +2,6 @@
 published: true
 title: 2017–2018 Officer Elections
 author: Cory McCartan
-excerpt: >-
-  UGSDW officer elections will be held on <b>Saturday, May 6, from 4:00 p.m. to
-  6:00 p.m. in JRC 209.</b> All four Executive Board positions will be elected
-  to a term of one year.
 ---
 
 ![Ballot box]({{site.baseurl}}/assets/news/ballot-box-stock.jpg)
