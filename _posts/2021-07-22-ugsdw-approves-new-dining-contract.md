@@ -2,10 +2,6 @@
 release: true
 published: true
 title: UGSDW Approves New Dining Contract
-excerpt: >-
-  The new dining contract includes a significant base wage increase, an improved
-  point system, and more. The contract will remain in effect until July 2023.
-author: UGSDW
 ---
 #### Press Release
 
