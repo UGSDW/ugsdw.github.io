@@ -2,9 +2,6 @@
 release: true
 published: true
 title: UGSDW's New Year Resolution
-excerpt: >-
-  UGSDW revisits a historic year of labor organizing, and envisions the fight to
-  build a powerful union for all working students in 2019.
 author: UGSDW
 date: 2019-01-01T02:45:00.000Z
 ---
