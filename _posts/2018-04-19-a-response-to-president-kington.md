@@ -2,14 +2,6 @@
 release: false
 published: true
 title: A Response to President Kington
-excerpt: >-
-  Today President Kington sent out a Special Campus Memo addressing our ongoing
-  unionization efforts.  The memo is full of vague statements, and a few
-  thinly-veiled threats.  Notably absent is the recognition we have been
-  fighting for: that student workers are employees and have the right to
-  organize.  The administration refuses to treat us as such; instead they
-  advance an argument against unionization that is simply unsupported by the
-  facts.
 author: UGSDW
 ---
 Dear Grinnellians: 
