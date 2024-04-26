@@ -3,12 +3,6 @@ release: false
 published: true
 title: Our Next Steps in the Time of COVID-19
 author: UGSDW
-excerpt: >-
-  This is a time when our solidarity and community become so much more
-  important. Know that UGSDW as an organization is here for all of you. In this
-  tumultuous time, we are striving to use every tool in our arsenal to maintain
-  our fight for economic and social justice for all members of the Grinnell
-  community.
 ---
 *Updated March 15th, 2020*
 
