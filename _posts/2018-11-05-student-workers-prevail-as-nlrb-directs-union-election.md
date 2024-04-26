@@ -3,10 +3,6 @@ release: true
 published: true
 title: Student Workers Prevail as NLRB Directs Union Election
 author: UGSDW
-excerpt: >
-  On Monday, November 5, the Regional Director of the NLRB in Minneapolis
-  published a decision about our pending unionization case, directing an
-  election for November 27.
 press-release: true
 ---
 #### Press Release
