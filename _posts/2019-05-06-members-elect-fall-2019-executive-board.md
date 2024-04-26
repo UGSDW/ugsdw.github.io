@@ -3,9 +3,6 @@ release: true
 published: true
 title: Members Elect Fall 2019 Executive Board
 author: Evangeline Bolles-Rioux
-excerpt: >-
-  UGSDW voted on May 4, 2019 to elect officers of the Executive Board. The newly
-  elected officers will assume office on July 1, 2019
 ---
 #### Press Release
 
