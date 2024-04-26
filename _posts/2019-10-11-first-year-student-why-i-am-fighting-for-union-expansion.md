@@ -3,10 +3,6 @@ release: false
 published: true
 title: 'First Year Student: Why I am Fighting for Union Expansion'
 author: Isaiah Gutman
-excerpt: >-
-  Although Grinnell has many draws, like its strong academics and the intimate
-  campus, one of the primary reasons I came here was the Union of Grinnell
-  Student Dining Workers.
 ---
 ### I came here for UGSDW. Now I am fighting to expand it 
 
