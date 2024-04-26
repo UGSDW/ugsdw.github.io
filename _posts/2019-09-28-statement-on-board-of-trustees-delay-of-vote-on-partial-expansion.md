@@ -3,9 +3,6 @@ release: true
 published: true
 title: Statement on Board of Trustees Delay of Vote on Partial Expansion
 author: UGSDW
-excerpt: >-
-  Trustees delayed decision on partial expansion at the last minute again. UGSDW
-  members are deeply disappointed.
 ---
 #### Press Release
 
