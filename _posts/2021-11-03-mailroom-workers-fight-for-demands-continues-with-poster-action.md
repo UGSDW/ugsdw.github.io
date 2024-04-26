@@ -3,12 +3,6 @@ release: true
 published: true
 title: Mailroom Workers’ Fight for Demands Continues with Poster Action
 author: UGSDW
-excerpt: >-
-  This morning, mailroom supervisors came into a workplace covered in posters
-  demanding immediate action on demands put forth by mailroom workers last
-  month. Mailroom workers took action to reiterate their demands after the
-  College opened an investigation into the hostile work environment in the
-  mailroom.
 ---
 #### Press Release
 
