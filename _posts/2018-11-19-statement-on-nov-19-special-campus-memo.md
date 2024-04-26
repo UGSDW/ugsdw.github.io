@@ -3,10 +3,6 @@ published: true
 title: Statement on Nov. 19 Special Campus Memo
 author: UGSDW
 release: true
-excerpt: >
-    Grinnell College has filed a motion to stay the union election and prevent 
-    student workers from voting.  UGSDW is fighting tooth and nail to keep the
-    election on track.
 ---
 #### Press Release 
 
