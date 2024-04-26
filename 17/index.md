@@ -4,6 +4,7 @@ css: special
 title: 2017–2018 Contract Fight
 published: true
 members: 0
+banner-text: WE
 ---
 
 <div class="text-banner">
