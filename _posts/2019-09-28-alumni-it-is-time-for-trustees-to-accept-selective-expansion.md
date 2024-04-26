@@ -2,10 +2,6 @@
 release: false
 published: true
 title: 'Alumni: It is Time for Trustees to Accept Selective Expansion '
-excerpt: >-
-  Ahead of the October Board of Trustees meeting, 200 Grinnell alumni urges
-  trustees to accept partial expansion of union representation to student
-  workers.
 ---
 ### Open Letter Signed by 200 Alumni in Support of Partial Expansion 
 
