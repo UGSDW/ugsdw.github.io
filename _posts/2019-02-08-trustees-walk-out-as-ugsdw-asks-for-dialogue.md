@@ -3,10 +3,6 @@ release: false
 published: true
 title: Trustees Walk Out as UGSDW Asks for Dialogue
 author: UGSDW
-excerpt: >-
-  On February 8, to reiterate our demand for President Kington to meet with us
-  and discuss our ongoing expansion campaign, 40 UGSDW members peacefully
-  disrupted a meeting of the trustees of the college.
 ---
 On February 8, to reiterate our demand for President Kington to meet with us and discuss our ongoing expansion campaign, 40 UGSDW members peacefully disrupted a meeting of the trustees of the college. Tellingly, the trustees walked out on us as we sang about “love between our brothers and our sisters.”  
 
