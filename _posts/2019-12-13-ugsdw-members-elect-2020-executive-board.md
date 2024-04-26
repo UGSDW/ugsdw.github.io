@@ -3,9 +3,6 @@ release: true
 published: true
 title: UGSDW Members Elect 2020 Executive Board
 author: UGSDW
-excerpt: >-
-  Members voted in Decemeber to elect 2020 Executive Board. The newly elected
-  officers will assume office on January 1, 2020.
 ---
 #### Press Release
 
