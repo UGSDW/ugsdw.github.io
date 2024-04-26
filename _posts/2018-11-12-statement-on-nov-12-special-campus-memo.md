@@ -3,10 +3,6 @@ release: true
 published: true
 title: Statement on Nov. 12 Special Campus Memo
 author: UGSDW
-excerpt: >
-  On Monday, Grinnell College administration released yet another Special Campus
-  Memo  responding to UGSDW’s continued fight for worker’s rights. They are
-  grasping at straws.
 ---
 #### Press Release 
 
