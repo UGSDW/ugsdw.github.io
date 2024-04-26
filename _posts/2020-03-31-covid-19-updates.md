@@ -3,10 +3,6 @@ release: false
 published: true
 title: 'COVID-19 Updates (March 31st, 2020)'
 author: UGSDW
-excerpt: >-
-  We are pushing the administration to clarify new student worker policies. We
-  encourage   all student workers to fill out our COVID-19 survey, and join us
-  at the online union  meeting on April 12th.
 ---
 Dear UGSDW Members:
 
