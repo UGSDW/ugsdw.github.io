@@ -2,9 +2,6 @@
 release: true
 published: true
 title: Solidarity with K-SWOC
-excerpt: >-
-  UGSDW Stands in Solidarity with the Kenyon Student Worker Organizing Committee
-  and Strike Participants
 author: UGSDW
 ---
 #### Press Release
