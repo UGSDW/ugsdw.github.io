@@ -3,10 +3,6 @@ release: true
 published: true
 title: Grinnell College Threatens Union Members in Latest Blow to Civil Discourse
 author: UGSDW
-excerpt: >
-  On Friday, after a successful labor action by UGSDW activists, Grinnell
-  College made more baseless claims that jeopardize our campus's essential
-  freedoms.
 ---
 #### Press Release
 
