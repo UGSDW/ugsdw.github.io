@@ -30,7 +30,7 @@ the workplace. Wages and hours are set arbitrarily by the administration, and
 
 Together, we can advocate for our common goals in a way that has not been possible before. Student workers in Dining Services have fought for, and won, [key improvements](https://www.ugsdw.org/2019/06/10/student-dining-workers-ratify-new-contract-with-grinnell-college-for-academic-year-2019-2020/) in wages and working conditions through UGSDW. Student workers outside Dining Services ought to have the right to do the same. 
 
-<!-- ![Expansion announcement](/assets/news/expansion_watching.jpg)
+![Expansion announcement](/assets/news/expansion_watching.jpg)
 
 <a href="/together/faq/" class="button">Learn More: Frequently Asked Questions &raquo;</a>
 <br>
@@ -113,4 +113,4 @@ they reserve the right to fire employees for being "too sick," we believe
 that leave for medical treatment, family emergencies, and illness is a basic
 right.  Giving employees one paid sick day a semester would discourage them
 from working while sick and endangering their peers.
-{% endcomment %} -->
+{% endcomment %}
